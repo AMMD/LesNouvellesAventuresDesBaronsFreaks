@@ -44,7 +44,7 @@ Décrit la ville avec enthousiame en utilisant les instruments de nico.
 [Panneau Saladin]
 "Et vous? vous faites quoi comme métier?"
 [Panneau Dags] 
-"Prestidigitateur! bien sûr! Vous pouvez vous installez ici. Vous viendrez voir notre spectacle en fin de journée. En attendant prenez de faire un tour"
+"Prestidigitateur! bien sûr! Vous pouvez vous installez ici. Vous viendrez voir notre spectacle en fin de journée. En attendant prenez le temps de faire un tour"
 
 Trois petites scenette, BFs Vs Freaks (Chaussures!)
 Rasp : fakir (julios) demande d'enlever les chassures. Rasp s'execute, Les chaussures fuient... vers le Train Fantome. (Fakir balaye la braise sur laquelle raspoutine à marché)
@@ -88,14 +88,29 @@ cigares qui affichent de la pub
 
 
 Retour au cirque
+Spectacle du soir assez typique (trapère, magie, voyante...)
+Les Bfs vont  au spectacle. spectacle à l'ecran, BF au plateau. Doah file en coulisse et se retrouve au cymbalum au plateau.
+Doah passe devant la cabine regie et se fait virer par Dédé. " chaussures! c'est reservé au personnel technique, va-t-en!"
+Les spectacles se déroulent (à l'ecran). Saldin applaudi à fond. 
+Doah arrive en loge pendant la preparation de numéros chelous/freaks.
+
+
+Pendant le spectacle Raspoutine repère un cable non branché et tente de le brancher. saladin l'empèche (facon grande vadrouille et fleurs). 
+A la fin il finit par brancher. Dédé electrocuté, fumée dans la cabine, et feu d'artifices derrière Dagz.
+
+Spectacle de Dags en final, Doah fait foirer des trucs, (cigarette, veste tomtom exteincteur incendit, stylo, pièce)
+Dags fait les gros yeux, mais feu d'artifice s'allume au moment où il leve les bras, exaspéré.
+Trymphe!
+Fondu au noir.
+Fin spectacle famille Dlamancha, range et balaie le sol. Dagz retrouvé Dédé collé à la console en mode fumeux...
+EM les felicite et leur propose les paillassons. Dagz refuse.
+plan ambulance brancard. famille en deuil. BF presents. (coup du drps qui dévoile, ou doigts qui déconnent...le coup du frigo)
+Dagz "comment on va faire maintenant?..." 
+BF "on peut vous aider?"
 
 
 
 
 
-Incise Les méchants prepare une embrouille
-
-
-Les Bfs vont  au spectacle.
 
 
