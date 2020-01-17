@@ -31,7 +31,7 @@ un 3eme? oui bien sur!
 ah plus de clarinette! flûte
 applaudissement
 [Panneau Dags] 
-"Bienvenue à Vanupié,Nous sommes les sans shoes de la mancha, ma femme Dalida de la Mancha,  ma fille Veronique sans shoes de la mancha, mon beau père .... "
+"Bienvenue à Vanupié,Nous sommes les sans shoes de la mancha, ma femme Dalida de la Mancha,  ma mère Veronique sans shoes de la mancha, mon beau père .... "
 
 [Panneau Saladin] 
 Comment ca! Nous ne sommes pas à Belleville?
@@ -44,28 +44,57 @@ Décrit la ville avec enthousiame en utilisant les instruments de nico.
 [Panneau Saladin]
 "Et vous? vous faites quoi comme métier?"
 [Panneau Dags] 
-"Prestidigitateur! bien sûr! Vous pouvez vous installez ici. Vous viendrez voir notre spectacle en fin de journée. En attendant penez de faire un tour"
+"Prestidigitateur! bien sûr! Vous pouvez vous installez ici. Vous viendrez voir notre spectacle en fin de journée. En attendant prenez de faire un tour"
 
 Trois petites scenette, BFs Vs Freaks (Chaussures!)
-Rasp : fakir (julios) demande d'enlever les chassures. Rasp s'execute, Les chaussures fuient... vers le Train Fantome. (Fakir balaye la braise)
+Rasp : fakir (julios) demande d'enlever les chassures. Rasp s'execute, Les chaussures fuient... vers le Train Fantome. (Fakir balaye la braise sur laquelle raspoutine à marché)
 
 Saladin: il rencontre Dalida de la mancha, qui prépare des Noeuds coulants, et aiguise des couteaux Saladin stresse. elle qui lui dit : 
 [Panneau] "Chaussures!"
-Saladin rassuré enlève sa chaussure, crache dessus et la lustre. Il sent à l'intérieur, trop fier de lui. Il lui propose de sentir, elle refuse et part s'affairer à son trapèze, les couteux la halbarde et les poisons. Saladin regarde quelque temps et repart.
+Saladin rassuré enlève sa chaussure, crache dessus et la lustre. Il sent à l'intérieur, trop fier de lui. Il lui propose de sentir, elle refuse et part s'affairer à son trapèze, les couteaux la halbarde et les poisons. Saladin regarde quelque temps et repart.
 
-Doah: Doah se balade les mains dans le dos en sifflotant, et rentre dans une caravne/tente. C'est celle de la voyante
+Doah: Doah se balade les mains dans le dos en sifflotant, et rentre dans une caravane/tente. C'est celle de la voyante
 "Chassures" 
-Doah va s'assoir et refait son lacet. il fait tomber la tasse de café, la gitane (voit des choses dans le fond de la tasse) rentre en transe.
+Doah va s'assoir et refait son lacet. il pose le pied sur la table. il fait tomber la tasse de café, la gitane (voit des choses dans le fond de la tasse) rentre en transe.
 [Panneau]
 La Prophétie
-A la fin de la prophétie, elle fait un geste qui donne à Doah un objet dans la main.
+A la fin de la prophétie, elle fait un geste qui donne à Doah un objet dans la main. (boite à meuh??)
 
 Doah sort.
 
 Les BFs se retrouvent. 
 
 
+##Animation##
+Dé-zoom du cirque et va vers la ville
+Rentre dans un immeuble (Trompe Tour)
+(grande pièce avec grand bureau (Cf Mr Burns) (safety last 43:28)
+
+##Camera##
+2 personnes discutent.  Paillasson Man derrière le bureau, Eneddys Mitchell devant.
+-PM est un publicitaire qui veut mattre de la pub partout. Il veut etendre so emprise publicitaire, il n'y a que la zad des vanupié, qui leur résiste, car pas de mur à leur carvane.
+sequence viedo powerpoint, avec check  bien ou pas. immeuble parfait/tente raté.
+(buzz perd ses cheveux sur la tente et le slogan deconne, pub pour un shampoing ou salon de coiffure de M. Delameshelcouptif)
+A la suite de la presentation PM propose au talentueux publicitaire EM qui a eu tant de bonnes idées (cigares publicitaire, machine a ecrire/internet...)
+Le marketeux, Eneddys Mitcheum (Romeo Engie?), a une idée géniale, le paillasson publicitaire.
+"Panneaux texte"
+Presentatrion
+Vidéo d'un gars qui pose un paillason sur un pas de porte, (casquette laitier, sacoche paillasson)
+Une personne ouvre la porte, pub démarre sur le paillasson. 
+On passe au lendemain, avec nouveau paillasson, nouvelle pub.
+
+Ils sont enchanté et se serrent la main et fument un cigare. 
+cigares qui affichent de la pub
+
+
+Retour au cirque
+
+
+
+
+
 Incise Les méchants prepare une embrouille
+
 
 Les Bfs vont  au spectacle.
 
