@@ -3,16 +3,23 @@ Départ au noir plateau
 
 [panneau pub]
 "texte qui vante la ville"
+Les Barons marchent et arrivent devant le panneau.
+-->BFs voient le panneau, interessés,
 
 ##Animation cartoon western story##
--->BFs voient le panneau, interessés, déambulation des BFs direction ville.
+déambulation des BFs direction ville.
 Le soleil se couche en dégradé.
+les BF ouvrent leur valise (doah) et baluchon (rasp) qui se transforment en caravane/tente?
 
 [panneau Titre]
-Les aventures des Barons Freaks
+Les nouvelles aventures des Barons Freaks
 
 ##Camera##
 chacun se prepare à aller dormir.[staring]
+
+
+
+Acte 1
 
 ##Théâtre##
 reveil au plateau, ouverture rideau, chacun dans sa position du soir.
