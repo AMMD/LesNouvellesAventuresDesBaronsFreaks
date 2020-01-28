@@ -19,7 +19,7 @@ chacun se prepare à aller dormir.[staring]
 
 
 
-Acte 1
+--Acte 1---------------------------------------------------------------------------
 
 ##Théâtre##
 reveil au plateau, ouverture rideau, chacun dans sa position du soir.
@@ -43,7 +43,7 @@ applaudissement
 [Panneau Saladin] 
 Comment ca! Nous ne sommes pas à Belleville?
 
-[Panneau DscdlMancha]
+[Panneau SscdlMancha]
 Ah si, vous êtes à Vanupié, quartier central de Belleville.
 
 Décrit la ville avec enthousiame en utilisant les instruments de nico.
@@ -53,7 +53,9 @@ Décrit la ville avec enthousiame en utilisant les instruments de nico.
 [Panneau Dags] 
 "Prestidigitateur! bien sûr! Vous pouvez vous installez ici. Vous viendrez voir notre spectacle en fin de journée. En attendant prenez le temps de faire un tour"
 
-Trois petites scenette, BFs Vs Freaks (Chaussures!)
+--Acte2-------------------------------------------------------------------------
+
+Trois petites scénette, BFs Vs Freaks (Chaussures!)
 Rasp : fakir (julios) demande d'enlever les chassures. Rasp s'execute, Les chaussures fuient... vers le Train Fantome. (Fakir balaye la braise sur laquelle raspoutine à marché)
 
 Saladin: il rencontre Dalida de la mancha, qui prépare des Noeuds coulants, et aiguise des couteaux Saladin stresse. elle qui lui dit : 
@@ -136,7 +138,7 @@ Le fakir tente de remettre le pied sur le paillasson et finalament confortable! 
 
 Raspoutine fait sauter les crepes au plateau.
 K&W mettent un paillassons sous la boule de crystal. 
-VS acceuiilee saladin chez elle. Elle lui présente la boule d crystal, La pub (pour le ventilo avec saladin) apparait dans la boule. 
+VS acceuiilee saladin chez elle. Elle lui présente la boule de crystal, La pub (pour le ventilo avec saladin) apparait dans la boule. 
 VS voit saladin dans groupe de hard-rock-glam dans boule, hallucine, enlève ses lunettes, se ressaisit, regarde une 2nde fois, et voit Saladin faire de la moto turban au vent, elle re-hallucine ferme les yeux pour se concentrer.
 raps envoie une crepe trop loin. elle tombe sur la boule de crystal.  VS mets les mains sur la boule. Touche la pate pas tres cuite. les essuient sur le paillasson. fait tourner la table. La boule disparaît, remplacée par un jeu de tarot. La voyante reprend sa voyance, fondu au noir.
 
