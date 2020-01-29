@@ -19,7 +19,7 @@ chacun se prepare à aller dormir.[staring]
 
 
 
---Acte 1---------------------------------------------------------------------------
+-- Acte 1 ---------------------------------------------------------------------------
 
 ##Théâtre##
 reveil au plateau, ouverture rideau, chacun dans sa position du soir.
@@ -53,7 +53,7 @@ Décrit la ville avec enthousiame en utilisant les instruments de nico.
 [Panneau Dags] 
 "Prestidigitateur! bien sûr! Vous pouvez vous installez ici. Vous viendrez voir notre spectacle en fin de journée. En attendant prenez le temps de faire un tour"
 
---Acte 2-------------------------------------------------------------------------
+-- Acte 2 -------------------------------------------------------------------------
 
 Trois petites scénette, BFs Vs Freaks (Chaussures!)
 Rasp : fakir (julios) demande d'enlever les chassures. Rasp s'execute, Les chaussures fuient... vers le Train Fantome. (Fakir balaye la braise sur laquelle raspoutine à marché)
@@ -73,7 +73,7 @@ Doah sort.
 
 Les BFs se retrouvent. 
 
---Acte 3-----------------------------------------------------------------------------
+-- Acte 3 -----------------------------------------------------------------------------
 
 ##Animation##
 Dé-zoom du cirque et va vers la ville
@@ -96,7 +96,7 @@ On passe au lendemain, avec nouveau paillasson, nouvelle pub.
 Ils sont enchanté et se serrent la main et fument un cigare. 
 cigares qui affichent de la pub
 
--- Acte 4-------------------------------------------------------------------------------
+-- Acte 4 -------------------------------------------------------------------------------
 
 Retour au cirque
 Spectacle du soir assez typique (trapère, magie, voyante...)
