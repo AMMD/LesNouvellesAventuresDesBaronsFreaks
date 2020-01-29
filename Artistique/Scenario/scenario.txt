@@ -53,14 +53,14 @@ Décrit la ville avec enthousiame en utilisant les instruments de nico.
 [Panneau Dags] 
 "Prestidigitateur! bien sûr! Vous pouvez vous installez ici. Vous viendrez voir notre spectacle en fin de journée. En attendant prenez le temps de faire un tour"
 
---Acte2-------------------------------------------------------------------------
+--Acte 2-------------------------------------------------------------------------
 
 Trois petites scénette, BFs Vs Freaks (Chaussures!)
 Rasp : fakir (julios) demande d'enlever les chassures. Rasp s'execute, Les chaussures fuient... vers le Train Fantome. (Fakir balaye la braise sur laquelle raspoutine à marché)
 
 Saladin: il rencontre Dalida de la mancha, qui prépare des Noeuds coulants, et aiguise des couteaux Saladin stresse. elle qui lui dit : 
 [Panneau] "Chaussures!"
-Saladin rassuré enlève sa chaussure, crache dessus et la lustre. Il sent à l'intérieur, trop fier de lui. Il lui propose de sentir, elle refuse et part s'affairer à son trapèze, les couteaux la halbarde et les poisons. Saladin regarde quelque temps et repart.
+Saladin rassuré enlève sa chaussure, crache dessus et la lustre. Il sent à l'intérieur, trop fier de lui. Il lui propose de sentir, elle refuse et part s'affairer à son trapèze, les couteaux la hallebarde et les poisons. Saladin regarde quelque temps et repart.
 
 Doah: Doah se balade les mains dans le dos en sifflotant, et rentre dans une caravane/tente. C'est celle de la voyante
 "Chassures" 
@@ -73,6 +73,7 @@ Doah sort.
 
 Les BFs se retrouvent. 
 
+--Acte 3-----------------------------------------------------------------------------
 
 ##Animation##
 Dé-zoom du cirque et va vers la ville
@@ -95,6 +96,7 @@ On passe au lendemain, avec nouveau paillasson, nouvelle pub.
 Ils sont enchanté et se serrent la main et fument un cigare. 
 cigares qui affichent de la pub
 
+-- Acte 4-------------------------------------------------------------------------------
 
 Retour au cirque
 Spectacle du soir assez typique (trapère, magie, voyante...)
@@ -117,6 +119,7 @@ Dagz "comment on va faire maintenant?..."
 BF "on peut vous aider?"
 Dagz serre la main ou tape sur épaule.
 
+-- Acte 5 ----------------------------------------------------------------------------
 
 EM chez PM, qui lui demande si ça a bien marché. 
 "Oui, oui, oui, pas de pb, enfin ca va aller..."
