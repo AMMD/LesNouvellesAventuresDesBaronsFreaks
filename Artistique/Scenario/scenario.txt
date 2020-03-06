@@ -19,7 +19,7 @@ chacun se prepare à aller dormir.[staring]
 
 
 
--- Acte 1 ---------------------------------------------------------------------------
+-- Acte 1 -- Arrivée en ville ---------------------------------------------------------------------------
 
 ##Théâtre##
 reveil au plateau, ouverture rideau, chacun dans sa position du soir.
@@ -53,7 +53,7 @@ Décrit la ville avec enthousiame en utilisant les instruments de nico.
 [Panneau Dags] 
 "Prestidigitateur! bien sûr! Vous pouvez vous installez ici. Vous viendrez voir notre spectacle en fin de journée. En attendant prenez le temps de faire un tour"
 
--- Acte 2 -------------------------------------------------------------------------
+-- Acte 2 -- Le campement -------------------------------------------------------------------------
 
 Trois petites scénette, BFs Vs Freaks (Chaussures!)
 Rasp : fakir (julios) demande d'enlever les chassures. Rasp s'execute, Les chaussures fuient... vers le Train Fantome. (Fakir balaye la braise sur laquelle raspoutine à marché)
@@ -73,7 +73,8 @@ Doah sort.
 
 Les BFs se retrouvent. 
 
--- Acte 3 -----------------------------------------------------------------------------
+
+-- Acte 3 -- PM et EM -----------------------------------------------------------------------------
 
 ##Animation##
 Dé-zoom du cirque et va vers la ville
@@ -96,7 +97,8 @@ On passe au lendemain, avec nouveau paillasson, nouvelle pub.
 Ils sont enchanté et se serrent la main et fument un cigare. 
 cigares qui affichent de la pub
 
--- Acte 4 -------------------------------------------------------------------------------
+
+-- Acte 4 -- Le cirque -------------------------------------------------------------------------------
 
 Retour au cirque
 Spectacle du soir assez typique (trapère, magie, voyante...)
@@ -123,8 +125,6 @@ Dags jongle avec une chaussure et ... et ...
 Doah vole la chaussure
 
 
-
-
 Pendant le spectacle Raspoutine repère un cable non branché et tente de le brancher. saladin l'empèche (facon grande vadrouille et fleurs). 
 A la fin il finit par brancher. Dédé electrocuté, fumée dans la cabine, et feu d'artifices derrière Dagz.
 
@@ -138,7 +138,8 @@ Dagz "comment on va faire maintenant?..."
 BF "on peut vous aider?"
 Dagz serre la main ou tape sur épaule.
 
--- Acte 5 ----------------------------------------------------------------------------
+
+-- Acte 5 -- Soft & Rain ----------------------------------------------------------------------------
 
 EM chez PM, qui lui demande si ça a bien marché. 
 "Oui, oui, oui, pas de pb, enfin ca va aller..."
@@ -147,6 +148,7 @@ Les BF s'initient à la technique.
 
 EM se retrouve avec les 2 malfrats Wint & Kidd. (dans un tripot clandé)
 Panneau "placez des paillassons partout où vous pouvez"
+
 
 Raspoutine fait des crepes.
 
@@ -180,7 +182,9 @@ K&W vont faire leur rapport (dans le tripot) tout plein de bandages + bequilles.
 "on a eu affaire à des vrais pro, on a rien pu faire, ces vanupiés sont trop fort pour nous"
 
 
-------------------------------------------------
+
+-- Acte 6 -- Enedis Mitchell ----------------------------------------------------------------------------
+
 - Scenes apprentissage technique BF
 panneau " le spectacle se prépare"
 le fakir explique a Doah qu'il doit allumer le rayon X quand il entend le mot VOL. (numéro de haut vol)
@@ -196,7 +200,8 @@ A la sortie de l'immeuble, EM voit une affiche avec le MAG (style mesmer)
 EM va le recontrer dans un casino, MAG prouve qu'il est malin et méchant et un peu voleur.
 EM: "J'ai un travail bien payé pour toi, va discrediter les vanupiés"
 
--------------------------------------------------------
+
+---- Le Spectacle -----
 
 Spectacle de transformisme avec Rasp et YS. Rasp dort et ouvre le rideau au mauvais moment.
 MAG dans le public, on voit qu'il vole les bijous de ses voisins.
@@ -211,6 +216,8 @@ Indignation générale. accusation...
 Doah se souvient du mot Vol (bulle de pensée avec la scene d'explication du fakir) et appuie sur un bouton marqué lumière rayon X superpuissant. et fait apparaitre les objets cachés sur MAG comme docteur Maboul.
 Il fuit en etant poursuivit par la foule (de squelette)
 
+
+-- Acte 7 -- Tractobotte et Cie ----------------------------------------------------------------------------
 
 - Débriefing MAG chez PM avec EM. "j'a pas reussi chef".
 PM: "Ca suffit! il est temps d'y mettre les grands moyens"
@@ -239,6 +246,9 @@ Elle atterit dans le moteur du tractobotte et bloque un engrenage. Le tractobott
 Saladin est content et cherche à se faire féliciter, car il a réussi grace à son violon.
 un objet tombe du tractobotte, c'est la boite à meuh et elle tombe sur Saladin (au plateau?)
 C'est la fête au campement.
+
+-- Acte 8 -- On the road again ----------------------------------------------------------------------------
+
 Le lendemain matin Dédé revient de l'hopital. Dédé allume les muières avec ses mains. Les Barons disent au revoir et reprennent la route.
 Dags: "bonne route, revenez quand vous voulez"
 plan des barons qui partent (Cf.: cinemascope)
