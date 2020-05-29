@@ -6,12 +6,27 @@ MATÉRIEL
       - possibilité de monitorer
 
   *Ordinateur Monitoring*
-  *Ordinateur Montage*
+   - ordi portable Nico
+  *Ordinateur Montage* -> dans une prison (à faire par ORL)
+   - ordi perso Souv
+   - ordi perso Nico
+   - ordi perso ORL
+   - ordi Plagiat pour master montage + post prod
+    
   *Ordinateur Animation*
+   - ordi Nico
+   
+  *Stockage*
+   - carte SD
+  
 
 LOGICIEL
   *Montage*
     - kdenlive
   *Animation*
     - synfigstudio
+  *Suivi de version*
+    - git
+  *Synchros des sources*
+    - rsync + script (à faire par ORL)
     
