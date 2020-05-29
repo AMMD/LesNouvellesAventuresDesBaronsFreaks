@@ -12,6 +12,7 @@ if [ -d $jailDir ]; then
 		echo -e "Terminé"
 	else
 		echo "Le dossier "$HDDDir" n'existe pas."
+	fi
 
 else
 	echo "Le dossier "$jailDir" n'existe pas."
