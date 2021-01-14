@@ -1,114 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <mlt LC_NUMERIC="C" producer="main_bin" version="6.25.0" root="/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Kdenlive/Acte2">
  <profile frame_rate_num="25" sample_aspect_num="1" display_aspect_den="9" colorspace="709" progressive="0" description="HD 1080i 25 fps" display_aspect_num="16" frame_rate_den="1" width="1920" height="1080" sample_aspect_den="1"/>
- <producer id="producer0" in="00:00:00.000" out="00:00:04.960">
-  <property name="length">00:00:05.000</property>
-  <property name="eof">pause</property>
-  <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte2/Sous-Acte3_Doah/Panneaux/Chaussures_1.png</property>
-  <property name="ttl">25</property>
-  <property name="aspect_ratio">1</property>
-  <property name="progressive">1</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
-  <property name="mlt_service">qimage</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:duration">00:00:05.000</property>
-  <property name="kdenlive:folderid">20</property>
-  <property name="kdenlive:id">25</property>
-  <property name="kdenlive:file_size">1013504</property>
-  <property name="kdenlive:file_hash">916bb1d530eaf87da96bc9067d877f20</property>
- </producer>
- <producer id="producer1" in="00:00:00.000" out="00:00:51.560">
-  <property name="length">1290</property>
-  <property name="eof">pause</property>
-  <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte2/Sous-Acte3_Doah/Panneaux/Chaussures_2.png</property>
-  <property name="ttl">25</property>
-  <property name="aspect_ratio">1</property>
-  <property name="progressive">1</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
-  <property name="mlt_service">qimage</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:duration">00:00:05.000</property>
-  <property name="kdenlive:folderid">20</property>
-  <property name="kdenlive:id">26</property>
-  <property name="kdenlive:file_size">1016345</property>
-  <property name="kdenlive:file_hash">04c867ee68d375dc9ea6fa7d93eb5a4c</property>
- </producer>
- <producer id="producer2" in="00:00:00.000" out="00:00:22.040">
-  <property name="length">552</property>
-  <property name="eof">pause</property>
-  <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte2/Sous-Acte3_Doah/Panneaux/Chaussures_3.png</property>
-  <property name="ttl">25</property>
-  <property name="aspect_ratio">1</property>
-  <property name="progressive">1</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
-  <property name="mlt_service">qimage</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:duration">00:00:05.000</property>
-  <property name="kdenlive:folderid">20</property>
-  <property name="kdenlive:id">27</property>
-  <property name="kdenlive:file_size">1017392</property>
-  <property name="kdenlive:file_hash">bc8e266de3a25b2ea6c508f9bb70344f</property>
- </producer>
- <producer id="producer3" in="00:00:00.000" out="00:00:04.960">
-  <property name="length">00:00:05.000</property>
-  <property name="eof">pause</property>
-  <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte2/Sous-Acte3_Doah/Panneaux/Chaussures_4.png</property>
-  <property name="ttl">25</property>
-  <property name="aspect_ratio">1</property>
-  <property name="progressive">1</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
-  <property name="mlt_service">qimage</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:duration">00:00:05.000</property>
-  <property name="kdenlive:folderid">20</property>
-  <property name="kdenlive:id">28</property>
-  <property name="kdenlive:file_size">1018604</property>
-  <property name="kdenlive:file_hash">80539589837e8ab1688304fd0d8d7680</property>
- </producer>
- <producer id="producer4" in="00:00:00.000" out="00:00:13.240">
-  <property name="length">332</property>
-  <property name="eof">pause</property>
-  <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte2/Sous-Acte3_Doah/Panneaux/Chaussures_5.png</property>
-  <property name="ttl">25</property>
-  <property name="aspect_ratio">1</property>
-  <property name="progressive">1</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
-  <property name="mlt_service">qimage</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:duration">00:00:05.000</property>
-  <property name="kdenlive:folderid">20</property>
-  <property name="kdenlive:id">29</property>
-  <property name="kdenlive:file_size">1015516</property>
-  <property name="kdenlive:file_hash">2fe527b35dc3a506082c956763f2ec88</property>
- </producer>
- <producer id="producer5" in="00:00:00.000" out="00:00:04.960">
-  <property name="length">00:00:05.000</property>
-  <property name="eof">pause</property>
-  <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte2/Sous-Acte3_Doah/Panneaux/Chaussures_6.png</property>
-  <property name="ttl">25</property>
-  <property name="aspect_ratio">1</property>
-  <property name="progressive">1</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.width">1920</property>
-  <property name="meta.media.height">1080</property>
-  <property name="mlt_service">qimage</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:duration">00:00:05.000</property>
-  <property name="kdenlive:folderid">20</property>
-  <property name="kdenlive:id">30</property>
-  <property name="kdenlive:file_size">1014607</property>
-  <property name="kdenlive:file_hash">170c046db9c3576a13858cce154e9ed9</property>
- </producer>
  <producer id="producer17" in="00:00:00.000" out="00:05:39.000">
   <property name="length">8476</property>
   <property name="eof">pause</property>
@@ -2115,6 +2007,114 @@
   <property name="meta.media.progressive">1</property>
   <property name="kdenlive:active_streams">-1</property>
  </producer>
+ <producer id="producer0" in="00:00:00.000" out="00:00:04.960">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte2/Sous-Acte3_Doah/Panneaux/Chaussures_1.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">20</property>
+  <property name="kdenlive:id">21</property>
+  <property name="kdenlive:file_size">1013504</property>
+  <property name="kdenlive:file_hash">916bb1d530eaf87da96bc9067d877f20</property>
+ </producer>
+ <producer id="producer1" in="00:00:00.000" out="00:00:51.560">
+  <property name="length">1290</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte2/Sous-Acte3_Doah/Panneaux/Chaussures_2.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">20</property>
+  <property name="kdenlive:id">23</property>
+  <property name="kdenlive:file_size">1016345</property>
+  <property name="kdenlive:file_hash">04c867ee68d375dc9ea6fa7d93eb5a4c</property>
+ </producer>
+ <producer id="producer2" in="00:00:00.000" out="00:00:22.040">
+  <property name="length">552</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte2/Sous-Acte3_Doah/Panneaux/Chaussures_3.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">20</property>
+  <property name="kdenlive:id">25</property>
+  <property name="kdenlive:file_size">1017392</property>
+  <property name="kdenlive:file_hash">bc8e266de3a25b2ea6c508f9bb70344f</property>
+ </producer>
+ <producer id="producer3" in="00:00:00.000" out="00:00:04.960">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte2/Sous-Acte3_Doah/Panneaux/Chaussures_4.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">20</property>
+  <property name="kdenlive:id">26</property>
+  <property name="kdenlive:file_size">1018604</property>
+  <property name="kdenlive:file_hash">80539589837e8ab1688304fd0d8d7680</property>
+ </producer>
+ <producer id="producer4" in="00:00:00.000" out="00:00:13.240">
+  <property name="length">332</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte2/Sous-Acte3_Doah/Panneaux/Chaussures_5.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">20</property>
+  <property name="kdenlive:id">27</property>
+  <property name="kdenlive:file_size">1015516</property>
+  <property name="kdenlive:file_hash">2fe527b35dc3a506082c956763f2ec88</property>
+ </producer>
+ <producer id="producer5" in="00:00:00.000" out="00:00:04.960">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte2/Sous-Acte3_Doah/Panneaux/Chaussures_6.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">20</property>
+  <property name="kdenlive:id">28</property>
+  <property name="kdenlive:file_size">1014607</property>
+  <property name="kdenlive:file_hash">170c046db9c3576a13858cce154e9ed9</property>
+ </producer>
  <producer id="producer24" in="00:00:00.000" out="00:00:04.960">
   <property name="length">00:00:05.000</property>
   <property name="eof">pause</property>
@@ -2129,7 +2129,7 @@
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:duration">00:00:05.000</property>
   <property name="kdenlive:folderid">20</property>
-  <property name="kdenlive:id">31</property>
+  <property name="kdenlive:id">29</property>
   <property name="kdenlive:file_size">1022499</property>
   <property name="kdenlive:file_hash">5b5aeacace06618f4524a71f508cfdc2</property>
  </producer>
@@ -2145,7 +2145,7 @@
   <property name="aspect_ratio">1</property>
   <property name="kdenlive:clipname">green screen coffee at DuckDuckGo.mkv</property>
   <property name="kdenlive:folderid">33</property>
-  <property name="kdenlive:id">34</property>
+  <property name="kdenlive:id">30</property>
   <property name="kdenlive:file_size">8359114</property>
   <property name="kdenlive:file_hash">f6c3ff3662589e3964e4abb99b398036</property>
   <property name="kdenlive:proxy">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/f6c3ff3662589e3964e4abb99b398036.mkv</property>
@@ -2248,7 +2248,11 @@
   <property name="meta.media.progressive">1</property>
  </producer>
  <playlist id="main_bin">
-  <property name="kdenlive:docproperties.activeTrack">7</property>
+  <property name="kdenlive:folder.-1.20">Panneaux</property>
+  <property name="kdenlive:folder.-1.22">PlansLarges</property>
+  <property name="kdenlive:folder.-1.24">PlansRapprochés</property>
+  <property name="kdenlive:folder.-1.33">GreenScreen</property>
+  <property name="kdenlive:docproperties.activeTrack">8</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
   <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
@@ -2263,7 +2267,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.12.1</property>
-  <property name="kdenlive:docproperties.position">1868</property>
+  <property name="kdenlive:docproperties.position">1862</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">atsc_1080i_50</property>
@@ -2272,28 +2276,18 @@
   <property name="kdenlive:docproperties.proxyimagesize">800</property>
   <property name="kdenlive:docproperties.proxyminsize">1000</property>
   <property name="kdenlive:docproperties.proxyparams"/>
-  <property name="kdenlive:docproperties.scrollPos">1155</property>
+  <property name="kdenlive:docproperties.scrollPos">4791</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.storagefolder">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/1610619085784</property>
   <property name="kdenlive:docproperties.version">1</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">1</property>
+  <property name="kdenlive:docproperties.videoTarget">-1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">75</property>
-  <property name="kdenlive:docproperties.zoom">6</property>
+  <property name="kdenlive:docproperties.zoom">4</property>
   <property name="kdenlive:expandedFolders">33</property>
   <property name="kdenlive:documentnotes"/>
-  <property name="kdenlive:folder.-1.20">Panneaux</property>
-  <property name="kdenlive:folder.-1.22">PlansLarges</property>
-  <property name="kdenlive:folder.-1.24">PlansRapprochés</property>
-  <property name="kdenlive:folder.-1.33">GreenScreen</property>
   <property name="xml_retain">1</property>
-  <entry producer="producer0" in="00:00:00.000" out="00:00:04.960"/>
-  <entry producer="producer1" in="00:00:00.000" out="00:00:04.960"/>
-  <entry producer="producer2" in="00:00:00.000" out="00:00:04.960"/>
-  <entry producer="producer3" in="00:00:00.000" out="00:00:04.960"/>
-  <entry producer="producer4" in="00:00:00.000" out="00:00:04.960"/>
-  <entry producer="producer5" in="00:00:00.000" out="00:00:04.960"/>
   <entry producer="producer17" in="00:00:00.000" out="00:05:39.000"/>
   <entry producer="producer13" in="00:00:00.000" out="00:04:58.440"/>
   <entry producer="producer6" in="00:00:00.000" out="00:01:51.240"/>
@@ -2312,6 +2306,12 @@
   <entry producer="producer21" in="00:00:00.000" out="00:00:47.000"/>
   <entry producer="producer22" in="00:00:00.000" out="00:00:35.480"/>
   <entry producer="producer23" in="00:00:00.000" out="00:00:06.680"/>
+  <entry producer="producer0" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer1" in="00:00:00.000" out="00:00:51.560"/>
+  <entry producer="producer2" in="00:00:00.000" out="00:00:22.040"/>
+  <entry producer="producer3" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer4" in="00:00:00.000" out="00:00:13.240"/>
+  <entry producer="producer5" in="00:00:00.000" out="00:00:04.960"/>
   <entry producer="producer24" in="00:00:00.000" out="00:00:04.960"/>
   <entry producer="producer25" in="00:00:00.000" out="00:02:19.120"/>
  </playlist>
@@ -2495,9 +2495,9 @@
   <property name="kdenlive:trackheight">69</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:track_name">Plans Larges 2</property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
-  <property name="kdenlive:track_name">Plans Larges 2</property>
   <track hide="audio" producer="playlist4"/>
   <track producer="playlist5"/>
  </tractor>
@@ -2866,7 +2866,6 @@
   <blank length="00:00:08.480"/>
   <entry producer="producer29" in="00:00:04.880" out="00:00:07.600">
    <property name="kdenlive:id">4</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter3">
     <property name="version">0.1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -2885,7 +2884,6 @@
   </entry>
   <entry producer="producer29" in="00:00:07.640" out="00:01:51.240">
    <property name="kdenlive:id">4</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter4">
     <property name="version">0.1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
@@ -2905,7 +2903,6 @@
   <blank length="00:00:32.080"/>
   <entry producer="producer27" in="00:00:45.920" out="00:04:58.440">
    <property name="kdenlive:id">3</property>
-   <property name="kdenlive:activeeffect">-1</property>
   </entry>
  </playlist>
  <playlist id="playlist7"/>
@@ -2913,28 +2910,28 @@
   <property name="kdenlive:trackheight">69</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:track_name">Plans Larges </property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
-  <property name="kdenlive:track_name">Plans Larges </property>
   <track hide="audio" producer="playlist6"/>
   <track producer="playlist7"/>
  </tractor>
  <playlist id="playlist8">
   <blank length="00:00:11.920"/>
   <entry producer="producer0" in="00:00:00.000" out="00:00:01.240">
-   <property name="kdenlive:id">25</property>
+   <property name="kdenlive:id">21</property>
   </entry>
   <blank length="00:00:06.400"/>
   <entry producer="producer2" in="00:00:00.000" out="00:00:00.720">
-   <property name="kdenlive:id">27</property>
+   <property name="kdenlive:id">25</property>
   </entry>
   <blank length="00:00:09.320"/>
   <entry producer="producer4" in="00:00:00.000" out="00:00:00.680">
-   <property name="kdenlive:id">29</property>
+   <property name="kdenlive:id">27</property>
   </entry>
   <blank length="00:00:26.920"/>
   <entry producer="producer24" in="00:00:00.000" out="00:00:00.960">
-   <property name="kdenlive:id">31</property>
+   <property name="kdenlive:id">29</property>
   </entry>
  </playlist>
  <playlist id="playlist9"/>
@@ -2942,9 +2939,9 @@
   <property name="kdenlive:trackheight">69</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:track_name">Panneaux</property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
-  <property name="kdenlive:track_name">Panneaux</property>
   <track hide="audio" producer="playlist8"/>
   <track producer="playlist9"/>
  </tractor>
@@ -3244,7 +3241,7 @@
   <property name="aspect_ratio">1</property>
   <property name="kdenlive:clipname">green screen coffee at DuckDuckGo.mkv</property>
   <property name="kdenlive:folderid">33</property>
-  <property name="kdenlive:id">34</property>
+  <property name="kdenlive:id">30</property>
   <property name="kdenlive:file_size">8359114</property>
   <property name="kdenlive:file_hash">f6c3ff3662589e3964e4abb99b398036</property>
   <property name="kdenlive:proxy">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/f6c3ff3662589e3964e4abb99b398036.mkv</property>
@@ -3364,7 +3361,7 @@
   </entry>
   <blank length="00:00:03.720"/>
   <entry producer="producer33" in="00:00:12.520" out="00:00:22.480">
-   <property name="kdenlive:id">34</property>
+   <property name="kdenlive:id">30</property>
   </entry>
  </playlist>
  <playlist id="playlist11"/>
@@ -3372,9 +3369,9 @@
   <property name="kdenlive:trackheight">69</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:track_name">Plans Rapprochés</property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
-  <property name="kdenlive:track_name">Plans Rapprochés</property>
   <track hide="audio" producer="playlist10"/>
   <track producer="playlist11"/>
  </tractor>
@@ -3616,7 +3613,7 @@
   <property name="aspect_ratio">1</property>
   <property name="kdenlive:clipname">green screen coffee at DuckDuckGo.mkv</property>
   <property name="kdenlive:folderid">33</property>
-  <property name="kdenlive:id">34</property>
+  <property name="kdenlive:id">30</property>
   <property name="kdenlive:file_size">8359114</property>
   <property name="kdenlive:file_hash">f6c3ff3662589e3964e4abb99b398036</property>
   <property name="kdenlive:proxy">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/f6c3ff3662589e3964e4abb99b398036.mkv</property>
@@ -3736,18 +3733,21 @@
   </entry>
   <blank length="00:00:03.720"/>
   <entry producer="producer37" in="00:00:22.520" out="00:00:32.480">
-   <property name="kdenlive:id">34</property>
+   <property name="kdenlive:id">30</property>
   </entry>
   <blank length="00:00:01.760"/>
   <entry producer="producer37" in="00:00:42.480" out="00:02:19.160">
-   <property name="kdenlive:id">34</property>
+   <property name="kdenlive:id">30</property>
   </entry>
  </playlist>
  <playlist id="playlist13"/>
  <tractor id="tractor6" in="00:00:00.000" out="00:03:22.240">
-  <property name="kdenlive:track_name">Plans Rapprochés 2</property>
   <property name="kdenlive:trackheight">69</property>
   <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:track_name">Plans Rapprochés 2</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
   <track hide="audio" producer="playlist12"/>
   <track producer="playlist13"/>
  </tractor>
@@ -3989,8 +3989,7 @@
    <property name="kdenlive:id">11</property>
   </entry>
   <entry producer="producer25" in="00:00:32.520" out="00:00:42.440">
-   <property name="kdenlive:id">34</property>
-   <property name="kdenlive:activeeffect">0</property>
+   <property name="kdenlive:id">30</property>
    <filter id="filter5">
     <property name="mode">alpha</property>
     <property name="alpha_operation">clear</property>
@@ -4596,17 +4595,3383 @@
 </property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
+   <filter id="filter6">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:32.520=284 766 960 540 1.000000;00:00:38.120=-1583 -540 4934 2775 1.000000</property>
+    <property name="rotation">00:00:32.520=0;00:00:38.120=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
   </entry>
  </playlist>
  <playlist id="playlist15"/>
  <tractor id="tractor7" in="00:00:00.000" out="00:01:24.400">
-  <property name="kdenlive:track_name">Plans Rapprochés 3</property>
   <property name="kdenlive:trackheight">69</property>
   <property name="kdenlive:timeline_active">1</property>
-  <track producer="playlist14"/>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:track_name">Plans Rapprochés 3</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="audio" producer="playlist14"/>
   <track producer="playlist15"/>
  </tractor>
- <tractor id="tractor8" global_feed="1" in="00:00:00.000" out="00:27:42.760">
+ <producer id="producer40" in="00:00:00.000" out="00:00:15.560">
+  <property name="length">390</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/c644c649f009bc0153331d539d96729b.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname">00016.MTS</property>
+  <property name="kdenlive:folderid">24</property>
+  <property name="kdenlive:id">9</property>
+  <property name="kdenlive:file_size">41484288</property>
+  <property name="kdenlive:file_hash">c644c649f009bc0153331d539d96729b</property>
+  <property name="global_feed">1</property>
+  <property name="kdenlive:proxy">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/c644c649f009bc0153331d539d96729b.mkv</property>
+  <property name="kdenlive:originalurl">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte2/Sous-Acte3_Doah/00016.MTS</property>
+  <property name="kdenlive:original.mlt_type">producer</property>
+  <property name="kdenlive:original.in">0</property>
+  <property name="kdenlive:original.out">389</property>
+  <property name="kdenlive:original.length">390</property>
+  <property name="kdenlive:original.eof">pause</property>
+  <property name="kdenlive:original.resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte2/Sous-Acte3_Doah/00016.MTS</property>
+  <property name="kdenlive:original.audio_index">1</property>
+  <property name="kdenlive:original.video_index">0</property>
+  <property name="kdenlive:original.mute_on_pause">0</property>
+  <property name="kdenlive:original.mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:original.id">producer9</property>
+  <property name="kdenlive:original.seekable">1</property>
+  <property name="kdenlive:original.aspect_ratio">1</property>
+  <property name="kdenlive:original.kdenlive:folderid">-1</property>
+  <property name="kdenlive:original.kdenlive:id">9</property>
+  <property name="kdenlive:original.kdenlive:file_size">41484288</property>
+  <property name="kdenlive:original.kdenlive:file_hash">c644c649f009bc0153331d539d96729b</property>
+  <property name="kdenlive:original.global_feed">1</property>
+  <property name="kdenlive:original.meta.media.nb_streams">3</property>
+  <property name="kdenlive:original.meta.media.0.stream.type">video</property>
+  <property name="kdenlive:original.meta.media.0.stream.frame_rate">25</property>
+  <property name="kdenlive:original.meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="kdenlive:original.meta.media.0.codec.width">1920</property>
+  <property name="kdenlive:original.meta.media.0.codec.height">1080</property>
+  <property name="kdenlive:original.meta.media.0.codec.rotate">0</property>
+  <property name="kdenlive:original.meta.media.0.codec.frame_rate">25</property>
+  <property name="kdenlive:original.meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="kdenlive:original.meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.colorspace">709</property>
+  <property name="kdenlive:original.meta.media.0.codec.name">h264</property>
+  <property name="kdenlive:original.meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="kdenlive:original.meta.media.0.codec.bit_rate">0</property>
+  <property name="kdenlive:original.meta.media.1.stream.type">audio</property>
+  <property name="kdenlive:original.meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="kdenlive:original.meta.media.1.codec.sample_rate">48000</property>
+  <property name="kdenlive:original.meta.media.1.codec.channels">6</property>
+  <property name="kdenlive:original.meta.media.1.codec.name">ac3</property>
+  <property name="kdenlive:original.meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
+  <property name="kdenlive:original.meta.media.1.codec.bit_rate">448000</property>
+  <property name="kdenlive:original.meta.media.2.codec.name">pgssub</property>
+  <property name="kdenlive:original.meta.media.2.codec.long_name">HDMV Presentation Graphic Stream subtitles</property>
+  <property name="kdenlive:original.meta.media.2.codec.bit_rate">0</property>
+  <property name="kdenlive:original.meta.media.sample_aspect_num">1</property>
+  <property name="kdenlive:original.meta.media.sample_aspect_den">1</property>
+  <property name="kdenlive:original.meta.media.frame_rate_num">25</property>
+  <property name="kdenlive:original.meta.media.frame_rate_den">1</property>
+  <property name="kdenlive:original.meta.media.colorspace">709</property>
+  <property name="kdenlive:original.meta.media.color_trc">2</property>
+  <property name="kdenlive:original.meta.media.width">1920</property>
+  <property name="kdenlive:original.meta.media.height">1080</property>
+  <property name="kdenlive:original.meta.media.color_range">mpeg</property>
+  <property name="kdenlive:original.width">1920</property>
+  <property name="kdenlive:original.height">1080</property>
+  <property name="kdenlive:original.backup">1</property>
+  <property name="kdenlive:active_streams">-1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">25</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">1000</property>
+  <property name="meta.media.0.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">601</property>
+  <property name="meta.media.0.codec.name">mjpeg</property>
+  <property name="meta.media.0.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.91.100 mjpeg</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:00:15.600000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">s16</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">6</property>
+  <property name="meta.media.1.codec.name">pcm_s16le</property>
+  <property name="meta.media.1.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.1.codec.bit_rate">4608000</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.91.100 pcm_s16le</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:00:15.616000000</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.45.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">25</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
+ <playlist id="playlist16">
+  <blank length="00:01:14.480"/>
+  <entry producer="producer40" in="00:00:00.000" out="00:00:15.560">
+   <property name="kdenlive:id">9</property>
+   <property name="kdenlive:activeeffect">1</property>
+   <filter id="filter7">
+    <property name="mode">alpha</property>
+    <property name="alpha_operation">clear</property>
+    <property name="invert">0</property>
+    <property name="feather">2</property>
+    <property name="feather_passes">1</property>
+    <property name="mlt_service">rotoscoping</property>
+    <property name="kdenlive_id">rotoscoping</property>
+    <property name="spline">{
+    "000": [
+        [
+            [
+                0.32269579115610014,
+                0.968371212121212
+            ],
+            [
+                0.32472029834842836,
+                0.9696969696969697
+            ],
+            [
+                0.3256792754395311,
+                0.965530303030303
+            ]
+        ],
+        [
+            [
+                0.32855620671283964,
+                0.953030303030303
+            ],
+            [
+                0.32951518380394246,
+                0.9488636363636364
+            ],
+            [
+                0.3306872669152903,
+                0.9456439393939393
+            ]
+        ],
+        [
+            [
+                0.33420351624933403,
+                0.9359848484848485
+            ],
+            [
+                0.3353755993606819,
+                0.9327651515151515
+            ],
+            [
+                0.3369738945125199,
+                0.9285984848484848
+            ]
+        ],
+        [
+            [
+                0.34176877996803406,
+                0.9160984848484849
+            ],
+            [
+                0.3433670751198721,
+                0.9119318181818181
+            ],
+            [
+                0.34475226425146505,
+                0.9090909090909092
+            ]
+        ],
+        [
+            [
+                0.348907831646244,
+                0.9005681818181819
+            ],
+            [
+                0.35029302077783697,
+                0.8977272727272728
+            ],
+            [
+                0.3522109749600426,
+                0.8941287878787879
+            ]
+        ],
+        [
+            [
+                0.3579648375066596,
+                0.8833333333333333
+            ],
+            [
+                0.3598827916888652,
+                0.8797348484848485
+            ],
+            [
+                0.362226957911561,
+                0.8746212121212121
+            ]
+        ],
+        [
+            [
+                0.36925945657964837,
+                0.859280303030303
+            ],
+            [
+                0.37160362280234416,
+                0.8541666666666666
+            ],
+            [
+                0.3735215769845498,
+                0.8515151515151516
+            ]
+        ],
+        [
+            [
+                0.37927543953116677,
+                0.8435606060606061
+            ],
+            [
+                0.3811933937133724,
+                0.8409090909090909
+            ],
+            [
+                0.3830047948854555,
+                0.837878787878788
+            ]
+        ],
+        [
+            [
+                0.3884389984017048,
+                0.8287878787878789
+            ],
+            [
+                0.39025039957378793,
+                0.8257575757575758
+            ],
+            [
+                0.3919552477357485,
+                0.8234848484848485
+            ]
+        ],
+        [
+            [
+                0.39706979222163025,
+                0.8166666666666668
+            ],
+            [
+                0.39877464038359084,
+                0.8143939393939394
+            ],
+            [
+                0.4006925945657965,
+                0.812878787878788
+            ]
+        ],
+        [
+            [
+                0.40644645711241345,
+                0.8083333333333333
+            ],
+            [
+                0.4083644112946191,
+                0.8068181818181819
+            ],
+            [
+                0.4091102823654768,
+                0.8070075757575758
+            ]
+        ],
+        [
+            [
+                0.41134789557805007,
+                0.8075757575757575
+            ],
+            [
+                0.4120937666489078,
+                0.8077651515151515
+            ],
+            [
+                0.41251997868939794,
+                0.806060606060606
+            ]
+        ],
+        [
+            [
+                0.4137986148108684,
+                0.8009469696969698
+            ],
+            [
+                0.41422482685135853,
+                0.7992424242424243
+            ],
+            [
+                0.4137986148108684,
+                0.7979166666666667
+            ]
+        ],
+        [
+            [
+                0.41251997868939794,
+                0.793939393939394
+            ],
+            [
+                0.4120937666489078,
+                0.7926136363636364
+            ],
+            [
+                0.40974960042621206,
+                0.7890151515151516
+            ]
+        ],
+        [
+            [
+                0.405380927011188,
+                0.7801136363636365
+            ],
+            [
+                0.4030367607884922,
+                0.7765151515151515
+            ],
+            [
+                0.40378263185935,
+                0.7763257575757577
+            ]
+        ],
+        [
+            [
+                0.4033564198188599,
+                0.7738636363636364
+            ],
+            [
+                0.4041022908897176,
+                0.7736742424242424
+            ],
+            [
+                0.40538092701118805,
+                0.7727272727272728
+            ]
+        ],
+        [
+            [
+                0.40921683537559933,
+                0.7698863636363636
+            ],
+            [
+                0.4104954714970698,
+                0.7689393939393939
+            ],
+            [
+                0.4119872136387853,
+                0.7662878787878789
+            ]
+        ],
+        [
+            [
+                0.4164624400639318,
+                0.7583333333333333
+            ],
+            [
+                0.4179541822056473,
+                0.7556818181818181
+            ],
+            [
+                0.4194459243473628,
+                0.7511363636363636
+            ]
+        ],
+        [
+            [
+                0.4239211507725093,
+                0.7375
+            ],
+            [
+                0.4254128929142248,
+                0.7329545454545455
+            ],
+            [
+                0.42530633990410227,
+                0.7293560606060606
+            ]
+        ],
+        [
+            [
+                0.42498668087373465,
+                0.718560606060606
+            ],
+            [
+                0.4248801278636121,
+                0.7149621212121212
+            ],
+            [
+                0.42434736281299945,
+                0.7111742424242423
+            ]
+        ],
+        [
+            [
+                0.4227490676611614,
+                0.6998106060606061
+            ],
+            [
+                0.4222163026105487,
+                0.6960227272727273
+            ],
+            [
+                0.4207245604688332,
+                0.6933712121212121
+            ]
+        ],
+        [
+            [
+                0.4162493340436867,
+                0.6854166666666667
+            ],
+            [
+                0.4147575919019712,
+                0.6827651515151515
+            ],
+            [
+                0.41220031965903037,
+                0.6797348484848484
+            ]
+        ],
+        [
+            [
+                0.40452850293020776,
+                0.6706439393939394
+            ],
+            [
+                0.4019712306872669,
+                0.6676136363636364
+            ],
+            [
+                0.3989877464038359,
+                0.665719696969697
+            ]
+        ],
+        [
+            [
+                0.3900372935535429,
+                0.6600378787878788
+            ],
+            [
+                0.3870538092701119,
+                0.6581439393939394
+            ],
+            [
+                0.38343100692594567,
+                0.6579545454545455
+            ]
+        ],
+        [
+            [
+                0.372562599893447,
+                0.6573863636363636
+            ],
+            [
+                0.36893979754928075,
+                0.6571969696969697
+            ],
+            [
+                0.3651038891848694,
+                0.6581439393939393
+            ]
+        ],
+        [
+            [
+                0.3535961640916356,
+                0.6609848484848485
+            ],
+            [
+                0.34976025572722425,
+                0.6619318181818181
+            ],
+            [
+                0.34730953649440593,
+                0.6628787878787878
+            ]
+        ],
+        [
+            [
+                0.339957378795951,
+                0.665719696969697
+            ],
+            [
+                0.33750665956313264,
+                0.6666666666666666
+            ],
+            [
+                0.3358018114011721,
+                0.6674242424242425
+            ]
+        ],
+        [
+            [
+                0.3306872669152903,
+                0.6696969696969697
+            ],
+            [
+                0.3289824187533298,
+                0.6704545454545455
+            ],
+            [
+                0.3281299946723495,
+                0.6706439393939395
+            ]
+        ],
+        [
+            [
+                0.32557272242940866,
+                0.6712121212121211
+            ],
+            [
+                0.32472029834842836,
+                0.6714015151515151
+            ],
+            [
+                0.3225892381459776,
+                0.6696969696969697
+            ]
+        ],
+        [
+            [
+                0.3161960575386254,
+                0.6645833333333333
+            ],
+            [
+                0.3140649973361747,
+                0.6628787878787878
+            ],
+            [
+                0.3123601491742142,
+                0.6611742424242424
+            ]
+        ],
+        [
+            [
+                0.3072456046883324,
+                0.6560606060606061
+            ],
+            [
+                0.30554075652637186,
+                0.6543560606060607
+            ],
+            [
+                0.3040490143846563,
+                0.6530303030303031
+            ]
+        ],
+        [
+            [
+                0.29957378795950984,
+                0.6490530303030303
+            ],
+            [
+                0.2980820458177943,
+                0.6477272727272728
+            ],
+            [
+                0.29701651571656895,
+                0.647348484848485
+            ]
+        ],
+        [
+            [
+                0.2938199254128929,
+                0.6462121212121212
+            ],
+            [
+                0.2927543953116675,
+                0.6458333333333334
+            ],
+            [
+                0.29158231220031966,
+                0.6462121212121212
+            ]
+        ],
+        [
+            [
+                0.28806606286627595,
+                0.647348484848485
+            ],
+            [
+                0.28689397975492803,
+                0.6477272727272728
+            ],
+            [
+                0.28582844965370263,
+                0.6481060606060607
+            ]
+        ],
+        [
+            [
+                0.28263185935002666,
+                0.6492424242424243
+            ],
+            [
+                0.28156632924880126,
+                0.6496212121212122
+            ],
+            [
+                0.27975492807671815,
+                0.6517045454545455
+            ]
+        ],
+        [
+            [
+                0.2743207245604688,
+                0.6579545454545455
+            ],
+            [
+                0.2725093233883857,
+                0.6600378787878788
+            ],
+            [
+                0.2694192860948322,
+                0.6638257575757577
+            ]
+        ],
+        [
+            [
+                0.26014917421417155,
+                0.6751893939393939
+            ],
+            [
+                0.257059136920618,
+                0.6789772727272728
+            ],
+            [
+                0.2547149706979222,
+                0.6835227272727273
+            ]
+        ],
+        [
+            [
+                0.24768247202983484,
+                0.697159090909091
+            ],
+            [
+                0.24533830580713903,
+                0.7017045454545455
+            ],
+            [
+                0.24363345764517846,
+                0.7054924242424243
+            ]
+        ],
+        [
+            [
+                0.23851891315929674,
+                0.7168560606060607
+            ],
+            [
+                0.23681406499733618,
+                0.7206439393939394
+            ],
+            [
+                0.23574853489611083,
+                0.7240530303030304
+            ]
+        ],
+        [
+            [
+                0.23255194459243472,
+                0.7342803030303031
+            ],
+            [
+                0.23148641449120935,
+                0.7376893939393939
+            ],
+            [
+                0.23127330847096428,
+                0.740909090909091
+            ]
+        ],
+        [
+            [
+                0.23063399041022908,
+                0.7505681818181819
+            ],
+            [
+                0.230420884389984,
+                0.7537878787878788
+            ],
+            [
+                0.23074054342035163,
+                0.7573863636363637
+            ]
+        ],
+        [
+            [
+                0.23169952051145443,
+                0.7681818181818182
+            ],
+            [
+                0.23201917954182205,
+                0.771780303030303
+            ],
+            [
+                0.23287160362280232,
+                0.7744318181818182
+            ]
+        ],
+        [
+            [
+                0.2354288758657432,
+                0.7823863636363636
+            ],
+            [
+                0.23628129994672348,
+                0.7850378787878788
+            ],
+            [
+                0.237773042088439,
+                0.790719696969697
+            ]
+        ],
+        [
+            [
+                0.2422482685135855,
+                0.8077651515151515
+            ],
+            [
+                0.243740010655301,
+                0.8134469696969697
+            ],
+            [
+                0.24629728289824185,
+                0.8195075757575757
+            ]
+        ],
+        [
+            [
+                0.25396909962706443,
+                0.837689393939394
+            ],
+            [
+                0.2565263718700053,
+                0.84375
+            ],
+            [
+                0.2590836441129462,
+                0.85
+            ]
+        ],
+        [
+            [
+                0.2667554608417688,
+                0.86875
+            ],
+            [
+                0.26931273308470965,
+                0.875
+            ],
+            [
+                0.27229621736814064,
+                0.881439393939394
+            ]
+        ],
+        [
+            [
+                0.2812466702184337,
+                0.9007575757575756
+            ],
+            [
+                0.2842301545018647,
+                0.9071969696969697
+            ],
+            [
+                0.2878529568460309,
+                0.9136363636363637
+            ]
+        ],
+        [
+            [
+                0.29872136387852954,
+                0.9329545454545455
+            ],
+            [
+                0.3023441662226958,
+                0.9393939393939394
+            ],
+            [
+                0.30479488545551414,
+                0.944128787878788
+            ]
+        ],
+        [
+            [
+                0.3121470431539691,
+                0.9583333333333334
+            ],
+            [
+                0.31459776238678744,
+                0.9630681818181819
+            ],
+            [
+                0.3166222695791156,
+                0.9643939393939396
+            ]
+        ]
+    ]
+}
+</property>
+    <property name="kdenlive:collapsed">0</property>
+    <property name="disable">1</property>
+   </filter>
+   <filter id="filter8">
+    <property name="mode">alpha</property>
+    <property name="alpha_operation">clear</property>
+    <property name="invert">1</property>
+    <property name="feather">0</property>
+    <property name="feather_passes">1</property>
+    <property name="mlt_service">rotoscoping</property>
+    <property name="kdenlive_id">rotoscoping</property>
+    <property name="spline">{
+    "000": [
+        [
+            [
+                0.23564198188598826,
+                0.7863636363636364
+            ],
+            [
+                0.23628129994672348,
+                0.7850378787878788
+            ],
+            [
+                0.23532232285562066,
+                0.7791666666666667
+            ]
+        ],
+        [
+            [
+                0.23244539158231217,
+                0.7615530303030303
+            ],
+            [
+                0.23148641449120935,
+                0.7556818181818181
+            ],
+            [
+                0.2319126265316995,
+                0.7513257575757575
+            ]
+        ],
+        [
+            [
+                0.23319126265316995,
+                0.7382575757575758
+            ],
+            [
+                0.2336174746936601,
+                0.7339015151515151
+            ],
+            [
+                0.23510921683537558,
+                0.7303030303030303
+            ]
+        ],
+        [
+            [
+                0.2395844432605221,
+                0.7195075757575758
+            ],
+            [
+                0.2410761854022376,
+                0.7159090909090909
+            ],
+            [
+                0.2425679275439531,
+                0.712689393939394
+            ]
+        ],
+        [
+            [
+                0.24704315396909962,
+                0.7030303030303031
+            ],
+            [
+                0.2485348961108151,
+                0.6998106060606061
+            ],
+            [
+                0.2502397442727757,
+                0.6962121212121213
+            ]
+        ],
+        [
+            [
+                0.2553542887586574,
+                0.6854166666666667
+            ],
+            [
+                0.257059136920618,
+                0.6818181818181819
+            ],
+            [
+                0.2588705380927011,
+                0.6793560606060607
+            ]
+        ],
+        [
+            [
+                0.26430474160895046,
+                0.671969696969697
+            ],
+            [
+                0.26611614278103357,
+                0.6695075757575758
+            ],
+            [
+                0.2680340969632392,
+                0.6674242424242425
+            ]
+        ],
+        [
+            [
+                0.2737879595098561,
+                0.6611742424242425
+            ],
+            [
+                0.27570591369206177,
+                0.6590909090909092
+            ],
+            [
+                0.27783697389451245,
+                0.6571969696969698
+            ]
+        ],
+        [
+            [
+                0.2842301545018647,
+                0.6515151515151515
+            ],
+            [
+                0.28636121470431536,
+                0.6496212121212122
+            ],
+            [
+                0.2881726158763985,
+                0.6494318181818182
+            ]
+        ],
+        [
+            [
+                0.2936068193926478,
+                0.6488636363636364
+            ],
+            [
+                0.29541822056473094,
+                0.6486742424242424
+            ],
+            [
+                0.2975492807671817,
+                0.6492424242424243
+            ]
+        ],
+        [
+            [
+                0.3039424613745338,
+                0.6509469696969696
+            ],
+            [
+                0.30607352157698453,
+                0.6515151515151515
+            ],
+            [
+                0.3080980287693127,
+                0.6535984848484848
+            ]
+        ],
+        [
+            [
+                0.3141715503462973,
+                0.6598484848484848
+            ],
+            [
+                0.31619605753862545,
+                0.6619318181818181
+            ],
+            [
+                0.31800745871070857,
+                0.6634469696969697
+            ]
+        ],
+        [
+            [
+                0.32344166222695786,
+                0.6679924242424243
+            ],
+            [
+                0.325253063399041,
+                0.6695075757575758
+            ],
+            [
+                0.3264251465103889,
+                0.6693181818181818
+            ]
+        ],
+        [
+            [
+                0.3299413958444326,
+                0.6687500000000001
+            ],
+            [
+                0.33111347895578047,
+                0.6685606060606061
+            ],
+            [
+                0.3349493873201918,
+                0.6668560606060606
+            ]
+        ],
+        [
+            [
+                0.34645711241342564,
+                0.6617424242424244
+            ],
+            [
+                0.35029302077783697,
+                0.6600378787878788
+            ],
+            [
+                0.3541289291422483,
+                0.6590909090909092
+            ]
+        ],
+        [
+            [
+                0.36563665423548214,
+                0.65625
+            ],
+            [
+                0.3694725625998935,
+                0.6553030303030303
+            ],
+            [
+                0.37234949387320193,
+                0.65625
+            ]
+        ],
+        [
+            [
+                0.3809802876931273,
+                0.6590909090909092
+            ],
+            [
+                0.3838572189664358,
+                0.6600378787878788
+            ],
+            [
+                0.3862013851891316,
+                0.6607954545454546
+            ]
+        ],
+        [
+            [
+                0.39323388385721897,
+                0.6630681818181818
+            ],
+            [
+                0.39557805007991476,
+                0.6638257575757577
+            ],
+            [
+                0.39888119339371336,
+                0.6666666666666666
+            ]
+        ],
+        [
+            [
+                0.40879062333510924,
+                0.6751893939393939
+            ],
+            [
+                0.4120937666489078,
+                0.678030303030303
+            ],
+            [
+                0.41433137986148105,
+                0.681439393939394
+            ]
+        ],
+        [
+            [
+                0.42104421949920084,
+                0.6916666666666667
+            ],
+            [
+                0.4232818327117741,
+                0.6950757575757577
+            ],
+            [
+                0.4239211507725093,
+                0.6992424242424243
+            ]
+        ],
+        [
+            [
+                0.42583910495471494,
+                0.7117424242424243
+            ],
+            [
+                0.4264784230154502,
+                0.7159090909090909
+            ],
+            [
+                0.4259456579648375,
+                0.7214015151515152
+            ]
+        ],
+        [
+            [
+                0.4243473628129994,
+                0.7378787878787879
+            ],
+            [
+                0.4238145977623867,
+                0.7433712121212122
+            ],
+            [
+                0.4223228556206713,
+                0.746780303030303
+            ]
+        ],
+        [
+            [
+                0.41784762919552476,
+                0.7570075757575758
+            ],
+            [
+                0.41635588705380927,
+                0.7604166666666666
+            ],
+            [
+                0.4147575919019712,
+                0.7625
+            ]
+        ],
+        [
+            [
+                0.4099627064464571,
+                0.76875
+            ],
+            [
+                0.4083644112946191,
+                0.7708333333333334
+            ],
+            [
+                0.4070857751731486,
+                0.771780303030303
+            ]
+        ],
+        [
+            [
+                0.40324986680873737,
+                0.7746212121212122
+            ],
+            [
+                0.4019712306872669,
+                0.7755681818181819
+            ],
+            [
+                0.40463505594033033,
+                0.7791666666666667
+            ]
+        ],
+        [
+            [
+                0.41262653169952046,
+                0.7899621212121213
+            ],
+            [
+                0.4152903569525839,
+                0.7935606060606061
+            ],
+            [
+                0.4150772509323388,
+                0.7945075757575758
+            ]
+        ],
+        [
+            [
+                0.4144379328716036,
+                0.797348484848485
+            ],
+            [
+                0.41422482685135853,
+                0.7982954545454546
+            ],
+            [
+                0.4139051678209909,
+                0.7992424242424243
+            ]
+        ],
+        [
+            [
+                0.41294619072988803,
+                0.8020833333333334
+            ],
+            [
+                0.41262653169952046,
+                0.803030303030303
+            ],
+            [
+                0.4112413425679275,
+                0.803219696969697
+            ]
+        ],
+        [
+            [
+                0.4070857751731486,
+                0.8037878787878788
+            ],
+            [
+                0.4057005860415556,
+                0.8039772727272728
+            ],
+            [
+                0.40356952583910494,
+                0.8070075757575758
+            ]
+        ],
+        [
+            [
+                0.3971763452317527,
+                0.8160984848484849
+            ],
+            [
+                0.39504528502930203,
+                0.819128787878788
+            ],
+            [
+                0.3919552477357485,
+                0.8244318181818183
+            ]
+        ],
+        [
+            [
+                0.38268513585508784,
+                0.8403409090909092
+            ],
+            [
+                0.37959509856153434,
+                0.8456439393939394
+            ],
+            [
+                0.3762919552477358,
+                0.8517045454545454
+            ]
+        ],
+        [
+            [
+                0.36638252530633986,
+                0.8698863636363636
+            ],
+            [
+                0.3630793819925413,
+                0.8759469696969697
+            ],
+            [
+                0.35956313265849765,
+                0.8831439393939393
+            ]
+        ],
+        [
+            [
+                0.3490143846563665,
+                0.9047348484848485
+            ],
+            [
+                0.3454981353223229,
+                0.9119318181818181
+            ],
+            [
+                0.342940863079382,
+                0.9178030303030303
+            ]
+        ],
+        [
+            [
+                0.3352690463505594,
+                0.9354166666666667
+            ],
+            [
+                0.33271177410761854,
+                0.9412878787878788
+            ],
+            [
+                0.33164624400639314,
+                0.9450757575757577
+            ]
+        ],
+        [
+            [
+                0.3284496537027171,
+                0.9564393939393939
+            ],
+            [
+                0.32738412360149177,
+                0.9602272727272727
+            ],
+            [
+                0.32706446457112415,
+                0.9625
+            ]
+        ],
+        [
+            [
+                0.32610548748002127,
+                0.9693181818181817
+            ],
+            [
+                0.3257858284496537,
+                0.9715909090909091
+            ],
+            [
+                0.32525306339904103,
+                0.9727272727272727
+            ]
+        ],
+        [
+            [
+                0.32365476824720296,
+                0.9761363636363637
+            ],
+            [
+                0.3231220031965903,
+                0.9772727272727273
+            ],
+            [
+                0.32269579115610014,
+                0.9757575757575757
+            ]
+        ],
+        [
+            [
+                0.32141715503462975,
+                0.9712121212121213
+            ],
+            [
+                0.3209909429941396,
+                0.9696969696969697
+            ],
+            [
+                0.31747469366009595,
+                0.9634469696969696
+            ]
+        ],
+        [
+            [
+                0.3069259456579648,
+                0.9446969696969697
+            ],
+            [
+                0.3034096963239212,
+                0.9384469696969697
+            ],
+            [
+                0.2994672349493873,
+                0.9318181818181819
+            ]
+        ],
+        [
+            [
+                0.28763985082578575,
+                0.9119318181818181
+            ],
+            [
+                0.28369738945125195,
+                0.9053030303030303
+            ],
+            [
+                0.27986148108684067,
+                0.896969696969697
+            ]
+        ],
+        [
+            [
+                0.2683537559936068,
+                0.871969696969697
+            ],
+            [
+                0.2645178476291955,
+                0.8636363636363636
+            ],
+            [
+                0.2628129994672349,
+                0.8585227272727273
+            ]
+        ],
+        [
+            [
+                0.2576984549813532,
+                0.8431818181818181
+            ],
+            [
+                0.2559936068193926,
+                0.8380681818181819
+            ],
+            [
+                0.2535428875865743,
+                0.83125
+            ]
+        ],
+        [
+            [
+                0.2461907298881193,
+                0.8107954545454547
+            ],
+            [
+                0.243740010655301,
+                0.8039772727272728
+            ],
+            [
+                0.24278103356419817,
+                0.8009469696969698
+            ]
+        ],
+        [
+            [
+                0.23990410229088968,
+                0.7918560606060606
+            ],
+            [
+                0.23894512519978686,
+                0.7888257575757577
+            ],
+            [
+                0.23351092168353754,
+                0.7941287878787879
+            ]
+        ],
+        [
+            [
+                0.21720831113478953,
+                0.8100378787878788
+            ],
+            [
+                0.21177410761854024,
+                0.8153409090909092
+            ],
+            [
+                0.21475759190197122,
+                0.8231060606060606
+            ]
+        ],
+        [
+            [
+                0.22370804475226425,
+                0.8464015151515152
+            ],
+            [
+                0.22669152903569526,
+                0.8541666666666666
+            ],
+            [
+                0.23148641449120935,
+                0.8636363636363636
+            ]
+        ],
+        [
+            [
+                0.24587107085775173,
+                0.8920454545454545
+            ],
+            [
+                0.2506659563132658,
+                0.9015151515151515
+            ],
+            [
+                0.25503462972828983,
+                0.9083333333333333
+            ]
+        ],
+        [
+            [
+                0.26814064997336173,
+                0.9287878787878788
+            ],
+            [
+                0.2725093233883857,
+                0.9356060606060607
+            ],
+            [
+                0.27623867874267444,
+                0.9410984848484849
+            ]
+        ],
+        [
+            [
+                0.28742674480554076,
+                0.9575757575757576
+            ],
+            [
+                0.2911561001598295,
+                0.9630681818181819
+            ],
+            [
+                0.2968034096963239,
+                0.9685606060606062
+            ]
+        ],
+        [
+            [
+                0.31374533830580714,
+                0.9850378787878787
+            ],
+            [
+                0.31939264784230154,
+                0.990530303030303
+            ],
+            [
+                0.32269579115610014,
+                0.9943181818181818
+            ]
+        ],
+        [
+            [
+                0.332605221097496,
+                1.0056818181818183
+            ],
+            [
+                0.3359083644112946,
+                1.009469696969697
+            ],
+            [
+                0.3958977091102823,
+                1.0073863636363636
+            ]
+        ],
+        [
+            [
+                0.5758657432072455,
+                1.0011363636363637
+            ],
+            [
+                0.6358550879062332,
+                0.9990530303030303
+            ],
+            [
+                0.643740010655301,
+                0.990530303030303
+            ]
+        ],
+        [
+            [
+                0.667394778902504,
+                0.9649621212121213
+            ],
+            [
+                0.6752797016515717,
+                0.9564393939393939
+            ],
+            [
+                0.6824187533297815,
+                0.9456439393939394
+            ]
+        ],
+        [
+            [
+                0.7038359083644112,
+                0.9132575757575758
+            ],
+            [
+                0.7109749600426212,
+                0.9024621212121213
+            ],
+            [
+                0.7174746936600959,
+                0.8920454545454546
+            ]
+        ],
+        [
+            [
+                0.7369738945125199,
+                0.8607954545454546
+            ],
+            [
+                0.7434736281299946,
+                0.850378787878788
+            ],
+            [
+                0.7542354821523708,
+                0.819128787878788
+            ]
+        ],
+        [
+            [
+                0.7865210442194992,
+                0.7253787878787878
+            ],
+            [
+                0.7972828982418753,
+                0.6941287878787878
+            ],
+            [
+                0.7993074054342035,
+                0.6820075757575756
+            ]
+        ],
+        [
+            [
+                0.805380927011188,
+                0.6456439393939395
+            ],
+            [
+                0.8074054342035163,
+                0.6335227272727273
+            ],
+            [
+                0.8092168353755993,
+                0.618939393939394
+            ]
+        ],
+        [
+            [
+                0.8146510388918488,
+                0.575189393939394
+            ],
+            [
+                0.8164624400639318,
+                0.5606060606060607
+            ],
+            [
+                0.8166755460841768,
+                0.5537878787878788
+            ]
+        ],
+        [
+            [
+                0.8173148641449121,
+                0.5333333333333333
+            ],
+            [
+                0.8175279701651571,
+                0.5265151515151515
+            ],
+            [
+                0.8149706979222162,
+                0.5393939393939393
+            ]
+        ],
+        [
+            [
+                0.8072988811933937,
+                0.5780303030303031
+            ],
+            [
+                0.8047416089504528,
+                0.5909090909090909
+            ],
+            [
+                0.8017581246670218,
+                0.6005681818181818
+            ]
+        ],
+        [
+            [
+                0.7928076718167287,
+                0.6295454545454546
+            ],
+            [
+                0.7898241875332979,
+                0.6392045454545455
+            ],
+            [
+                0.786094832179009,
+                0.646780303030303
+            ]
+        ],
+        [
+            [
+                0.7749067661161427,
+                0.6695075757575758
+            ],
+            [
+                0.771177410761854,
+                0.6770833333333334
+            ],
+            [
+                0.7690463505594032,
+                0.6799242424242424
+            ]
+        ],
+        [
+            [
+                0.7626531699520511,
+                0.6884469696969697
+            ],
+            [
+                0.7605221097496003,
+                0.6912878787878788
+            ],
+            [
+                0.7587107085775173,
+                0.6926136363636364
+            ]
+        ],
+        [
+            [
+                0.7532765050612679,
+                0.6965909090909091
+            ],
+            [
+                0.7514651038891849,
+                0.6979166666666666
+            ],
+            [
+                0.7484816196057538,
+                0.6982954545454545
+            ]
+        ],
+        [
+            [
+                0.7395311667554608,
+                0.6994318181818183
+            ],
+            [
+                0.7365476824720297,
+                0.6998106060606061
+            ],
+            [
+                0.7337773042088439,
+                0.6996212121212122
+            ]
+        ],
+        [
+            [
+                0.7254661694192861,
+                0.6990530303030303
+            ],
+            [
+                0.7226957911561002,
+                0.6988636363636364
+            ],
+            [
+                0.7183271177410762,
+                0.6958333333333333
+            ]
+        ],
+        [
+            [
+                0.7052210974960043,
+                0.6867424242424242
+            ],
+            [
+                0.7008524240809803,
+                0.6837121212121212
+            ],
+            [
+                0.6974427277570591,
+                0.6787878787878788
+            ]
+        ],
+        [
+            [
+                0.6872136387852957,
+                0.6640151515151516
+            ],
+            [
+                0.6838039424613744,
+                0.6590909090909092
+            ],
+            [
+                0.6798614810868406,
+                0.6515151515151515
+            ]
+        ],
+        [
+            [
+                0.6680340969632392,
+                0.6287878787878788
+            ],
+            [
+                0.6640916355887054,
+                0.6212121212121212
+            ],
+            [
+                0.6612147043153969,
+                0.6136363636363636
+            ]
+        ],
+        [
+            [
+                0.6525839104954715,
+                0.5909090909090908
+            ],
+            [
+                0.649706979222163,
+                0.5833333333333334
+            ],
+            [
+                0.6474693660095898,
+                0.5759469696969697
+            ]
+        ],
+        [
+            [
+                0.64075652637187,
+                0.5537878787878788
+            ],
+            [
+                0.6385189131592968,
+                0.5464015151515151
+            ],
+            [
+                0.6364944059669686,
+                0.5352272727272727
+            ]
+        ],
+        [
+            [
+                0.630420884389984,
+                0.5017045454545455
+            ],
+            [
+                0.6283963771976558,
+                0.49053030303030304
+            ],
+            [
+                0.6271177410761853,
+                0.47859848484848483
+            ]
+        ],
+        [
+            [
+                0.6232818327117741,
+                0.4428030303030303
+            ],
+            [
+                0.6220031965903037,
+                0.43087121212121215
+            ],
+            [
+                0.6224294086307938,
+                0.42045454545454547
+            ]
+        ],
+        [
+            [
+                0.6237080447522643,
+                0.38920454545454547
+            ],
+            [
+                0.6241342567927544,
+                0.37878787878787884
+            ],
+            [
+                0.6229621736814065,
+                0.3755681818181818
+            ]
+        ],
+        [
+            [
+                0.6194459243473627,
+                0.3659090909090909
+            ],
+            [
+                0.6182738412360148,
+                0.3626893939393939
+            ],
+            [
+                0.6171017581246669,
+                0.3611742424242424
+            ]
+        ],
+        [
+            [
+                0.6135855087906232,
+                0.3566287878787879
+            ],
+            [
+                0.6124134256792754,
+                0.3551136363636364
+            ],
+            [
+                0.6098561534363345,
+                0.35530303030303034
+            ]
+        ],
+        [
+            [
+                0.602184336707512,
+                0.35587121212121214
+            ],
+            [
+                0.599627064464571,
+                0.3560606060606061
+            ],
+            [
+                0.5971763452317528,
+                0.3575757575757576
+            ]
+        ],
+        [
+            [
+                0.5898241875332978,
+                0.3621212121212122
+            ],
+            [
+                0.5873734683004794,
+                0.36363636363636365
+            ],
+            [
+                0.5842834310069259,
+                0.3645833333333333
+            ]
+        ],
+        [
+            [
+                0.5750133191262653,
+                0.3674242424242425
+            ],
+            [
+                0.5719232818327118,
+                0.36837121212121215
+            ],
+            [
+                0.5707511987213639,
+                0.37007575757575756
+            ]
+        ],
+        [
+            [
+                0.5672349493873201,
+                0.375189393939394
+            ],
+            [
+                0.5660628662759722,
+                0.3768939393939394
+            ],
+            [
+                0.5633990410229088,
+                0.3797348484848485
+            ]
+        ],
+        [
+            [
+                0.5554075652637187,
+                0.38825757575757575
+            ],
+            [
+                0.5527437400106553,
+                0.39109848484848486
+            ],
+            [
+                0.5508257858284497,
+                0.3899621212121212
+            ]
+        ],
+        [
+            [
+                0.5450719232818327,
+                0.38655303030303034
+            ],
+            [
+                0.5431539690996271,
+                0.3854166666666667
+            ],
+            [
+                0.5417687799680341,
+                0.38257575757575757
+            ]
+        ],
+        [
+            [
+                0.5376132125732552,
+                0.37405303030303033
+            ],
+            [
+                0.5362280234416622,
+                0.3712121212121212
+            ],
+            [
+                0.5362280234416622,
+                0.36496212121212124
+            ]
+        ],
+        [
+            [
+                0.5362280234416622,
+                0.34621212121212125
+            ],
+            [
+                0.5362280234416622,
+                0.3399621212121212
+            ],
+            [
+                0.5368673415023973,
+                0.33541666666666664
+            ]
+        ],
+        [
+            [
+                0.5387852956846031,
+                0.3217803030303031
+            ],
+            [
+                0.5394246137453382,
+                0.3172348484848485
+            ],
+            [
+                0.5408098028769313,
+                0.3140151515151515
+            ]
+        ],
+        [
+            [
+                0.5449653702717101,
+                0.30435606060606063
+            ],
+            [
+                0.5463505594033031,
+                0.30113636363636365
+            ],
+            [
+                0.5481619605753862,
+                0.2975378787878788
+            ]
+        ],
+        [
+            [
+                0.5535961640916356,
+                0.28674242424242424
+            ],
+            [
+                0.5554075652637187,
+                0.2831439393939394
+            ],
+            [
+                0.5578582844965371,
+                0.28030303030303033
+            ]
+        ],
+        [
+            [
+                0.565210442194992,
+                0.27178030303030304
+            ],
+            [
+                0.5676611614278103,
+                0.2689393939393939
+            ],
+            [
+                0.5706446457112413,
+                0.26780303030303027
+            ]
+        ],
+        [
+            [
+                0.5795950985615342,
+                0.2643939393939394
+            ],
+            [
+                0.5825785828449653,
+                0.26325757575757575
+            ],
+            [
+                0.5855620671283964,
+                0.2643939393939394
+            ]
+        ],
+        [
+            [
+                0.5945125199786894,
+                0.26780303030303027
+            ],
+            [
+                0.5974960042621205,
+                0.2689393939393939
+            ],
+            [
+                0.5993074054342035,
+                0.2708333333333333
+            ]
+        ],
+        [
+            [
+                0.6047416089504529,
+                0.2765151515151515
+            ],
+            [
+                0.6065530101225359,
+                0.27840909090909094
+            ],
+            [
+                0.6072988811933937,
+                0.28238636363636366
+            ]
+        ],
+        [
+            [
+                0.6095364944059669,
+                0.2943181818181818
+            ],
+            [
+                0.6102823654768247,
+                0.2982954545454546
+            ],
+            [
+                0.609962706446457,
+                0.30303030303030304
+            ]
+        ],
+        [
+            [
+                0.6090037293553542,
+                0.3172348484848485
+            ],
+            [
+                0.6086840703249866,
+                0.32196969696969696
+            ],
+            [
+                0.6071923281832711,
+                0.3268939393939394
+            ]
+        ],
+        [
+            [
+                0.6027171017581245,
+                0.3416666666666667
+            ],
+            [
+                0.6012253596164091,
+                0.34659090909090906
+            ],
+            [
+                0.6006925945657964,
+                0.3475378787878788
+            ]
+        ],
+        [
+            [
+                0.5990942994139584,
+                0.3503787878787879
+            ],
+            [
+                0.5985615343633458,
+                0.35132575757575757
+            ],
+            [
+                0.600586041555674,
+                0.35132575757575757
+            ]
+        ],
+        [
+            [
+                0.6066595631326585,
+                0.35132575757575757
+            ],
+            [
+                0.6086840703249866,
+                0.35132575757575757
+            ],
+            [
+                0.610175812466702,
+                0.3518939393939394
+            ]
+        ],
+        [
+            [
+                0.6146510388918487,
+                0.35359848484848483
+            ],
+            [
+                0.6161427810335642,
+                0.3541666666666667
+            ],
+            [
+                0.6177410761854022,
+                0.3571969696969697
+            ]
+        ],
+        [
+            [
+                0.6225359616409164,
+                0.36628787878787883
+            ],
+            [
+                0.6241342567927544,
+                0.3693181818181818
+            ],
+            [
+                0.624240809802877,
+                0.36704545454545456
+            ]
+        ],
+        [
+            [
+                0.6245604688332445,
+                0.36022727272727273
+            ],
+            [
+                0.624667021843367,
+                0.35795454545454547
+            ],
+            [
+                0.62605221097496,
+                0.35132575757575757
+            ]
+        ],
+        [
+            [
+                0.6302077783697388,
+                0.331439393939394
+            ],
+            [
+                0.6315929675013319,
+                0.3248106060606061
+            ],
+            [
+                0.6332978156632925,
+                0.3181818181818182
+            ]
+        ],
+        [
+            [
+                0.6384123601491741,
+                0.2982954545454546
+            ],
+            [
+                0.6401172083111348,
+                0.2916666666666667
+            ],
+            [
+                0.642141715503463,
+                0.2884469696969697
+            ]
+        ],
+        [
+            [
+                0.6482152370804475,
+                0.2787878787878788
+            ],
+            [
+                0.6502397442727756,
+                0.2755681818181818
+            ],
+            [
+                0.654288758657432,
+                0.2696969696969697
+            ]
+        ],
+        [
+            [
+                0.6664358018114012,
+                0.2520833333333333
+            ],
+            [
+                0.6704848161960576,
+                0.24621212121212124
+            ],
+            [
+                0.6754928076718166,
+                0.24280303030303033
+            ]
+        ],
+        [
+            [
+                0.6905167820990943,
+                0.23257575757575757
+            ],
+            [
+                0.6955247735748534,
+                0.22916666666666666
+            ],
+            [
+                0.6994672349493872,
+                0.22670454545454546
+            ]
+        ],
+        [
+            [
+                0.7112946190729889,
+                0.21931818181818183
+            ],
+            [
+                0.7152370804475227,
+                0.2168560606060606
+            ],
+            [
+                0.7185402237613213,
+                0.21742424242424244
+            ]
+        ],
+        [
+            [
+                0.728449653702717,
+                0.21912878787878787
+            ],
+            [
+                0.7317527970165156,
+                0.2196969696969697
+            ],
+            [
+                0.7378263185935002,
+                0.22045454545454546
+            ]
+        ],
+        [
+            [
+                0.7560468833244538,
+                0.22272727272727275
+            ],
+            [
+                0.7621204049014384,
+                0.22348484848484848
+            ],
+            [
+                0.7664890783164624,
+                0.22651515151515153
+            ]
+        ],
+        [
+            [
+                0.7795950985615343,
+                0.23560606060606062
+            ],
+            [
+                0.7839637719765583,
+                0.23863636363636365
+            ],
+            [
+                0.7859882791688865,
+                0.24034090909090908
+            ]
+        ],
+        [
+            [
+                0.7920618007458711,
+                0.24545454545454548
+            ],
+            [
+                0.7940863079381992,
+                0.2471590909090909
+            ],
+            [
+                0.7898241875332979,
+                0.23125
+            ]
+        ],
+        [
+            [
+                0.7770378263185934,
+                0.18352272727272728
+            ],
+            [
+                0.7727757059136919,
+                0.16761363636363638
+            ],
+            [
+                0.7683004794885454,
+                0.1556818181818182
+            ]
+        ],
+        [
+            [
+                0.7548748002131059,
+                0.11988636363636362
+            ],
+            [
+                0.7503995737879594,
+                0.10795454545454546
+            ],
+            [
+                0.7453915823122003,
+                0.09867424242424243
+            ]
+        ],
+        [
+            [
+                0.7303676078849226,
+                0.07083333333333333
+            ],
+            [
+                0.7253596164091635,
+                0.06155303030303031
+            ],
+            [
+                0.7203516249334043,
+                0.05340909090909091
+            ]
+        ],
+        [
+            [
+                0.7053276505061267,
+                0.02897727272727273
+            ],
+            [
+                0.7003196590303676,
+                0.020833333333333332
+            ],
+            [
+                0.695844432605221,
+                0.016856060606060604
+            ]
+        ],
+        [
+            [
+                0.6824187533297815,
+                0.004924242424242424
+            ],
+            [
+                0.677943526904635,
+                0.000946969696969697
+            ],
+            [
+                0.6581246670218434,
+                0.000946969696969697
+            ]
+        ],
+        [
+            [
+                0.5986680873734682,
+                0.000946969696969697
+            ],
+            [
+                0.5788492274906766,
+                0.000946969696969697
+            ],
+            [
+                0.5767181672882258,
+                0.0035984848484848487
+            ]
+        ],
+        [
+            [
+                0.5703249866808737,
+                0.011553030303030305
+            ],
+            [
+                0.568193926478423,
+                0.014204545454545456
+            ],
+            [
+                0.56680873734683,
+                0.014583333333333334
+            ]
+        ],
+        [
+            [
+                0.5626531699520512,
+                0.01571969696969697
+            ],
+            [
+                0.5612679808204581,
+                0.016098484848484848
+            ],
+            [
+                0.5602024507192328,
+                0.01893939393939394
+            ]
+        ],
+        [
+            [
+                0.5570058604155567,
+                0.027462121212121212
+            ],
+            [
+                0.5559403303143314,
+                0.030303030303030304
+            ],
+            [
+                0.5546616941928609,
+                0.033522727272727273
+            ]
+        ],
+        [
+            [
+                0.5508257858284497,
+                0.04318181818181818
+            ],
+            [
+                0.5495471497069793,
+                0.04640151515151515
+            ],
+            [
+                0.548694725625999,
+                0.04924242424242425
+            ]
+        ],
+        [
+            [
+                0.546137453383058,
+                0.05776515151515151
+            ],
+            [
+                0.5452850293020777,
+                0.06060606060606061
+            ],
+            [
+                0.544752264251465,
+                0.06420454545454546
+            ]
+        ],
+        [
+            [
+                0.5431539690996271,
+                0.075
+            ],
+            [
+                0.5426212040490144,
+                0.07859848484848485
+            ],
+            [
+                0.5396377197655833,
+                0.07916666666666666
+            ]
+        ],
+        [
+            [
+                0.5306872669152903,
+                0.08087121212121212
+            ],
+            [
+                0.5277037826318594,
+                0.08143939393939394
+            ],
+            [
+                0.5268513585508791,
+                0.08238636363636365
+            ]
+        ],
+        [
+            [
+                0.5242940863079382,
+                0.08522727272727273
+            ],
+            [
+                0.5234416622269579,
+                0.08617424242424243
+            ],
+            [
+                0.5209909429941395,
+                0.08882575757575759
+            ]
+        ],
+        [
+            [
+                0.5136387852956845,
+                0.09678030303030304
+            ],
+            [
+                0.5111880660628663,
+                0.09943181818181819
+            ],
+            [
+                0.509163558870538,
+                0.09772727272727273
+            ]
+        ],
+        [
+            [
+                0.5030900372935535,
+                0.09261363636363637
+            ],
+            [
+                0.5010655301012253,
+                0.09090909090909091
+            ],
+            [
+                0.49999999999999994,
+                0.08958333333333333
+            ]
+        ],
+        [
+            [
+                0.4968034096963239,
+                0.08560606060606062
+            ],
+            [
+                0.4957378795950985,
+                0.08428030303030304
+            ],
+            [
+                0.4950985615343633,
+                0.08446969696969697
+            ]
+        ],
+        [
+            [
+                0.4931806073521577,
+                0.08503787878787879
+            ],
+            [
+                0.49254128929142243,
+                0.08522727272727273
+            ],
+            [
+                0.491262653169952,
+                0.08522727272727273
+            ]
+        ],
+        [
+            [
+                0.48742674480554077,
+                0.08522727272727273
+            ],
+            [
+                0.4861481086840703,
+                0.08522727272727273
+            ],
+            [
+                0.48561534363345765,
+                0.08977272727272727
+            ]
+        ],
+        [
+            [
+                0.4840170484816195,
+                0.10340909090909091
+            ],
+            [
+                0.48348428343100686,
+                0.10795454545454546
+            ],
+            [
+                0.4811401172083111,
+                0.10833333333333334
+            ]
+        ],
+        [
+            [
+                0.4741076185402237,
+                0.10946969696969698
+            ],
+            [
+                0.4717634523175279,
+                0.10984848484848485
+            ],
+            [
+                0.4701651571656899,
+                0.10928030303030303
+            ]
+        ],
+        [
+            [
+                0.4653702717101758,
+                0.10757575757575757
+            ],
+            [
+                0.46377197655833774,
+                0.10700757575757576
+            ],
+            [
+                0.4618540223761321,
+                0.10700757575757576
+            ]
+        ],
+        [
+            [
+                0.45610015982951513,
+                0.10700757575757576
+            ],
+            [
+                0.4541822056473095,
+                0.10700757575757576
+            ],
+            [
+                0.4538625466169419,
+                0.10833333333333335
+            ]
+        ],
+        [
+            [
+                0.45290356952583904,
+                0.11231060606060606
+            ],
+            [
+                0.4525839104954715,
+                0.11363636363636365
+            ],
+            [
+                0.45055940330314326,
+                0.11401515151515151
+            ]
+        ],
+        [
+            [
+                0.44448588172615877,
+                0.11515151515151516
+            ],
+            [
+                0.44246137453383055,
+                0.11553030303030304
+            ],
+            [
+                0.4413958444326052,
+                0.11515151515151516
+            ]
+        ],
+        [
+            [
+                0.4381992541289292,
+                0.11401515151515151
+            ],
+            [
+                0.4371337240277038,
+                0.11363636363636365
+            ],
+            [
+                0.43585508790623334,
+                0.11287878787878788
+            ]
+        ],
+        [
+            [
+                0.43201917954182206,
+                0.11060606060606061
+            ],
+            [
+                0.4307405434203516,
+                0.10984848484848485
+            ],
+            [
+                0.428822589238146,
+                0.11268939393939394
+            ]
+        ],
+        [
+            [
+                0.423068726691529,
+                0.12121212121212122
+            ],
+            [
+                0.42115077250932337,
+                0.12405303030303029
+            ],
+            [
+                0.4189131592967501,
+                0.12462121212121212
+            ]
+        ],
+        [
+            [
+                0.41220031965903037,
+                0.1263257575757576
+            ],
+            [
+                0.4099627064464571,
+                0.12689393939393942
+            ],
+            [
+                0.40857751731486414,
+                0.12708333333333333
+            ]
+        ],
+        [
+            [
+                0.4044219499200852,
+                0.12765151515151515
+            ],
+            [
+                0.4030367607884922,
+                0.1278409090909091
+            ],
+            [
+                0.40005327650506123,
+                0.12746212121212122
+            ]
+        ],
+        [
+            [
+                0.39110282365476823,
+                0.1263257575757576
+            ],
+            [
+                0.3881193393713372,
+                0.1259469696969697
+            ],
+            [
+                0.3856686201385189,
+                0.12556818181818183
+            ]
+        ],
+        [
+            [
+                0.37831646244006395,
+                0.12443181818181817
+            ],
+            [
+                0.3758657432072456,
+                0.12405303030303029
+            ],
+            [
+                0.3736281299946723,
+                0.12215909090909091
+            ]
+        ],
+        [
+            [
+                0.3669152903569526,
+                0.11647727272727273
+            ],
+            [
+                0.3646776771443793,
+                0.11458333333333333
+            ],
+            [
+                0.36265316995205116,
+                0.11363636363636365
+            ]
+        ],
+        [
+            [
+                0.35657964837506656,
+                0.11079545454545454
+            ],
+            [
+                0.3545551411827384,
+                0.10984848484848485
+            ],
+            [
+                0.3530633990410229,
+                0.11079545454545454
+            ]
+        ],
+        [
+            [
+                0.3485881726158764,
+                0.11363636363636365
+            ],
+            [
+                0.3470964304741609,
+                0.11458333333333333
+            ],
+            [
+                0.34560468833244534,
+                0.11306818181818182
+            ]
+        ],
+        [
+            [
+                0.34112946190729887,
+                0.10852272727272728
+            ],
+            [
+                0.3396377197655834,
+                0.10700757575757576
+            ],
+            [
+                0.33686734150239744,
+                0.10662878787878789
+            ]
+        ],
+        [
+            [
+                0.32855620671283964,
+                0.10549242424242425
+            ],
+            [
+                0.3257858284496537,
+                0.10511363636363637
+            ],
+            [
+                0.32386787426744806,
+                0.10454545454545455
+            ]
+        ],
+        [
+            [
+                0.3181140117208311,
+                0.10284090909090908
+            ],
+            [
+                0.31619605753862545,
+                0.10227272727272727
+            ],
+            [
+                0.31726158763985085,
+                0.10473484848484849
+            ]
+        ],
+        [
+            [
+                0.3204581779435269,
+                0.11212121212121212
+            ],
+            [
+                0.3215237080447523,
+                0.11458333333333333
+            ],
+            [
+                0.3231220031965903,
+                0.11875
+            ]
+        ],
+        [
+            [
+                0.3279168886521044,
+                0.13125
+            ],
+            [
+                0.32951518380394246,
+                0.13541666666666666
+            ],
+            [
+                0.3306872669152903,
+                0.1390151515151515
+            ]
+        ],
+        [
+            [
+                0.33420351624933403,
+                0.1498106060606061
+            ],
+            [
+                0.3353755993606819,
+                0.1534090909090909
+            ],
+            [
+                0.3370804475226425,
+                0.1590909090909091
+            ]
+        ],
+        [
+            [
+                0.3421949920085242,
+                0.17613636363636365
+            ],
+            [
+                0.3438998401704848,
+                0.18181818181818182
+            ],
+            [
+                0.34517847629195525,
+                0.18939393939393942
+            ]
+        ],
+        [
+            [
+                0.3490143846563665,
+                0.21212121212121213
+            ],
+            [
+                0.35029302077783697,
+                0.2196969696969697
+            ],
+            [
+                0.35082578582844964,
+                0.2272727272727273
+            ]
+        ],
+        [
+            [
+                0.35242408098028766,
+                0.25
+            ],
+            [
+                0.35295684603090033,
+                0.25757575757575757
+            ],
+            [
+                0.3522109749600426,
+                0.2643939393939394
+            ]
+        ],
+        [
+            [
+                0.34997336174746935,
+                0.28484848484848485
+            ],
+            [
+                0.3492274906766116,
+                0.2916666666666667
+            ],
+            [
+                0.34794885455514113,
+                0.29715909090909093
+            ]
+        ],
+        [
+            [
+                0.3441129461907299,
+                0.31363636363636366
+            ],
+            [
+                0.3428343100692594,
+                0.3191287878787879
+            ],
+            [
+                0.33995737879595095,
+                0.325189393939394
+            ]
+        ],
+        [
+            [
+                0.3313265849760256,
+                0.3433712121212121
+            ],
+            [
+                0.32844965370271706,
+                0.3494318181818182
+            ],
+            [
+                0.3265316995205115,
+                0.35397727272727275
+            ]
+        ],
+        [
+            [
+                0.32077783697389445,
+                0.36761363636363636
+            ],
+            [
+                0.3188598827916888,
+                0.37215909090909094
+            ],
+            [
+                0.31534363345764516,
+                0.37613636363636366
+            ]
+        ],
+        [
+            [
+                0.3047948854555141,
+                0.3880681818181818
+            ],
+            [
+                0.3012786361214704,
+                0.3920454545454546
+            ],
+            [
+                0.29882791688865207,
+                0.3945075757575758
+            ]
+        ],
+        [
+            [
+                0.29147575919019714,
+                0.4018939393939394
+            ],
+            [
+                0.28902503995737877,
+                0.40435606060606066
+            ],
+            [
+                0.28561534363345764,
+                0.4051136363636364
+            ]
+        ],
+        [
+            [
+                0.2753862546616942,
+                0.40738636363636366
+            ],
+            [
+                0.271976558337773,
+                0.4081439393939394
+            ],
+            [
+                0.2677144379328716,
+                0.40871212121212125
+            ]
+        ],
+        [
+            [
+                0.25492807671816725,
+                0.41041666666666665
+            ],
+            [
+                0.2506659563132658,
+                0.4109848484848485
+            ],
+            [
+                0.24683004794885452,
+                0.41003787878787884
+            ]
+        ],
+        [
+            [
+                0.23532232285562066,
+                0.40719696969696967
+            ],
+            [
+                0.23148641449120935,
+                0.40625
+            ],
+            [
+                0.22839637719765582,
+                0.40511363636363634
+            ]
+        ],
+        [
+            [
+                0.2191262653169952,
+                0.4017045454545455
+            ],
+            [
+                0.21603622802344166,
+                0.4005681818181818
+            ],
+            [
+                0.2137986148108684,
+                0.3990530303030303
+            ]
+        ],
+        [
+            [
+                0.20708577517314863,
+                0.3945075757575758
+            ],
+            [
+                0.20484816196057537,
+                0.39299242424242425
+            ],
+            [
+                0.20303676078849225,
+                0.39034090909090907
+            ]
+        ],
+        [
+            [
+                0.19760255727224293,
+                0.38238636363636364
+            ],
+            [
+                0.19579115610015982,
+                0.3797348484848485
+            ],
+            [
+                0.19376664890783163,
+                0.3759469696969697
+            ]
+        ],
+        [
+            [
+                0.1876931273308471,
+                0.3645833333333333
+            ],
+            [
+                0.1856686201385189,
+                0.3607954545454546
+            ],
+            [
+                0.18375066595631323,
+                0.3575757575757576
+            ]
+        ],
+        [
+            [
+                0.1779968034096963,
+                0.3479166666666667
+            ],
+            [
+                0.17607884922749065,
+                0.3446969696969697
+            ],
+            [
+                0.17437400106553008,
+                0.33977272727272734
+            ]
+        ],
+        [
+            [
+                0.1692594565796484,
+                0.325
+            ],
+            [
+                0.1675546084176878,
+                0.32007575757575757
+            ],
+            [
+                0.16648907831646245,
+                0.31628787878787884
+            ]
+        ],
+        [
+            [
+                0.16329248801278634,
+                0.30492424242424243
+            ],
+            [
+                0.162226957911561,
+                0.30113636363636365
+            ],
+            [
+                0.16212040490143845,
+                0.2990530303030303
+            ]
+        ],
+        [
+            [
+                0.16180074587107088,
+                0.29280303030303034
+            ],
+            [
+                0.16169419286094833,
+                0.29071969696969696
+            ],
+            [
+                0.1589238145977624,
+                0.3034090909090909
+            ]
+        ],
+        [
+            [
+                0.15061267980820456,
+                0.34147727272727274
+            ],
+            [
+                0.14784230154501862,
+                0.3541666666666667
+            ],
+            [
+                0.1465636654235482,
+                0.3625
+            ]
+        ],
+        [
+            [
+                0.1427277570591369,
+                0.3875
+            ],
+            [
+                0.14144912093766646,
+                0.3958333333333333
+            ],
+            [
+                0.14166222695791156,
+                0.4102272727272727
+            ]
+        ],
+        [
+            [
+                0.14230154501864678,
+                0.45340909090909093
+            ],
+            [
+                0.14251465103889185,
+                0.46780303030303033
+            ],
+            [
+                0.1444326052210975,
+                0.49053030303030304
+            ]
+        ],
+        [
+            [
+                0.15018646776771444,
+                0.5587121212121213
+            ],
+            [
+                0.15210442194992008,
+                0.5814393939393939
+            ],
+            [
+                0.15434203516249337,
+                0.596969696969697
+            ]
+        ],
+        [
+            [
+                0.1610548748002131,
+                0.6435606060606062
+            ],
+            [
+                0.16329248801278637,
+                0.6590909090909092
+            ],
+            [
+                0.1680873734683005,
+                0.6761363636363636
+            ]
+        ],
+        [
+            [
+                0.1824720298348428,
+                0.7272727272727273
+            ],
+            [
+                0.18726691529035694,
+                0.7443181818181819
+            ],
+            [
+                0.19035695258391047,
+                0.7549242424242425
+            ]
+        ],
+        [
+            [
+                0.1996270644645711,
+                0.7867424242424242
+            ],
+            [
+                0.20271710175812466,
+                0.7973484848484849
+            ],
+            [
+                0.20442194992008522,
+                0.8
+            ]
+        ],
+        [
+            [
+                0.20953649440596694,
+                0.8079545454545455
+            ],
+            [
+                0.21124134256792754,
+                0.8106060606060607
+            ],
+            [
+                0.21561001598295151,
+                0.8068181818181819
+            ]
+        ],
+        [
+            [
+                0.22871603622802344,
+                0.7954545454545455
+            ],
+            [
+                0.2330847096430474,
+                0.7916666666666666
+            ],
+            [
+                0.23372402770378262,
+                0.7903409090909091
+            ]
+        ]
+    ]
+}
+</property>
+    <property name="disable">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <playlist id="playlist17"/>
+ <tractor id="tractor8" in="00:00:00.000" out="00:01:30.040">
+  <property name="kdenlive:track_name">Plans Rapprochés 4</property>
+  <property name="kdenlive:trackheight">69</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <track producer="playlist16"/>
+  <track producer="playlist17"/>
+ </tractor>
+ <tractor id="tractor9" global_feed="1" in="00:00:00.000" out="00:27:42.760">
   <track producer="black_track"/>
   <track producer="tractor0"/>
   <track producer="tractor1"/>
@@ -4616,24 +7981,15 @@
   <track producer="tractor5"/>
   <track producer="tractor6"/>
   <track producer="tractor7"/>
-  <transition id="transition0">
-   <property name="a_track">0</property>
-   <property name="b_track">1</property>
-   <property name="mlt_service">mix</property>
-   <property name="kdenlive_id">mix</property>
-   <property name="internal_added">237</property>
-   <property name="always_active">1</property>
-   <property name="accepts_blanks">1</property>
-   <property name="sum">1</property>
-  </transition>
-  <transition id="transition1" in="00:01:14.480" out="00:01:24.400">
+  <track producer="tractor8"/>
+  <transition id="transition0" in="00:01:14.480" out="00:01:24.400">
    <property name="a_track">7</property>
    <property name="b_track">8</property>
    <property name="version">0.2</property>
-   <property name="mlt_service">frei0r.difference</property>
-   <property name="kdenlive_id">frei0r.difference</property>
+   <property name="mlt_service">frei0r.multiply</property>
+   <property name="kdenlive_id">frei0r.multiply</property>
   </transition>
-  <transition id="transition2" in="00:01:11.720" out="00:01:14.040">
+  <transition id="transition1" in="00:01:11.720" out="00:01:14.040">
    <property name="a_track">3</property>
    <property name="b_track">4</property>
    <property name="start">0/0:100%x100%</property>
@@ -4644,6 +8000,16 @@
    <property name="kdenlive_id">composite</property>
    <property name="geometry">0=0 0 1920 1080 100</property>
    <property name="luma"/>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+   <property name="accepts_blanks">1</property>
+   <property name="sum">1</property>
   </transition>
   <transition id="transition3">
    <property name="a_track">0</property>
@@ -4722,21 +8088,32 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <filter id="filter6">
+  <transition id="transition10">
+   <property name="a_track">0</property>
+   <property name="b_track">9</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="kdenlive_id">qtblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <filter id="filter9">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter7">
+  <filter id="filter10">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter8">
+  <filter id="filter11">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="disable">1</property>
