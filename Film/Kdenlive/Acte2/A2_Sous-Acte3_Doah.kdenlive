@@ -108,6 +108,9 @@
   <property name="meta.media.width">640</property>
   <property name="meta.media.height">360</property>
   <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:active_streams">-1</property>
  </producer>
  <producer id="producer1" in="00:00:00.000" out="00:00:14.520">
   <property name="length">364</property>
@@ -216,6 +219,9 @@
   <property name="meta.media.width">640</property>
   <property name="meta.media.height">360</property>
   <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:active_streams">-1</property>
  </producer>
  <producer id="producer2" in="00:00:00.000" out="00:00:20.240">
   <property name="length">507</property>
@@ -324,6 +330,9 @@
   <property name="meta.media.width">640</property>
   <property name="meta.media.height">360</property>
   <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:active_streams">-1</property>
  </producer>
  <producer id="producer3" in="00:00:00.000" out="00:00:08.840">
   <property name="length">222</property>
@@ -432,6 +441,9 @@
   <property name="meta.media.width">640</property>
   <property name="meta.media.height">360</property>
   <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:active_streams">-1</property>
  </producer>
  <producer id="producer4" in="00:00:00.000" out="00:00:15.560">
   <property name="length">390</property>
@@ -540,6 +552,9 @@
   <property name="meta.media.width">640</property>
   <property name="meta.media.height">360</property>
   <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:active_streams">-1</property>
  </producer>
  <producer id="producer5" in="00:00:00.000" out="00:01:51.240">
   <property name="length">2782</property>
@@ -650,6 +665,9 @@
   <property name="meta.media.width">640</property>
   <property name="meta.media.height">360</property>
   <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:active_streams">-1</property>
  </producer>
  <producer id="producer6" in="00:00:00.000" out="00:01:42.440">
   <property name="length">2562</property>
@@ -758,6 +776,9 @@
   <property name="meta.media.width">640</property>
   <property name="meta.media.height">360</property>
   <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:active_streams">-1</property>
  </producer>
  <producer id="producer7" in="00:00:00.000" out="00:00:18.160">
   <property name="length">455</property>
@@ -866,6 +887,9 @@
   <property name="meta.media.width">640</property>
   <property name="meta.media.height">360</property>
   <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:active_streams">-1</property>
  </producer>
  <producer id="producer8" in="00:00:00.000" out="00:01:29.400">
   <property name="length">2236</property>
@@ -974,6 +998,9 @@
   <property name="meta.media.width">640</property>
   <property name="meta.media.height">360</property>
   <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:active_streams">-1</property>
  </producer>
  <producer id="producer9" in="00:00:00.000" out="00:00:20.240">
   <property name="length">507</property>
@@ -1082,6 +1109,9 @@
   <property name="meta.media.width">640</property>
   <property name="meta.media.height">360</property>
   <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:active_streams">-1</property>
  </producer>
  <producer id="producer10" in="00:00:00.000" out="00:00:41.560">
   <property name="length">1040</property>
@@ -1192,6 +1222,9 @@
   <property name="meta.media.width">640</property>
   <property name="meta.media.height">360</property>
   <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:active_streams">-1</property>
  </producer>
  <producer id="producer11" in="00:00:00.000" out="00:00:21.320">
   <property name="length">534</property>
@@ -1300,6 +1333,9 @@
   <property name="meta.media.width">640</property>
   <property name="meta.media.height">360</property>
   <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:active_streams">-1</property>
  </producer>
  <producer id="producer12" in="00:00:00.000" out="00:00:55.080">
   <property name="length">1378</property>
@@ -1408,6 +1444,9 @@
   <property name="meta.media.width">640</property>
   <property name="meta.media.height">360</property>
   <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:active_streams">-1</property>
  </producer>
  <producer id="producer13" in="00:00:00.000" out="00:04:58.440">
   <property name="length">7462</property>
@@ -1518,6 +1557,7 @@
   <property name="meta.media.color_range">full</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:active_streams">-1</property>
  </producer>
  <producer id="producer14" in="00:00:00.000" out="00:00:06.680">
   <property name="length">168</property>
@@ -1628,6 +1668,9 @@
   <property name="meta.media.width">640</property>
   <property name="meta.media.height">360</property>
   <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:active_streams">-1</property>
  </producer>
  <producer id="producer15" in="00:00:00.000" out="00:00:47.000">
   <property name="length">1176</property>
@@ -1736,6 +1779,9 @@
   <property name="meta.media.width">640</property>
   <property name="meta.media.height">360</property>
   <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:active_streams">-1</property>
  </producer>
  <producer id="producer16" in="00:00:00.000" out="00:00:35.480">
   <property name="length">888</property>
@@ -1844,6 +1890,9 @@
   <property name="meta.media.width">640</property>
   <property name="meta.media.height">360</property>
   <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:active_streams">-1</property>
  </producer>
  <producer id="producer17" in="00:00:00.000" out="00:05:39.000">
   <property name="length">8476</property>
@@ -1956,11 +2005,12 @@
   <property name="meta.media.color_range">full</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:active_streams">-1</property>
  </producer>
  <playlist id="main_bin">
-  <property name="kdenlive:docproperties.activeTrack">1</property>
+  <property name="kdenlive:docproperties.activeTrack">5</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
-  <property name="kdenlive:docproperties.audioTarget">0</property>
+  <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
   <property name="kdenlive:docproperties.documentid">1610619085784</property>
   <property name="kdenlive:docproperties.enableTimelineZone">0</property>
@@ -1990,7 +2040,7 @@
   <property name="kdenlive:docproperties.videoTarget">1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">75</property>
-  <property name="kdenlive:docproperties.zoom">20</property>
+  <property name="kdenlive:docproperties.zoom">12</property>
   <property name="kdenlive:expandedFolders"/>
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
