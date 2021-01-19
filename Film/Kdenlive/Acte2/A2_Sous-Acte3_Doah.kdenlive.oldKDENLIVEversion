@@ -2404,8 +2404,8 @@
   <property name="kdenlive:docproperties.groups">[
 ]
 </property>
-  <property name="kdenlive:docproperties.kdenliveversion">21.03.70</property>
-  <property name="kdenlive:docproperties.position">1659</property>
+  <property name="kdenlive:docproperties.kdenliveversion">20.12.1</property>
+  <property name="kdenlive:docproperties.position">2171</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">atsc_1080i_50</property>
@@ -2433,17 +2433,17 @@
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">0</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/home/orl/A2_Sous-Acte3_Doah_test_nukdenliveVersion.mp4</property>
+  <property name="kdenlive:docproperties.renderurl">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Exports/Acte2/A2_Sous-Acte3_Doah.mp4</property>
   <property name="kdenlive:docproperties.renderzone">1</property>
-  <property name="kdenlive:docproperties.scrollPos">208</property>
+  <property name="kdenlive:docproperties.scrollPos">5243</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.storagefolder">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/1610619085784</property>
   <property name="kdenlive:docproperties.version">1</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">-1</property>
-  <property name="kdenlive:docproperties.zonein">1643</property>
+  <property name="kdenlive:docproperties.videoTarget">12</property>
+  <property name="kdenlive:docproperties.zonein">1947</property>
   <property name="kdenlive:docproperties.zoneout">2188</property>
-  <property name="kdenlive:docproperties.zoom">10</property>
+  <property name="kdenlive:docproperties.zoom">4</property>
   <property name="kdenlive:expandedFolders">33;20</property>
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
@@ -2475,9 +2475,9 @@
   <entry producer="producer25" in="00:00:00.000" out="00:02:19.120"/>
   <entry producer="producer26" in="00:00:00.000" out="00:03:10.680"/>
   <entry producer="producer27" in="00:00:00.000" out="00:03:21.120"/>
-  <entry producer="producer28" in="00:00:00.000" out="00:00:41.000"/>
+  <entry producer="producer28" in="00:00:00.000" out="00:00:04.960"/>
   <entry producer="producer29" in="00:00:00.000" out="00:00:04.960"/>
-  <entry producer="producer30" in="00:00:00.000" out="00:00:05.520"/>
+  <entry producer="producer30" in="00:00:00.000" out="00:00:04.960"/>
  </playlist>
  <producer id="black_track" in="00:00:00.000" out="00:27:42.760">
   <property name="length">2147483647</property>
@@ -4560,6 +4560,7 @@
   </entry>
   <entry producer="producer25" in="00:00:32.520" out="00:00:42.440">
    <property name="kdenlive:id">30</property>
+   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter11">
     <property name="mode">alpha</property>
     <property name="alpha_operation">clear</property>
@@ -5186,6 +5187,7 @@
   </entry>
   <entry producer="producer25" in="00:00:32.520" out="00:00:42.440">
    <property name="kdenlive:id">30</property>
+   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter14">
     <property name="mode">alpha</property>
     <property name="alpha_operation">clear</property>
@@ -5812,6 +5814,7 @@
   </entry>
   <entry producer="producer25" in="00:00:32.520" out="00:00:42.440">
    <property name="kdenlive:id">30</property>
+   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter17">
     <property name="mode">alpha</property>
     <property name="alpha_operation">clear</property>
@@ -6438,6 +6441,7 @@
   </entry>
   <entry producer="producer25" in="00:00:32.520" out="00:00:34.040">
    <property name="kdenlive:id">30</property>
+   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter20">
     <property name="mode">alpha</property>
     <property name="alpha_operation">clear</property>
@@ -10424,6 +10428,7 @@
   </entry>
   <entry producer="producer43" in="00:00:00.000" out="00:00:15.560">
    <property name="kdenlive:id">9</property>
+   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter26">
     <property name="mode">alpha</property>
     <property name="alpha_operation">clear</property>
@@ -13650,6 +13655,7 @@
   </entry>
   <entry producer="producer43" in="00:00:00.000" out="00:00:10.160">
    <property name="kdenlive:id">9</property>
+   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter28">
     <property name="mode">alpha</property>
     <property name="alpha_operation">clear</property>
@@ -17992,13 +17998,10 @@
  </playlist>
  <playlist id="playlist21"/>
  <tractor id="tractor10" in="00:00:00.000" out="00:01:55.840">
+  <property name="kdenlive:track_name">Prophétie Racontée</property>
   <property name="kdenlive:trackheight">69</property>
   <property name="kdenlive:timeline_active">1</property>
-  <property name="kdenlive:collapsed">0</property>
-  <property name="kdenlive:track_name">Prophétie Racontée</property>
-  <property name="kdenlive:thumbs_format"/>
-  <property name="kdenlive:audio_rec"/>
-  <track hide="audio" producer="playlist20"/>
+  <track producer="playlist20"/>
   <track producer="playlist21"/>
   <filter id="filter34" out="00:01:55.880">
    <property name="mlt_service">greyscale</property>
@@ -18009,6 +18012,7 @@
   <blank length="00:01:19.440"/>
   <entry producer="producer29" in="00:00:00.000" out="00:00:04.960">
    <property name="kdenlive:id">36</property>
+   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter35">
     <property name="start">2</property>
     <property name="hori">00:00:00.000=3;00:00:00.360=6;00:00:00.800=3;00:00:04.320=3;00:00:04.560=6;00:00:04.800=3</property>
@@ -18038,13 +18042,10 @@
  </playlist>
  <playlist id="playlist23"/>
  <tractor id="tractor11" in="00:00:00.000" out="00:01:24.400">
+  <property name="kdenlive:track_name">Effets Prophétie écrite</property>
   <property name="kdenlive:trackheight">69</property>
   <property name="kdenlive:timeline_active">1</property>
-  <property name="kdenlive:collapsed">0</property>
-  <property name="kdenlive:track_name">Effets Prophétie écrite</property>
-  <property name="kdenlive:thumbs_format"/>
-  <property name="kdenlive:audio_rec"/>
-  <track hide="audio" producer="playlist22"/>
+  <track producer="playlist22"/>
   <track producer="playlist23"/>
  </tractor>
  <playlist id="playlist24">
@@ -18081,19 +18082,17 @@
  </playlist>
  <playlist id="playlist25"/>
  <tractor id="tractor12" in="00:00:00.000" out="00:01:26.920">
+  <property name="kdenlive:track_name">Effets Prophétie Ecrite 2</property>
   <property name="kdenlive:trackheight">69</property>
   <property name="kdenlive:timeline_active">1</property>
-  <property name="kdenlive:collapsed">0</property>
-  <property name="kdenlive:track_name">Effets Prophétie Ecrite 2</property>
-  <property name="kdenlive:thumbs_format"/>
-  <property name="kdenlive:audio_rec"/>
-  <track hide="audio" producer="playlist24"/>
+  <track producer="playlist24"/>
   <track producer="playlist25"/>
  </tractor>
  <playlist id="playlist26">
   <blank length="00:01:19.720"/>
   <entry producer="producer29" in="00:00:00.000" out="00:00:04.240">
    <property name="kdenlive:id">36</property>
+   <property name="kdenlive:activeeffect">1</property>
    <filter id="filter41" out="00:00:00.680">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
@@ -18111,7 +18110,7 @@
     <property name="kdenlive_id">boxblur</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter43" in="00:00:04.040" out="00:00:04.240">
+   <filter id="filter43" in="00:00:04.080" out="00:00:04.280">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -18123,19 +18122,18 @@
  </playlist>
  <playlist id="playlist27"/>
  <tractor id="tractor13" in="00:00:00.000" out="00:01:23.960">
+  <property name="kdenlive:track_name">Prophétie Ecrite</property>
   <property name="kdenlive:trackheight">69</property>
   <property name="kdenlive:timeline_active">1</property>
-  <property name="kdenlive:collapsed">0</property>
-  <property name="kdenlive:track_name">Prophétie Ecrite</property>
-  <property name="kdenlive:thumbs_format"/>
-  <property name="kdenlive:audio_rec"/>
-  <track hide="audio" producer="playlist26"/>
+  <property name="kdenlive:activeeffect">-1</property>
+  <track producer="playlist26"/>
   <track producer="playlist27"/>
  </tractor>
  <playlist id="playlist28">
   <blank length="00:01:22.520"/>
   <entry producer="producer30" in="00:00:00.000" out="00:00:04.160">
    <property name="kdenlive:id">37</property>
+   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter44">
     <property name="start">2</property>
     <property name="hori">00:00:00.000=1;00:00:00.760=1;00:00:03.320=1;00:00:03.720=1</property>
@@ -18165,13 +18163,10 @@
  </playlist>
  <playlist id="playlist29"/>
  <tractor id="tractor14" in="00:00:00.000" out="00:01:26.680">
+  <property name="kdenlive:track_name">Prophétie Ecrite 2</property>
   <property name="kdenlive:trackheight">69</property>
   <property name="kdenlive:timeline_active">1</property>
-  <property name="kdenlive:collapsed">0</property>
-  <property name="kdenlive:track_name">Prophétie Ecrite 2</property>
-  <property name="kdenlive:thumbs_format"/>
-  <property name="kdenlive:audio_rec"/>
-  <track hide="audio" producer="playlist28"/>
+  <track producer="playlist28"/>
   <track producer="playlist29"/>
  </tractor>
  <playlist id="playlist30">
