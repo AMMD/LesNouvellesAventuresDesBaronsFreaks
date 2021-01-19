@@ -2261,17 +2261,75 @@
   <property name="mlt_service">qimage</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:duration">00:00:05.000</property>
-  <property name="kdenlive:folderid">22</property>
+  <property name="kdenlive:folderid">32</property>
   <property name="kdenlive:id">31</property>
   <property name="kdenlive:file_size">15897</property>
   <property name="kdenlive:file_hash">f9d7b6a168be071733bbf96b4dec98be</property>
+ </producer>
+ <producer id="producer27" in="00:00:00.000" out="00:03:21.120">
+  <property name="length">5029</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Common/Crop4tiers2_1080p.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">32</property>
+  <property name="kdenlive:id">34</property>
+  <property name="kdenlive:file_size">21871</property>
+  <property name="kdenlive:file_hash">3987722afcb7d0f34676d7ff4da40e1d</property>
+ </producer>
+ <producer id="producer28" in="00:00:00.000" out="00:00:13.560">
+  <property name="length">340</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/fecacce1f220c495d1367009b2259bb9.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">800</property>
+  <property name="meta.media.height">450</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname">Diaphragme.png</property>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">32</property>
+  <property name="kdenlive:id">35</property>
+  <property name="kdenlive:file_size">60810</property>
+  <property name="kdenlive:file_hash">fecacce1f220c495d1367009b2259bb9</property>
+  <property name="kdenlive:proxy">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/fecacce1f220c495d1367009b2259bb9.png</property>
+  <property name="kdenlive:originalurl">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Common/Diaphragme.png</property>
+  <property name="kdenlive:original.mlt_type">producer</property>
+  <property name="kdenlive:original.in">0</property>
+  <property name="kdenlive:original.out">124</property>
+  <property name="kdenlive:original.length">00:00:05.000</property>
+  <property name="kdenlive:original.eof">pause</property>
+  <property name="kdenlive:original.resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Common/Diaphragme.png</property>
+  <property name="kdenlive:original.ttl">25</property>
+  <property name="kdenlive:original.aspect_ratio">1</property>
+  <property name="kdenlive:original.progressive">1</property>
+  <property name="kdenlive:original.seekable">1</property>
+  <property name="kdenlive:original.meta.media.width">2560</property>
+  <property name="kdenlive:original.meta.media.height">1440</property>
+  <property name="kdenlive:original.mlt_service">qimage</property>
+  <property name="kdenlive:original.kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:original.kdenlive:folderid">32</property>
+  <property name="kdenlive:original.kdenlive:id">35</property>
+  <property name="kdenlive:original.kdenlive:file_size">60810</property>
+  <property name="kdenlive:original.kdenlive:file_hash">fecacce1f220c495d1367009b2259bb9</property>
+  <property name="kdenlive:original.backup">1</property>
+  <property name="global_feed">1</property>
  </producer>
  <playlist id="main_bin">
   <property name="kdenlive:folder.-1.20">Panneaux</property>
   <property name="kdenlive:folder.-1.22">PlansLarges</property>
   <property name="kdenlive:folder.-1.24">PlansRapprochés</property>
   <property name="kdenlive:folder.-1.33">GreenScreen</property>
-  <property name="kdenlive:docproperties.activeTrack">7</property>
+  <property name="kdenlive:docproperties.activeTrack">9</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
   <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
@@ -2286,7 +2344,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.12.1</property>
-  <property name="kdenlive:docproperties.position">2034</property>
+  <property name="kdenlive:docproperties.position">1912</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">atsc_1080i_50</property>
@@ -2316,7 +2374,7 @@
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Exports/Acte2/A2_Sous-Acte3_Doah_rapide.mp4</property>
   <property name="kdenlive:docproperties.renderzone">1</property>
-  <property name="kdenlive:docproperties.scrollPos">1264</property>
+  <property name="kdenlive:docproperties.scrollPos">1416</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.storagefolder">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/1610619085784</property>
   <property name="kdenlive:docproperties.version">1</property>
@@ -2325,8 +2383,9 @@
   <property name="kdenlive:docproperties.zonein">1581</property>
   <property name="kdenlive:docproperties.zoneout">2292</property>
   <property name="kdenlive:docproperties.zoom">6</property>
-  <property name="kdenlive:expandedFolders">33;22</property>
+  <property name="kdenlive:expandedFolders">32;33;24</property>
   <property name="kdenlive:documentnotes"/>
+  <property name="kdenlive:folder.-1.32">Utils</property>
   <property name="xml_retain">1</property>
   <entry producer="producer13" in="00:00:00.000" out="00:04:58.440"/>
   <entry producer="producer6" in="00:00:00.000" out="00:01:51.240"/>
@@ -2354,7 +2413,9 @@
   <entry producer="producer24" in="00:00:00.000" out="00:00:04.960"/>
   <entry producer="producer25" in="00:00:00.000" out="00:02:19.120"/>
   <entry producer="producer17" in="00:00:00.000" out="00:05:39.000"/>
-  <entry producer="producer26" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer26" in="00:00:00.000" out="00:03:10.680"/>
+  <entry producer="producer27" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer28" in="00:00:00.000" out="00:00:04.960"/>
  </playlist>
  <producer id="black_track" in="00:00:00.000" out="00:27:42.760">
   <property name="length">2147483647</property>
@@ -2409,7 +2470,7 @@
   <track hide="audio" producer="playlist2"/>
   <track producer="playlist3"/>
  </tractor>
- <producer id="producer27" in="00:00:00.000" out="00:01:51.240">
+ <producer id="producer29" in="00:00:00.000" out="00:01:51.240">
   <property name="length">2782</property>
   <property name="eof">pause</property>
   <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/78a6b85e16c96e33deccb65742ecb323.mkv</property>
@@ -2527,7 +2588,7 @@
  </producer>
  <playlist id="playlist4">
   <blank length="00:01:11.720"/>
-  <entry producer="producer27" in="00:00:04.360" out="00:00:06.680">
+  <entry producer="producer29" in="00:00:04.360" out="00:00:06.680">
    <property name="kdenlive:id">4</property>
   </entry>
  </playlist>
@@ -2542,7 +2603,7 @@
   <track hide="audio" producer="playlist4"/>
   <track producer="playlist5"/>
  </tractor>
- <producer id="producer28" in="00:00:00.000" out="00:04:58.440">
+ <producer id="producer30" in="00:00:00.000" out="00:04:58.440">
   <property name="length">7462</property>
   <property name="eof">pause</property>
   <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/7fa509ec6e81505c37adcf930be364c5.mkv</property>
@@ -2656,7 +2717,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer29" in="00:00:00.000" out="00:05:39.000">
+ <producer id="producer31" in="00:00:00.000" out="00:05:39.000">
   <property name="length">8476</property>
   <property name="eof">pause</property>
   <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/7308ae0601f226e2742ffb42bb80ed2d.mkv</property>
@@ -2773,7 +2834,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer30" in="00:00:00.000" out="00:01:51.240">
+ <producer id="producer32" in="00:00:00.000" out="00:01:51.240">
   <property name="length">2782</property>
   <property name="eof">pause</property>
   <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/78a6b85e16c96e33deccb65742ecb323.mkv</property>
@@ -2890,23 +2951,23 @@
   <property name="set.test_image">0</property>
  </producer>
  <playlist id="playlist6">
-  <entry producer="producer28" in="00:00:00.000" out="00:00:11.880">
+  <entry producer="producer30" in="00:00:00.000" out="00:00:11.880">
    <property name="kdenlive:id">3</property>
   </entry>
   <blank length="00:00:01.280"/>
-  <entry producer="producer28" in="00:00:13.560" out="00:00:19.920">
+  <entry producer="producer30" in="00:00:13.560" out="00:00:19.920">
    <property name="kdenlive:id">3</property>
   </entry>
   <blank length="00:00:00.760"/>
-  <entry producer="producer28" in="00:00:19.960" out="00:00:29.240">
+  <entry producer="producer30" in="00:00:19.960" out="00:00:29.240">
    <property name="kdenlive:id">3</property>
   </entry>
   <blank length="00:00:00.720"/>
-  <entry producer="producer29" in="00:00:31.000" out="00:01:03.800">
+  <entry producer="producer31" in="00:00:31.000" out="00:01:03.800">
    <property name="kdenlive:id">2</property>
   </entry>
   <blank length="00:00:08.480"/>
-  <entry producer="producer30" in="00:00:04.880" out="00:00:07.600">
+  <entry producer="producer32" in="00:00:04.880" out="00:00:07.600">
    <property name="kdenlive:id">4</property>
    <filter id="filter3">
     <property name="version">0.1</property>
@@ -2924,7 +2985,7 @@
     <property name="disable">1</property>
    </filter>
   </entry>
-  <entry producer="producer30" in="00:00:07.640" out="00:01:51.240">
+  <entry producer="producer32" in="00:00:07.640" out="00:01:51.240">
    <property name="kdenlive:id">4</property>
    <filter id="filter4">
     <property name="version">0.1</property>
@@ -2943,7 +3004,7 @@
    </filter>
   </entry>
   <blank length="00:00:32.080"/>
-  <entry producer="producer28" in="00:00:45.920" out="00:04:58.440">
+  <entry producer="producer30" in="00:00:45.920" out="00:04:58.440">
    <property name="kdenlive:id">3</property>
   </entry>
  </playlist>
@@ -2991,7 +3052,7 @@
   <track hide="audio" producer="playlist8"/>
   <track producer="playlist9"/>
  </tractor>
- <producer id="producer31" in="00:00:00.000" out="00:00:18.160">
+ <producer id="producer33" in="00:00:00.000" out="00:00:18.160">
   <property name="length">455</property>
   <property name="eof">pause</property>
   <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/681619795c55f487d9d41e6134d98264.mkv</property>
@@ -3105,7 +3166,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer32" in="00:00:00.000" out="00:00:16.760">
+ <producer id="producer34" in="00:00:00.000" out="00:00:16.760">
   <property name="length">420</property>
   <property name="eof">pause</property>
   <property name="resource">0.400000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/55d0b95716f320889035e3d22119db54.mkv</property>
@@ -3161,7 +3222,7 @@
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer33" in="00:00:00.000" out="00:00:15.560">
+ <producer id="producer35" in="00:00:00.000" out="00:00:15.560">
   <property name="length">390</property>
   <property name="eof">pause</property>
   <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/c644c649f009bc0153331d539d96729b.mkv</property>
@@ -3277,15 +3338,15 @@
  </producer>
  <playlist id="playlist10">
   <blank length="00:01:03.240"/>
-  <entry producer="producer31" in="00:00:00.000" out="00:00:02.440">
+  <entry producer="producer33" in="00:00:00.000" out="00:00:02.440">
    <property name="kdenlive:id">12</property>
   </entry>
   <blank length="00:00:02.560"/>
-  <entry producer="producer32" in="00:00:04.680" out="00:00:07.600">
+  <entry producer="producer34" in="00:00:04.680" out="00:00:07.600">
    <property name="kdenlive:id">19</property>
   </entry>
   <blank length="00:00:03.240"/>
-  <entry producer="producer33" in="00:00:00.000" out="00:00:15.560">
+  <entry producer="producer35" in="00:00:00.000" out="00:00:15.560">
    <property name="kdenlive:id">9</property>
   </entry>
  </playlist>
@@ -3304,7 +3365,7 @@
    <property name="kdenlive_id">greyscale</property>
   </filter>
  </tractor>
- <producer id="producer34" in="00:00:00.000" out="00:01:34.040">
+ <producer id="producer36" in="00:00:00.000" out="00:01:34.040">
   <property name="length">2352</property>
   <property name="eof">pause</property>
   <property name="resource">0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/286d1e01b47d610b79631bc3df232090.mkv</property>
@@ -3360,7 +3421,7 @@
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer35" in="00:00:00.000" out="00:02:36.760">
+ <producer id="producer37" in="00:00:00.000" out="00:02:36.760">
   <property name="length">3920</property>
   <property name="eof">pause</property>
   <property name="resource">0.300000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/286d1e01b47d610b79631bc3df232090.mkv</property>
@@ -3416,7 +3477,7 @@
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer36" in="00:00:00.000" out="00:00:15.560">
+ <producer id="producer38" in="00:00:00.000" out="00:00:15.560">
   <property name="length">390</property>
   <property name="eof">pause</property>
   <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/c644c649f009bc0153331d539d96729b.mkv</property>
@@ -3532,15 +3593,15 @@
  </producer>
  <playlist id="playlist12">
   <blank length="00:01:07.440"/>
-  <entry producer="producer34" in="00:00:27.200" out="00:00:28.200">
+  <entry producer="producer36" in="00:00:27.200" out="00:00:28.200">
    <property name="kdenlive:id">17</property>
   </entry>
   <blank length="00:00:01.320"/>
-  <entry producer="producer35" in="00:00:46.320" out="00:00:48.200">
+  <entry producer="producer37" in="00:00:46.320" out="00:00:48.200">
    <property name="kdenlive:id">17</property>
   </entry>
   <blank length="00:00:02.760"/>
-  <entry producer="producer36" in="00:00:00.000" out="00:00:15.560">
+  <entry producer="producer38" in="00:00:00.000" out="00:00:15.560">
    <property name="kdenlive:id">9</property>
   </entry>
  </playlist>
@@ -3559,7 +3620,7 @@
    <property name="kdenlive_id">greyscale</property>
   </filter>
  </tractor>
- <producer id="producer38" in="00:00:00.000" out="00:04:58.440">
+ <producer id="producer39" in="00:00:00.000" out="00:04:58.440">
   <property name="length">7462</property>
   <property name="eof">pause</property>
   <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/7fa509ec6e81505c37adcf930be364c5.mkv</property>
@@ -3673,7 +3734,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer39" in="00:00:00.000" out="00:01:29.400">
+ <producer id="producer40" in="00:00:00.000" out="00:01:29.400">
   <property name="length">2236</property>
   <property name="eof">pause</property>
   <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/a2f20958e800dbdde228e2d32a54af50.mkv</property>
@@ -3789,16 +3850,16 @@
  </producer>
  <playlist id="playlist14">
   <blank length="00:01:05.720"/>
-  <entry producer="producer38" in="00:01:03.240" out="00:01:05.280">
+  <entry producer="producer39" in="00:01:03.240" out="00:01:05.280">
    <property name="kdenlive:id">3</property>
   </entry>
   <blank length="00:00:05.280"/>
-  <entry producer="producer39" in="00:00:02.680" out="00:00:04.040">
+  <entry producer="producer40" in="00:00:02.680" out="00:00:04.040">
    <property name="kdenlive:id">11</property>
   </entry>
   <entry producer="producer25" in="00:00:32.520" out="00:00:42.440">
    <property name="kdenlive:id">30</property>
-   <property name="kdenlive:activeeffect">2</property>
+   <property name="kdenlive:activeeffect">1</property>
    <filter id="filter8">
     <property name="mode">alpha</property>
     <property name="alpha_operation">clear</property>
@@ -5066,7 +5127,7 @@
    <property name="kdenlive_id">greyscale</property>
   </filter>
  </tractor>
- <producer id="producer40" in="00:00:00.000" out="00:00:15.560">
+ <producer id="producer41" in="00:00:00.000" out="00:00:15.560">
   <property name="length">390</property>
   <property name="eof">pause</property>
   <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/proxy/c644c649f009bc0153331d539d96729b.mkv</property>
@@ -5182,7 +5243,7 @@
  </producer>
  <playlist id="playlist16">
   <blank length="00:01:14.480"/>
-  <entry producer="producer40" in="00:00:00.000" out="00:00:15.560">
+  <entry producer="producer41" in="00:00:00.000" out="00:00:15.560">
    <property name="kdenlive:id">9</property>
    <property name="kdenlive:activeeffect">1</property>
    <filter id="filter15">
@@ -8426,9 +8487,14 @@
    <property name="kdenlive_id">greyscale</property>
   </filter>
  </tractor>
- <playlist id="playlist18"/>
+ <playlist id="playlist18">
+  <blank length="00:01:16.480"/>
+  <entry producer="producer28" in="00:00:00.000" out="00:00:13.560">
+   <property name="kdenlive:id">35</property>
+  </entry>
+ </playlist>
  <playlist id="playlist19"/>
- <tractor id="tractor9" in="00:00:00.000">
+ <tractor id="tractor9" in="00:00:00.000" out="00:01:30.040">
   <property name="kdenlive:track_name">Diaphragmes</property>
   <property name="kdenlive:trackheight">69</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -8445,10 +8511,23 @@
   <property name="kdenlive:track_name">Crop4Tiers</property>
   <property name="kdenlive:trackheight">69</property>
   <property name="kdenlive:timeline_active">1</property>
-  <track producer="playlist20"/>
+  <track hide="both" producer="playlist20"/>
   <track producer="playlist21"/>
  </tractor>
- <tractor id="tractor11" global_feed="1" in="00:00:00.000" out="00:27:42.760">
+ <playlist id="playlist22">
+  <entry producer="producer27" in="00:00:00.000" out="00:03:10.680">
+   <property name="kdenlive:id">34</property>
+  </entry>
+ </playlist>
+ <playlist id="playlist23"/>
+ <tractor id="tractor11" in="00:00:00.000" out="00:03:10.680">
+  <property name="kdenlive:track_name">Crop4TiersFlou</property>
+  <property name="kdenlive:trackheight">69</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <track producer="playlist22"/>
+  <track producer="playlist23"/>
+ </tractor>
+ <tractor id="tractor12" global_feed="1" in="00:00:00.000" out="00:27:42.760">
   <track producer="black_track"/>
   <track producer="tractor0"/>
   <track producer="tractor1"/>
@@ -8461,14 +8540,38 @@
   <track producer="tractor8"/>
   <track producer="tractor9"/>
   <track producer="tractor10"/>
-  <transition id="transition0" in="00:01:14.480" out="00:01:30.040">
+  <track producer="tractor11"/>
+  <transition id="transition0">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+   <property name="accepts_blanks">1</property>
+   <property name="sum">1</property>
+  </transition>
+  <transition id="transition1" in="00:01:16.480" out="00:01:30.040">
+   <property name="a_track">9</property>
+   <property name="b_track">10</property>
+   <property name="start">0/0:100%x100%</property>
+   <property name="factory">loader</property>
+   <property name="aligned">0</property>
+   <property name="progressive">1</property>
+   <property name="mlt_service">composite</property>
+   <property name="kdenlive_id">composite</property>
+   <property name="geometry">0=-2287 -1305 6432 3618 100.000000;15=-1039 -603 3936 2214 100.000000</property>
+   <property name="luma"/>
+   <property name="force_track">1</property>
+  </transition>
+  <transition id="transition2" in="00:01:14.480" out="00:01:30.040">
    <property name="a_track">7</property>
    <property name="b_track">8</property>
    <property name="version">0.2</property>
    <property name="mlt_service">frei0r.multiply</property>
    <property name="kdenlive_id">frei0r.multiply</property>
   </transition>
-  <transition id="transition1" in="00:01:11.720" out="00:01:14.040">
+  <transition id="transition3" in="00:01:11.720" out="00:01:14.040">
    <property name="a_track">3</property>
    <property name="b_track">4</property>
    <property name="start">0/0:100%x100%</property>
@@ -8480,17 +8583,7 @@
    <property name="geometry">0=0 0 1920 1080 100</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition2">
-   <property name="a_track">0</property>
-   <property name="b_track">1</property>
-   <property name="mlt_service">mix</property>
-   <property name="kdenlive_id">mix</property>
-   <property name="internal_added">237</property>
-   <property name="always_active">1</property>
-   <property name="accepts_blanks">1</property>
-   <property name="sum">1</property>
-  </transition>
-  <transition id="transition3">
+  <transition id="transition4">
    <property name="a_track">0</property>
    <property name="b_track">2</property>
    <property name="compositing">0</property>
@@ -8501,7 +8594,7 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <transition id="transition4">
+  <transition id="transition5">
    <property name="a_track">0</property>
    <property name="b_track">3</property>
    <property name="compositing">0</property>
@@ -8512,7 +8605,7 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <transition id="transition5">
+  <transition id="transition6">
    <property name="a_track">0</property>
    <property name="b_track">4</property>
    <property name="compositing">0</property>
@@ -8523,7 +8616,7 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <transition id="transition6">
+  <transition id="transition7">
    <property name="a_track">0</property>
    <property name="b_track">5</property>
    <property name="compositing">0</property>
@@ -8534,7 +8627,7 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <transition id="transition7">
+  <transition id="transition8">
    <property name="a_track">0</property>
    <property name="b_track">6</property>
    <property name="compositing">0</property>
@@ -8545,7 +8638,7 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <transition id="transition8">
+  <transition id="transition9">
    <property name="a_track">0</property>
    <property name="b_track">7</property>
    <property name="compositing">0</property>
@@ -8556,7 +8649,7 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <transition id="transition9">
+  <transition id="transition10">
    <property name="a_track">0</property>
    <property name="b_track">8</property>
    <property name="compositing">0</property>
@@ -8567,7 +8660,7 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <transition id="transition10">
+  <transition id="transition11">
    <property name="a_track">0</property>
    <property name="b_track">9</property>
    <property name="compositing">0</property>
@@ -8578,7 +8671,7 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <transition id="transition11">
+  <transition id="transition12">
    <property name="a_track">0</property>
    <property name="b_track">10</property>
    <property name="compositing">0</property>
@@ -8589,9 +8682,20 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <transition id="transition12">
+  <transition id="transition13">
    <property name="a_track">0</property>
    <property name="b_track">11</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="kdenlive_id">qtblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <transition id="transition14">
+   <property name="a_track">0</property>
+   <property name="b_track">12</property>
    <property name="compositing">0</property>
    <property name="distort">0</property>
    <property name="rotate_center">0</property>
