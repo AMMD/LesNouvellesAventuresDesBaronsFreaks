@@ -2685,7 +2685,7 @@
   <property name="kdenlive:folder.-1.24">PlansRapprochés</property>
   <property name="kdenlive:folder.-1.33">GreenScreen</property>
   <property name="kdenlive:folder.-1.32">Utils</property>
-  <property name="kdenlive:docproperties.activeTrack">13</property>
+  <property name="kdenlive:docproperties.activeTrack">17</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
   <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
@@ -2700,7 +2700,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">21.03.70</property>
-  <property name="kdenlive:docproperties.position">2866</property>
+  <property name="kdenlive:docproperties.position">1921</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">atsc_1080i_50</property>
@@ -2730,15 +2730,15 @@
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Exports/Acte2/A2_Sous-Acte3_Doah_Prophetie.mp4</property>
   <property name="kdenlive:docproperties.renderzone">1</property>
-  <property name="kdenlive:docproperties.scrollPos">525</property>
+  <property name="kdenlive:docproperties.scrollPos">791</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.storagefolder">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/1610619085784</property>
   <property name="kdenlive:docproperties.version">1</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.videoTarget">-1</property>
-  <property name="kdenlive:docproperties.zonein">1919</property>
-  <property name="kdenlive:docproperties.zoneout">2867</property>
-  <property name="kdenlive:docproperties.zoom">8</property>
+  <property name="kdenlive:docproperties.zonein">1986</property>
+  <property name="kdenlive:docproperties.zoneout">2907</property>
+  <property name="kdenlive:docproperties.zoom">9</property>
   <property name="kdenlive:expandedFolders">33;22</property>
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
@@ -17707,10 +17707,13 @@
  <playlist id="playlist22"/>
  <playlist id="playlist23"/>
  <tractor id="tractor11" in="00:00:00.000">
-  <property name="kdenlive:track_name">Fake</property>
   <property name="kdenlive:trackheight">69</property>
   <property name="kdenlive:timeline_active">1</property>
-  <track producer="playlist22"/>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:track_name">Fake</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="audio" producer="playlist22"/>
   <track producer="playlist23"/>
  </tractor>
  <playlist id="playlist24">
@@ -18067,7 +18070,6 @@
   <blank length="00:01:19.720"/>
   <entry producer="producer29" in="00:00:00.000" out="00:00:04.240">
    <property name="kdenlive:id">36</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter61" out="00:00:00.680">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
@@ -18097,7 +18099,6 @@
   <blank length="00:00:02.960"/>
   <entry producer="producer31" in="00:00:00.000" out="00:00:06.800">
    <property name="kdenlive:id">38</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter64" out="00:00:00.840">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
@@ -18462,17 +18463,7 @@
   <track producer="tractor19"/>
   <track producer="tractor20"/>
   <track producer="tractor21"/>
-  <transition id="transition0">
-   <property name="a_track">0</property>
-   <property name="b_track">1</property>
-   <property name="mlt_service">mix</property>
-   <property name="kdenlive_id">mix</property>
-   <property name="internal_added">237</property>
-   <property name="always_active">1</property>
-   <property name="accepts_blanks">1</property>
-   <property name="sum">1</property>
-  </transition>
-  <transition id="transition1" in="00:01:19.440" out="00:01:24.400">
+  <transition id="transition0" in="00:01:47.680" out="00:01:52.360">
    <property name="a_track">12</property>
    <property name="b_track">13</property>
    <property name="start">0/0:100%x100%</property>
@@ -18485,7 +18476,7 @@
    <property name="geometry">0=0 0 1920 1080 100</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition2" in="00:01:47.680" out="00:01:52.360">
+  <transition id="transition1" in="00:01:26.720" out="00:01:34.040">
    <property name="a_track">12</property>
    <property name="b_track">13</property>
    <property name="start">0/0:100%x100%</property>
@@ -18498,7 +18489,7 @@
    <property name="geometry">0=0 0 1920 1080 100</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition3" in="00:01:26.720" out="00:01:34.040">
+  <transition id="transition2" in="00:01:36.240" out="00:01:46.520">
    <property name="a_track">12</property>
    <property name="b_track">13</property>
    <property name="start">0/0:100%x100%</property>
@@ -18511,7 +18502,7 @@
    <property name="geometry">0=0 0 1920 1080 100</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition4" in="00:01:36.240" out="00:01:46.520">
+  <transition id="transition3" in="00:01:19.440" out="00:01:24.400">
    <property name="a_track">12</property>
    <property name="b_track">13</property>
    <property name="start">0/0:100%x100%</property>
@@ -18524,7 +18515,7 @@
    <property name="geometry">0=0 0 1920 1080 100</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition5" in="00:01:49.360" out="00:01:53.240">
+  <transition id="transition4" in="00:01:49.360" out="00:01:53.240">
    <property name="a_track">12</property>
    <property name="b_track">14</property>
    <property name="start">0/0:100%x100%</property>
@@ -18537,7 +18528,7 @@
    <property name="geometry">0=0 0 1920 1080 100</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition6" in="00:01:30.440" out="00:01:36.200">
+  <transition id="transition5" in="00:01:30.440" out="00:01:36.200">
    <property name="a_track">12</property>
    <property name="b_track">14</property>
    <property name="start">0/0:100%x100%</property>
@@ -18550,7 +18541,7 @@
    <property name="geometry">0=0 0 1920 1080 100</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition7" in="00:01:22.040" out="00:01:26.920">
+  <transition id="transition6" in="00:01:22.040" out="00:01:26.920">
    <property name="a_track">12</property>
    <property name="b_track">14</property>
    <property name="start">0/0:100%x100%</property>
@@ -18563,7 +18554,7 @@
    <property name="geometry">0=0 0 1920 1080 100</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition8" in="00:01:41.320" out="00:01:47.400">
+  <transition id="transition7" in="00:01:41.320" out="00:01:47.400">
    <property name="a_track">12</property>
    <property name="b_track">14</property>
    <property name="start">0/0:100%x100%</property>
@@ -18576,7 +18567,7 @@
    <property name="geometry">0=0 0 1920 1080 100</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition9" in="00:01:32.720" out="00:01:37.240">
+  <transition id="transition8" in="00:01:32.720" out="00:01:37.240">
    <property name="a_track">12</property>
    <property name="b_track">15</property>
    <property name="start">0/0:100%x100%</property>
@@ -18589,7 +18580,7 @@
    <property name="geometry">0=0 0 1920 1080 100</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition10" in="00:01:44.680" out="00:01:48.960">
+  <transition id="transition9" in="00:01:44.680" out="00:01:48.960">
    <property name="a_track">12</property>
    <property name="b_track">15</property>
    <property name="start">0/0:100%x100%</property>
@@ -18602,7 +18593,7 @@
    <property name="geometry">0=0 0 1920 1080 100</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition11" in="00:01:36.680" out="00:01:46.080">
+  <transition id="transition10" in="00:01:19.720" out="00:01:23.960">
    <property name="a_track">12</property>
    <property name="b_track">17</property>
    <property name="start">0/0:100%x100%</property>
@@ -18615,20 +18606,7 @@
    <property name="geometry">0=0 0 1920 1080 100</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition12" in="00:01:19.720" out="00:01:23.960">
-   <property name="a_track">12</property>
-   <property name="b_track">17</property>
-   <property name="start">0/0:100%x100%</property>
-   <property name="factory">loader</property>
-   <property name="aligned">0</property>
-   <property name="progressive">1</property>
-   <property name="mlt_service">composite</property>
-   <property name="kdenlive_id">composite</property>
-   <property name="geometry">0=0 0 1920 1080 100</property>
-   <property name="luma"/>
-   <property name="force_track">1</property>
-  </transition>
-  <transition id="transition13" in="00:01:47.960" out="00:01:52.080">
+  <transition id="transition11" in="00:01:47.960" out="00:01:52.080">
    <property name="a_track">12</property>
    <property name="b_track">17</property>
    <property name="start">0/0:100%x100%</property>
@@ -18641,7 +18619,7 @@
    <property name="geometry">0=0 0 1920 1080 100</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition14" in="00:01:26.960" out="00:01:33.760">
+  <transition id="transition12" in="00:01:26.960" out="00:01:33.760">
    <property name="a_track">12</property>
    <property name="b_track">17</property>
    <property name="start">0/0:100%x100%</property>
@@ -18654,7 +18632,33 @@
    <property name="geometry">0=0 0 1920 1080 100</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition15" in="00:01:41.680" out="00:01:47.040">
+  <transition id="transition13" in="00:01:36.680" out="00:01:46.080">
+   <property name="a_track">12</property>
+   <property name="b_track">17</property>
+   <property name="start">0/0:100%x100%</property>
+   <property name="factory">loader</property>
+   <property name="aligned">0</property>
+   <property name="progressive">1</property>
+   <property name="mlt_service">composite</property>
+   <property name="kdenlive_id">composite</property>
+   <property name="force_track">1</property>
+   <property name="geometry">0=0 0 1920 1080 100</property>
+   <property name="luma"/>
+  </transition>
+  <transition id="transition14" in="00:01:30.760" out="00:01:35.840">
+   <property name="a_track">12</property>
+   <property name="b_track">18</property>
+   <property name="start">0/0:100%x100%</property>
+   <property name="factory">loader</property>
+   <property name="aligned">0</property>
+   <property name="progressive">1</property>
+   <property name="mlt_service">composite</property>
+   <property name="kdenlive_id">composite</property>
+   <property name="force_track">1</property>
+   <property name="geometry">0=0 0 1920 1080 100</property>
+   <property name="luma"/>
+  </transition>
+  <transition id="transition15" in="00:01:22.520" out="00:01:26.680">
    <property name="a_track">12</property>
    <property name="b_track">18</property>
    <property name="start">0/0:100%x100%</property>
@@ -18680,7 +18684,7 @@
    <property name="geometry">0=0 0 1920 1080 100</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition17" in="00:01:22.520" out="00:01:26.680">
+  <transition id="transition17" in="00:01:41.680" out="00:01:47.040">
    <property name="a_track">12</property>
    <property name="b_track">18</property>
    <property name="start">0/0:100%x100%</property>
@@ -18693,9 +18697,9 @@
    <property name="geometry">0=0 0 1920 1080 100</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition18" in="00:01:30.760" out="00:01:35.840">
+  <transition id="transition18" in="00:01:32.960" out="00:01:36.960">
    <property name="a_track">12</property>
-   <property name="b_track">18</property>
+   <property name="b_track">19</property>
    <property name="start">0/0:100%x100%</property>
    <property name="factory">loader</property>
    <property name="aligned">0</property>
@@ -18719,20 +18723,7 @@
    <property name="geometry">0=0 0 1920 1080 100</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition20" in="00:01:32.960" out="00:01:36.960">
-   <property name="a_track">12</property>
-   <property name="b_track">19</property>
-   <property name="start">0/0:100%x100%</property>
-   <property name="factory">loader</property>
-   <property name="aligned">0</property>
-   <property name="progressive">1</property>
-   <property name="mlt_service">composite</property>
-   <property name="kdenlive_id">composite</property>
-   <property name="force_track">1</property>
-   <property name="geometry">0=0 0 1920 1080 100</property>
-   <property name="luma"/>
-  </transition>
-  <transition id="transition21" in="00:01:16.760" out="00:01:53.520">
+  <transition id="transition20" in="00:01:16.760" out="00:01:53.520">
    <property name="a_track">10</property>
    <property name="b_track">11</property>
    <property name="start">0/0:100%x100%</property>
@@ -18744,7 +18735,7 @@
    <property name="geometry">0=1159 313 288 162 100.000000</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition22" in="00:01:14.840" out="00:01:53.520">
+  <transition id="transition21" in="00:01:14.840" out="00:01:53.520">
    <property name="a_track">9</property>
    <property name="b_track">10</property>
    <property name="start">0/0:100%x100%</property>
@@ -18756,14 +18747,14 @@
    <property name="geometry">0=-2570 -1445 6912 3888 100.000000;55=-1082 -608 3936 2214 100.000000</property>
    <property name="luma"/>
   </transition>
-  <transition id="transition23" in="00:01:14.480" out="00:01:53.520">
+  <transition id="transition22" in="00:01:14.480" out="00:01:53.520">
    <property name="a_track">7</property>
    <property name="b_track">8</property>
    <property name="version">0.2</property>
    <property name="mlt_service">frei0r.multiply</property>
    <property name="kdenlive_id">frei0r.multiply</property>
   </transition>
-  <transition id="transition24" in="00:01:11.720" out="00:01:14.040">
+  <transition id="transition23" in="00:01:11.720" out="00:01:14.040">
    <property name="a_track">3</property>
    <property name="b_track">4</property>
    <property name="start">0/0:100%x100%</property>
@@ -18774,6 +18765,16 @@
    <property name="kdenlive_id">composite</property>
    <property name="geometry">0=0 0 1920 1080 100</property>
    <property name="luma"/>
+  </transition>
+  <transition id="transition24">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_service">mix</property>
+   <property name="kdenlive_id">mix</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+   <property name="accepts_blanks">1</property>
+   <property name="sum">1</property>
   </transition>
   <transition id="transition25">
    <property name="a_track">0</property>
