@@ -126,6 +126,8 @@ Scènes 2 :
 - option 1 : les Crypto-Barons finissent par envoyer une pipe / un calumet à Raspoutine, qui le reçoit sur la tête/les genoux, l'utilise, et entend enfin Yüla,
 - option 2 : les Crypto-Barons ont un panneau "Ouverture Rideau" au plateau, ils l'envoient dans le cinéma, Raspoutine, le reçoit, et le lit. Pour l'envoi, le panneau peut être mis en boule préalablement. Pour la lecture, Raspoutine peut avoir besoin de lunettes,
 - option 3 : Yüla hurle vraiment très fort, à tel point que le dernier panneau "Ouverture Rideau" tombe au plateau (ou se dégonfle, part dans tous les sens, et arrive au plateau sous une forme plus petite) en révélant la scène de Raspoutine, et avec un gros bruit de fracas. Un Crypto-baron le récupère, le balance par-dessus son épaule, ça finit chez Raspoutine, qui lit le panneau.
+- option 3 bis : les Crypto-Barons ne jettent pas le panneau qui est très gros, mais le tendent à Raspoutine (dans le film) qui le récupère.
+
 
 
 
