@@ -1,5 +1,7 @@
 version covid
 
+>>> Rituel de narration par Mireille, filmée de face (à préciser) à chaque début d'acte, en mode conteuse pour présenter ce qui va suivre de manière partiale, puis en fin d'acte pour conclure "oui, bon, cette fois-ci ils s'en sont sortis, mais" ou alors "c'est marrant, c'est pas le souvenir que j'en avais" + éventuellement des interventions complètes au milieu d'un acte pour contredire les scènes du film "non ça ne s'est pas passé comme ça". <<<
+
 mireille narratricve racontre histoire de Jack Cesar, BF sont present pour changer histoire mais sachant pas comment y arriver ou par erreur (inspecteur gadget style)
 
 Acte 0 - Intro contexte
@@ -57,8 +59,10 @@ Doah plateau indique "Lacet" à Doah ciné. (sans doute [[gimmik glich]])
 Acte 3 - Présentation paillasson pub
 pas de changement
 Reecriture textes (CF fichier panneaux-texte.ods)
+Veiller à ce que la narration suggère que JC est quelqu'un de bien (entrepreneur modèle, émancipateur des peuples)
  
 Acte 4 - Le spectacle - Doah electricien de malheur
+narration : suggérer bouiboui-minable, norme de sécurité non respectée, matériel vétuste
 SS donne panier entracte à cryptoDoah (ou doah qui donne a crytoDoah)
 a la fin cryto doah rend a Doah
 
@@ -154,6 +158,15 @@ Attention : filmer les barons en entier quand même pour avoir les gestes et les
 
 NOTE : ça fait un moment qu'on n'a pas fait intervenir Mireille.
 
+Fin Acte 6 : MAG court poursuivi par les gens, vers le loitain, au premier plan, la benne à vêtements avec les vêtements des Barons qui en débordent.
+Une fois que tout le monde est parti (image fixe), les CryptoBarons remarquent les fringues, se regardent les autres, se disent "OK", et filent derrière l'écran de projection.
+
+Les CryptoBarons arrivent *à l'écran*, chopent les fringues, et se changent pour devenir les Barons.
+
+Acte 7 : on vire la scène 1, Mireille reprend la narration, "ce pauvre Jack Caesar était bien embêté..." 
+Les Barons arrivent au plateau (ou arrivent en lumière)
+"mais, mais, mais... qui êtes-vous ?"
+"Si c'est comme ça, Jack Caesar va utiliser le tracto-botte".
 
 
 
