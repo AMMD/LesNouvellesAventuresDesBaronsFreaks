@@ -80,8 +80,18 @@ Plusieurs occurrences, les pieds changent de forme.
 Scène 33  [ANIMATION] : 
 Deux options :
 - a la The Mask : Dédé est beaucoup trop long, la caméra est fixe, le brancard passe devant, les DLM passent les uns après les autres, EM propose son contrat à chacun d'entre eux (il est ~ fixe dans le plan), et finit par tomber sur Saladin,
+- option Nico : largeur brancard = largeur écran,
 
-Plan de coupe : EM tend son contrat à Saladin -> filmer visages EM + Saladin en discussion pour fabriquer animation
+Plan de coupe [ANIMATION ?] : EM tend son contrat à Saladin -> filmer visages EM + Saladin en discussion pour fabriquer animation
+
+Scène 33 bis [ANIMATION] :
+vue du brancard en entier, tête à jardin, jambes à cour
+une jambe pend du brancard
+CryptoDoah tente de la redresser avec sa gaffe -> pas suffisant
+Option 1 : CryptoDoah sort une gaffe avec embout gant de boxe et tape plus fort -> ça marche
+Option 2 : CryptoDoah déroule une corde + poulie, noeud coulant descend à l'écran, chope la jambe, la redresse.
+-> EM prend un coup de poing dans la tronche, et s'envole.
+
 
 
 
