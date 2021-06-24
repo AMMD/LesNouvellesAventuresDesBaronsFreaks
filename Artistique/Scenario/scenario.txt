@@ -84,7 +84,7 @@ Plusieurs occurrences, les pieds changent de forme.
 Scène 33  [ANIMATION] : 
 Deux options :
 - a la The Mask : Dédé est beaucoup trop long, la caméra est fixe, le brancard passe devant, les DLM passent les uns après les autres, EM propose son contrat à chacun d'entre eux (il est ~ fixe dans le plan), et finit par tomber sur Saladin,
-- option Nico : largeur brancard = largeur écran,
+- option Nico : largeur brancard = largeur écran, la caméra avance avec le brancard et passe en revue les Vanupiés.
 
 Plan de coupe [ANIMATION ?] : EM tend son contrat à Saladin -> filmer visages EM + Saladin en discussion pour fabriquer animation
 
