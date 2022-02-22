@@ -1,0 +1,24 @@
+*Besoins en matière de VJing*
+- lire des fichiers vidéos (720p) de manière fluide
+- trigger des vidéos
+- trigger des images
+- trigger des images animés
+- gérer de la transparence entre les couches
+- trigger du son
+
+*Rideau de bug*
+- prévoir un panneau rideau + "Ooooops"
+
+*Cas du tractobotte*
+- Image de fond fixe, que l'on peut zoomer/décaler
+- Surcouches animées transparentes
+- Lire à l'envers
+- Ralenti
+
+
+
+
+*Lights*
+- Trigger de la lumière aussi
+- Séquencer de la lumière aussi
+- Scèner de la lumière aussi
