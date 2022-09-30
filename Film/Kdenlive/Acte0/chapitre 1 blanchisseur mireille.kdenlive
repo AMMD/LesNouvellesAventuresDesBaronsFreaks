@@ -178,6 +178,7 @@ pour la bande son d'un film... »&lt;/content>
   <property name="meta.media.color_range">full</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:audio_max">6</property>
  </producer>
  <producer id="producer4" in="00:00:00.000" out="00:01:07.080">
   <property name="length">1678</property>
@@ -394,6 +395,7 @@ pour la bande son d'un film... »&lt;/content>
   <property name="meta.media.color_range">full</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:audio_max">9</property>
  </producer>
  <producer id="producer6" in="00:00:00.000" out="00:00:05.360">
   <property name="length">135</property>
@@ -547,6 +549,7 @@ Place au futur ! »&lt;/content>
   <property name="meta.media.color_range">full</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:audio_max">91</property>
  </producer>
  <producer id="producer8" in="00:00:00.000" out="00:01:45.520">
   <property name="length">2639</property>
@@ -655,6 +658,7 @@ Place au futur ! »&lt;/content>
   <property name="meta.media.color_range">full</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:audio_max">8</property>
  </producer>
  <producer id="producer9" in="00:00:00.000" out="00:00:04.760">
   <property name="length">120</property>
@@ -820,6 +824,7 @@ Place au futur ! »&lt;/content>
   <property name="meta.media.color_range">full</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:audio_max">4</property>
  </producer>
  <producer id="producer13" in="00:00:00.000" out="00:00:02.960">
   <property name="length">00:00:03.000</property>
@@ -982,6 +987,7 @@ Place au futur ! »&lt;/content>
   <property name="meta.media.color_range">full</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:audio_max">6</property>
  </producer>
  <producer id="producer16" in="00:00:00.000" out="00:00:13.000">
   <property name="length">326</property>
@@ -1090,6 +1096,7 @@ Place au futur ! »&lt;/content>
   <property name="meta.media.color_range">full</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:audio_max">12</property>
  </producer>
  <producer id="producer18" in="00:00:00.000" out="00:00:05.400">
   <property name="length">136</property>
@@ -1353,6 +1360,7 @@ vous trouverez du travail  ! »&lt;/content>
   <property name="meta.media.color_range">mpeg</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:audio_max">5</property>
  </producer>
  <producer id="producer22" in="00:00:00.000" out="00:00:04.960">
   <property name="length">00:00:05.000</property>
@@ -1497,11 +1505,12 @@ vous trouverez du travail  ! »&lt;/content>
   <property name="meta.media.color_range">full</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:audio_max">5</property>
  </producer>
- <producer id="producer25" in="00:00:00.000" out="00:00:05.400">
-  <property name="length">136</property>
+ <producer id="producer25" in="00:00:00.000" out="00:02:18.720">
+  <property name="length">3469</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Audio/Chapitre 1/beaucoup mieux.wav</property>
+  <property name="resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Audio/ch1.wav</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s32</property>
@@ -1512,41 +1521,9 @@ vous trouverez du travail  ! »&lt;/content>
   <property name="meta.media.0.codec.bit_rate">2304000</property>
   <property name="meta.attr.comment.markup">BF voix off Nico</property>
   <property name="meta.attr.encoded_by.markup">nicolas</property>
-  <property name="meta.attr.originator_reference.markup">ZZ---Ardour6.5.0~155422836694738</property>
-  <property name="meta.attr.date.markup">2022-09-22</property>
-  <property name="meta.attr.creation_time.markup">15:54:22</property>
-  <property name="meta.attr.time_reference.markup">503761</property>
-  <property name="meta.attr.coding_history.markup">A=PCM,F=48000,W=24,M=stereo,T=libsndfile-1.0.31&#xd;
-</property>
-  <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">1</property>
-  <property name="mlt_service">avformat</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:folderid">27</property>
-  <property name="kdenlive:id">28</property>
-  <property name="kdenlive:file_size">1572104</property>
-  <property name="global_feed">1</property>
-  <property name="kdenlive:file_hash">a42b5faa427b1dac0b45e3a8328ab969</property>
- </producer>
- <producer id="producer26" in="00:00:00.000" out="00:00:05.800">
-  <property name="length">146</property>
-  <property name="eof">pause</property>
-  <property name="resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Audio/Chapitre 1/taudis.wav</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s32</property>
-  <property name="meta.media.0.codec.sample_rate">48000</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">pcm_s24le</property>
-  <property name="meta.media.0.codec.long_name">PCM signed 24-bit little-endian</property>
-  <property name="meta.media.0.codec.bit_rate">2304000</property>
-  <property name="meta.attr.comment.markup">BF voix off Nico</property>
-  <property name="meta.attr.encoded_by.markup">nicolas</property>
-  <property name="meta.attr.originator_reference.markup">ZZ---Ardour6.5.0~155401100101697</property>
-  <property name="meta.attr.date.markup">2022-09-22</property>
-  <property name="meta.attr.creation_time.markup">15:54:01</property>
+  <property name="meta.attr.originator_reference.markup">ZZ---Ardour6.5.0~104159848738436</property>
+  <property name="meta.attr.date.markup">2022-09-30</property>
+  <property name="meta.attr.creation_time.markup">10:41:59</property>
   <property name="meta.attr.time_reference.markup">0</property>
   <property name="meta.attr.coding_history.markup">A=PCM,F=48000,W=24,M=stereo,T=libsndfile-1.0.31&#xd;
 </property>
@@ -1557,10 +1534,10 @@ vous trouverez du travail  ! »&lt;/content>
   <property name="mlt_service">avformat</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:folderid">27</property>
-  <property name="kdenlive:id">29</property>
-  <property name="kdenlive:file_size">1677134</property>
+  <property name="kdenlive:id">28</property>
+  <property name="kdenlive:file_size">39964706</property>
+  <property name="kdenlive:file_hash">e2c43daba6f60399049faebb1558ba0f</property>
   <property name="global_feed">1</property>
-  <property name="kdenlive:file_hash">dc5e3ea72c3987ceeac1dafb9585cd28</property>
  </producer>
  <playlist id="main_bin">
   <property name="kdenlive:folder.-1.27">audio</property>
@@ -1579,12 +1556,12 @@ vous trouverez du travail  ! »&lt;/content>
     {
         "children": [
             {
-                "data": "0:1344",
+                "data": "0:1331",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "5:1344",
+                "data": "5:1331",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1594,12 +1571,12 @@ vous trouverez du travail  ! »&lt;/content>
     {
         "children": [
             {
-                "data": "0:1487",
+                "data": "0:1474",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "5:1487",
+                "data": "5:1474",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1609,12 +1586,12 @@ vous trouverez du travail  ! »&lt;/content>
     {
         "children": [
             {
-                "data": "5:1674",
+                "data": "5:1661",
                 "leaf": "clip",
                 "type": "Leaf"
             },
             {
-                "data": "0:1674",
+                "data": "0:1661",
                 "leaf": "clip",
                 "type": "Leaf"
             }
@@ -1624,7 +1601,7 @@ vous trouverez du travail  ! »&lt;/content>
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.12.3</property>
-  <property name="kdenlive:docproperties.position">45</property>
+  <property name="kdenlive:docproperties.position">134</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">atsc_1080i_50</property>
@@ -1662,7 +1639,7 @@ vous trouverez du travail  ! »&lt;/content>
   <property name="kdenlive:docproperties.videoTarget">-1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">2399</property>
-  <property name="kdenlive:docproperties.zoom">5</property>
+  <property name="kdenlive:docproperties.zoom">8</property>
   <property name="kdenlive:expandedFolders">27</property>
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
@@ -1691,8 +1668,7 @@ vous trouverez du travail  ! »&lt;/content>
   <entry producer="producer22" in="00:00:00.000" out="00:00:04.960"/>
   <entry producer="producer23" in="00:00:00.000" out="00:00:04.760"/>
   <entry producer="producer24" in="00:00:00.000" out="00:01:05.040"/>
-  <entry producer="producer25" in="00:00:00.000" out="00:00:05.400"/>
-  <entry producer="producer26" in="00:00:00.000" out="00:00:05.800"/>
+  <entry producer="producer25" in="00:00:00.000" out="00:02:18.720"/>
  </playlist>
  <producer id="black_track" in="00:00:00.000" out="00:22:38.240">
   <property name="length">2147483647</property>
@@ -1702,41 +1678,6 @@ vous trouverez du travail  ! »&lt;/content>
   <property name="mlt_service">color</property>
   <property name="mlt_image_format">rgb24a</property>
   <property name="set.test_audio">0</property>
- </producer>
- <producer id="producer27" in="00:00:00.000" out="00:00:05.800">
-  <property name="length">146</property>
-  <property name="eof">pause</property>
-  <property name="resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Audio/Chapitre 1/taudis.wav</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="meta.media.nb_streams">1</property>
-  <property name="meta.media.0.stream.type">audio</property>
-  <property name="meta.media.0.codec.sample_fmt">s32</property>
-  <property name="meta.media.0.codec.sample_rate">48000</property>
-  <property name="meta.media.0.codec.channels">2</property>
-  <property name="meta.media.0.codec.name">pcm_s24le</property>
-  <property name="meta.media.0.codec.long_name">PCM signed 24-bit little-endian</property>
-  <property name="meta.media.0.codec.bit_rate">2304000</property>
-  <property name="meta.attr.comment.markup">BF voix off Nico</property>
-  <property name="meta.attr.encoded_by.markup">nicolas</property>
-  <property name="meta.attr.originator_reference.markup">ZZ---Ardour6.5.0~155401100101697</property>
-  <property name="meta.attr.date.markup">2022-09-22</property>
-  <property name="meta.attr.creation_time.markup">15:54:01</property>
-  <property name="meta.attr.time_reference.markup">0</property>
-  <property name="meta.attr.coding_history.markup">A=PCM,F=48000,W=24,M=stereo,T=libsndfile-1.0.31&#xd;
-</property>
-  <property name="seekable">1</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:folderid">27</property>
-  <property name="kdenlive:id">29</property>
-  <property name="kdenlive:file_size">1677134</property>
-  <property name="kdenlive:file_hash">b241dc02f5cb42d30baa511caa8e0194</property>
-  <property name="global_feed">1</property>
-  <property name="xml">was here</property>
-  <property name="set.test_audio">0</property>
-  <property name="set.test_image">1</property>
  </producer>
  <producer id="producer28" in="00:00:00.000" out="00:01:02.920">
   <property name="length">1574</property>
@@ -1962,10 +1903,7 @@ vous trouverez du travail  ! »&lt;/content>
  </producer>
  <playlist id="playlist0">
   <property name="kdenlive:audio_track">1</property>
-  <entry producer="producer27" in="00:00:00.200" out="00:00:05.560">
-   <property name="kdenlive:id">29</property>
-  </entry>
-  <blank length="00:00:48.360"/>
+  <blank length="00:00:53.240"/>
   <entry producer="producer28" in="00:00:30.560" out="00:00:36.240">
    <property name="kdenlive:id">5</property>
   </entry>
@@ -1977,7 +1915,7 @@ vous trouverez du travail  ! »&lt;/content>
   </entry>
  </playlist>
  <playlist id="playlist1"/>
- <tractor id="tractor0" in="00:00:00.000" out="00:01:35.920">
+ <tractor id="tractor0" in="00:00:00.000" out="00:01:35.400">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">71</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -2006,10 +1944,10 @@ vous trouverez du travail  ! »&lt;/content>
    <property name="disable">1</property>
   </filter>
  </tractor>
- <producer id="producer30" in="00:00:00.000" out="00:00:05.400">
-  <property name="length">136</property>
+ <producer id="producer26" in="00:00:00.000" out="00:02:18.720">
+  <property name="length">3469</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Audio/Chapitre 1/beaucoup mieux.wav</property>
+  <property name="resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Audio/ch1.wav</property>
   <property name="audio_index">0</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">0</property>
@@ -2024,18 +1962,18 @@ vous trouverez du travail  ! »&lt;/content>
   <property name="meta.media.0.codec.bit_rate">2304000</property>
   <property name="meta.attr.comment.markup">BF voix off Nico</property>
   <property name="meta.attr.encoded_by.markup">nicolas</property>
-  <property name="meta.attr.originator_reference.markup">ZZ---Ardour6.5.0~155422836694738</property>
-  <property name="meta.attr.date.markup">2022-09-22</property>
-  <property name="meta.attr.creation_time.markup">15:54:22</property>
-  <property name="meta.attr.time_reference.markup">503761</property>
+  <property name="meta.attr.originator_reference.markup">ZZ---Ardour6.5.0~104159848738436</property>
+  <property name="meta.attr.date.markup">2022-09-30</property>
+  <property name="meta.attr.creation_time.markup">10:41:59</property>
+  <property name="meta.attr.time_reference.markup">0</property>
   <property name="meta.attr.coding_history.markup">A=PCM,F=48000,W=24,M=stereo,T=libsndfile-1.0.31&#xd;
 </property>
   <property name="seekable">1</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:folderid">27</property>
   <property name="kdenlive:id">28</property>
-  <property name="kdenlive:file_size">1572104</property>
-  <property name="kdenlive:file_hash">ac6435723545cf2342150aecbe4732ea</property>
+  <property name="kdenlive:file_size">39964706</property>
+  <property name="kdenlive:file_hash">e2c43daba6f60399049faebb1558ba0f</property>
   <property name="global_feed">1</property>
   <property name="xml">was here</property>
   <property name="set.test_audio">0</property>
@@ -2043,17 +1981,24 @@ vous trouverez du travail  ! »&lt;/content>
  </producer>
  <playlist id="playlist2">
   <property name="kdenlive:audio_track">1</property>
-  <blank length="00:00:46.840"/>
-  <entry producer="producer30" in="00:00:00.000" out="00:00:05.400">
+  <entry producer="producer26" in="00:00:00.320" out="00:00:05.160">
+   <property name="kdenlive:id">28</property>
+  </entry>
+  <blank length="00:00:41.440"/>
+  <entry producer="producer26" in="00:00:10.560" out="00:00:11.760">
+   <property name="kdenlive:id">28</property>
+  </entry>
+  <blank length="00:00:00.520"/>
+  <entry producer="producer26" in="00:00:12.320" out="00:00:15.760">
    <property name="kdenlive:id">28</property>
   </entry>
  </playlist>
  <playlist id="playlist3"/>
- <tractor id="tractor1" in="00:00:00.000" out="00:00:52.240">
+ <tractor id="tractor1" in="00:00:00.000" out="00:00:51.520">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">71</property>
   <property name="kdenlive:timeline_active">1</property>
-  <property name="kdenlive:collapsed">28</property>
+  <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
   <track hide="video" producer="playlist2"/>
@@ -2418,7 +2363,7 @@ vous trouverez du travail  ! »&lt;/content>
   <property name="set.test_image">0</property>
  </producer>
  <playlist id="playlist4">
-  <blank length="00:00:05.400"/>
+  <blank length="00:00:04.880"/>
   <entry producer="producer32" in="00:00:01.440" out="00:00:04.760">
    <property name="kdenlive:id">7</property>
    <filter id="filter15">
@@ -2492,7 +2437,7 @@ vous trouverez du travail  ! »&lt;/content>
   </entry>
  </playlist>
  <playlist id="playlist5"/>
- <tractor id="tractor2" in="00:00:00.000" out="00:00:19.200">
+ <tractor id="tractor2" in="00:00:00.000" out="00:00:18.680">
   <property name="kdenlive:trackheight">69</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
@@ -2564,7 +2509,7 @@ vous trouverez du travail  ! »&lt;/content>
   <property name="meta.media.progressive">1</property>
  </producer>
  <playlist id="playlist6">
-  <blank length="00:00:05.400"/>
+  <blank length="00:00:04.880"/>
   <entry producer="producer35" in="00:01:47.920" out="00:01:52.840">
    <property name="kdenlive:id">9</property>
    <filter id="filter19">
@@ -2633,7 +2578,7 @@ vous trouverez du travail  ! »&lt;/content>
   </entry>
  </playlist>
  <playlist id="playlist7"/>
- <tractor id="tractor3" in="00:00:00.000" out="00:00:52.240">
+ <tractor id="tractor3" in="00:00:00.000" out="00:00:51.720">
   <property name="kdenlive:trackheight">71</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
@@ -3539,7 +3484,7 @@ vous trouverez du travail  ! »&lt;/content>
   <property name="meta.media.progressive">1</property>
  </producer>
  <playlist id="playlist8">
-  <entry producer="producer1" in="00:00:00.000" out="00:00:05.360">
+  <entry producer="producer1" in="00:00:00.000" out="00:00:04.840">
    <property name="kdenlive:id">3</property>
   </entry>
   <blank length="00:00:08.640"/>
@@ -4359,7 +4304,7 @@ vous trouverez du travail  ! »&lt;/content>
   </entry>
  </playlist>
  <playlist id="playlist9"/>
- <tractor id="tractor4" in="00:00:00.000" out="00:00:55.960">
+ <tractor id="tractor4" in="00:00:00.000" out="00:00:55.440">
   <property name="kdenlive:trackheight">71</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
@@ -4929,7 +4874,7 @@ vous trouverez du travail  ! »&lt;/content>
   <property name="set.test_image">0</property>
  </producer>
  <playlist id="playlist10">
-  <entry producer="producer6" in="00:00:00.000" out="00:00:05.360">
+  <entry producer="producer6" in="00:00:00.000" out="00:00:04.840">
    <property name="kdenlive:id">8</property>
   </entry>
   <blank length="00:00:09.880"/>
@@ -5107,7 +5052,7 @@ vous trouverez du travail  ! »&lt;/content>
   </entry>
  </playlist>
  <playlist id="playlist11"/>
- <tractor id="tractor5" in="00:00:00.000" out="00:01:35.920">
+ <tractor id="tractor5" in="00:00:00.000" out="00:01:35.400">
   <property name="kdenlive:trackheight">71</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
@@ -5168,7 +5113,7 @@ vous trouverez du travail  ! »&lt;/content>
   <property name="meta.media.progressive">1</property>
  </producer>
  <playlist id="playlist12">
-  <blank length="00:00:14.040"/>
+  <blank length="00:00:13.520"/>
   <entry producer="producer20" in="00:00:00.000" out="00:00:04.760">
    <property name="kdenlive:id">22</property>
    <property name="kdenlive:activeeffect">1</property>
@@ -5233,7 +5178,7 @@ vous trouverez du travail  ! »&lt;/content>
   </entry>
  </playlist>
  <playlist id="playlist13"/>
- <tractor id="tractor6" in="00:00:00.000" out="00:00:26.200">
+ <tractor id="tractor6" in="00:00:00.000" out="00:00:25.680">
   <property name="kdenlive:trackheight">71</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
@@ -5359,13 +5304,13 @@ vous trouverez du travail  ! »&lt;/content>
   <property name="set.test_image">0</property>
  </producer>
  <playlist id="playlist14">
-  <blank length="00:00:17.800"/>
+  <blank length="00:00:17.280"/>
   <entry producer="producer61" in="00:00:01.520" out="00:00:01.640">
    <property name="kdenlive:id">23</property>
   </entry>
  </playlist>
  <playlist id="playlist15"/>
- <tractor id="tractor7" in="00:00:00.000" out="00:00:17.920">
+ <tractor id="tractor7" in="00:00:00.000" out="00:00:17.400">
   <property name="kdenlive:trackheight">71</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
