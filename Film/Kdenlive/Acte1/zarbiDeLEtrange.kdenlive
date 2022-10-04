@@ -7764,7 +7764,7 @@
   <property name="meta.media.progressive">1</property>
  </producer>
  <playlist id="main_bin">
-  <property name="kdenlive:docproperties.activeTrack">10</property>
+  <property name="kdenlive:docproperties.activeTrack">12</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
   <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
@@ -7817,7 +7817,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.12.3</property>
-  <property name="kdenlive:docproperties.position">2962</property>
+  <property name="kdenlive:docproperties.position">2960</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">atsc_1080i_50</property>
@@ -7847,7 +7847,7 @@
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Exports/Acte1/zarbiDeLEtrange.mp4</property>
   <property name="kdenlive:docproperties.renderzone">1</property>
-  <property name="kdenlive:docproperties.scrollPos">2263</property>
+  <property name="kdenlive:docproperties.scrollPos">2190</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.storagefolder">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/1662468503371</property>
   <property name="kdenlive:docproperties.version">1</property>
@@ -8715,12 +8715,13 @@
    <property name="kdenlive:id">5</property>
   </entry>
   <blank length="00:01:07.920"/>
-  <entry producer="producer74" in="00:00:02.680" out="00:00:30.040">
+  <entry producer="producer74" in="00:00:03.120" out="00:00:30.040">
    <property name="kdenlive:id">61</property>
+   <property name="kdenlive:activeeffect">-1</property>
   </entry>
  </playlist>
  <playlist id="playlist21"/>
- <tractor id="tractor10" in="00:00:00.000" out="00:02:25.760">
+ <tractor id="tractor10" in="00:00:00.000" out="00:02:25.320">
   <property name="kdenlive:trackheight">41</property>
   <property name="kdenlive:timeline_active">0</property>
   <property name="kdenlive:collapsed">28</property>
@@ -8842,78 +8843,11 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer78" in="00:00:00.000" out="00:00:07.760">
-  <property name="length">195</property>
+ <producer id="producer78" in="00:00:00.000" out="00:00:30.040">
+  <property name="length">752</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/ec621b08a1b780b49da430d0bb1b4cea.mkv</property>
-  <property name="audio_index">1</property>
-  <property name="video_index">0</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
-  <property name="seekable">1</property>
+  <property name="resource">3.715300:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/cfd6738abef5233bbf923ac65995d746.mkv</property>
   <property name="aspect_ratio">1</property>
-  <property name="kdenlive:clipname">00064.MTS</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">60</property>
-  <property name="kdenlive:file_size">15237120</property>
-  <property name="kdenlive:file_hash">ec621b08a1b780b49da430d0bb1b4cea</property>
-  <property name="kdenlive:proxy">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/ec621b08a1b780b49da430d0bb1b4cea.mkv</property>
-  <property name="kdenlive:originalurl">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte1/labyrinthe/00064.MTS</property>
-  <property name="kdenlive:original.mlt_type">producer</property>
-  <property name="kdenlive:original.in">0</property>
-  <property name="kdenlive:original.out">194</property>
-  <property name="kdenlive:original.length">195</property>
-  <property name="kdenlive:original.eof">pause</property>
-  <property name="kdenlive:original.resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte1/labyrinthe/00064.MTS</property>
-  <property name="kdenlive:original.meta.media.nb_streams">3</property>
-  <property name="kdenlive:original.meta.media.0.stream.type">video</property>
-  <property name="kdenlive:original.meta.media.0.stream.frame_rate">25</property>
-  <property name="kdenlive:original.meta.media.0.stream.sample_aspect_ratio">0</property>
-  <property name="kdenlive:original.meta.media.0.codec.width">1920</property>
-  <property name="kdenlive:original.meta.media.0.codec.height">1080</property>
-  <property name="kdenlive:original.meta.media.0.codec.rotate">0</property>
-  <property name="kdenlive:original.meta.media.0.codec.frame_rate">25</property>
-  <property name="kdenlive:original.meta.media.0.codec.pix_fmt">yuv420p</property>
-  <property name="kdenlive:original.meta.media.0.codec.sample_aspect_ratio">1</property>
-  <property name="kdenlive:original.meta.media.0.codec.colorspace">709</property>
-  <property name="kdenlive:original.meta.media.0.codec.name">h264</property>
-  <property name="kdenlive:original.meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
-  <property name="kdenlive:original.meta.media.0.codec.bit_rate">0</property>
-  <property name="kdenlive:original.meta.media.1.stream.type">audio</property>
-  <property name="kdenlive:original.meta.media.1.codec.sample_fmt">fltp</property>
-  <property name="kdenlive:original.meta.media.1.codec.sample_rate">48000</property>
-  <property name="kdenlive:original.meta.media.1.codec.channels">6</property>
-  <property name="kdenlive:original.meta.media.1.codec.name">ac3</property>
-  <property name="kdenlive:original.meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
-  <property name="kdenlive:original.meta.media.1.codec.bit_rate">448000</property>
-  <property name="kdenlive:original.meta.media.2.codec.name">pgssub</property>
-  <property name="kdenlive:original.meta.media.2.codec.long_name">HDMV Presentation Graphic Stream subtitles</property>
-  <property name="kdenlive:original.meta.media.2.codec.bit_rate">0</property>
-  <property name="kdenlive:original.seekable">1</property>
-  <property name="kdenlive:original.width">1920</property>
-  <property name="kdenlive:original.height">1080</property>
-  <property name="kdenlive:original.meta.media.sample_aspect_num">1</property>
-  <property name="kdenlive:original.meta.media.sample_aspect_den">1</property>
-  <property name="kdenlive:original.aspect_ratio">1</property>
-  <property name="kdenlive:original.audio_index">1</property>
-  <property name="kdenlive:original.video_index">0</property>
-  <property name="kdenlive:original.mute_on_pause">0</property>
-  <property name="kdenlive:original.mlt_service">avformat-novalidate</property>
-  <property name="kdenlive:original.kdenlive:folderid">-1</property>
-  <property name="kdenlive:original.meta.media.frame_rate_num">25</property>
-  <property name="kdenlive:original.meta.media.frame_rate_den">1</property>
-  <property name="kdenlive:original.meta.media.colorspace">709</property>
-  <property name="kdenlive:original.meta.media.color_trc">2</property>
-  <property name="kdenlive:original.meta.media.width">1920</property>
-  <property name="kdenlive:original.meta.media.height">1080</property>
-  <property name="kdenlive:original.meta.media.color_range">mpeg</property>
-  <property name="kdenlive:original.kdenlive:id">61</property>
-  <property name="kdenlive:original.kdenlive:file_size">15237120</property>
-  <property name="kdenlive:original.kdenlive:file_hash">ec621b08a1b780b49da430d0bb1b4cea</property>
-  <property name="kdenlive:original.backup">1</property>
-  <property name="global_feed">1</property>
-  <property name="kdenlive:audio_max">9</property>
-  <property name="xml">was here</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
   <property name="meta.media.0.stream.frame_rate">25</property>
@@ -8929,7 +8863,7 @@
   <property name="meta.media.0.codec.long_name">MJPEG (Motion JPEG)</property>
   <property name="meta.media.0.codec.bit_rate">0</property>
   <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.91.100 mjpeg</property>
-  <property name="meta.attr.0.stream.DURATION.markup">00:00:07.800000000</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:01:51.800000000</property>
   <property name="meta.media.1.stream.type">audio</property>
   <property name="meta.media.1.codec.sample_fmt">s16</property>
   <property name="meta.media.1.codec.sample_rate">48000</property>
@@ -8938,10 +8872,23 @@
   <property name="meta.media.1.codec.long_name">PCM signed 16-bit little-endian</property>
   <property name="meta.media.1.codec.bit_rate">4608000</property>
   <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.91.100 pcm_s16le</property>
-  <property name="meta.attr.1.stream.DURATION.markup">00:00:07.808000000</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:01:51.808000000</property>
   <property name="meta.attr.ENCODER.markup">Lavf58.45.100</property>
+  <property name="seekable">1</property>
   <property name="meta.media.sample_aspect_num">1</property>
   <property name="meta.media.sample_aspect_den">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="warp_speed">3.7153</property>
+  <property name="warp_resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/cfd6738abef5233bbf923ac65995d746.mkv</property>
+  <property name="mlt_service">timewarp</property>
+  <property name="kdenlive:proxy">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/cfd6738abef5233bbf923ac65995d746.mkv</property>
+  <property name="kdenlive:originalurl">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte1/labyrinthe/00065.MTS</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+  <property name="kdenlive:id">61</property>
+  <property name="warp_pitch">0</property>
   <property name="meta.media.frame_rate_num">25</property>
   <property name="meta.media.frame_rate_den">1</property>
   <property name="meta.media.colorspace">601</property>
@@ -8951,8 +8898,6 @@
   <property name="meta.media.color_range">full</property>
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
-  <property name="set.test_audio">1</property>
-  <property name="set.test_image">0</property>
  </producer>
  <playlist id="playlist22">
   <entry producer="producer77" in="00:00:00.000" out="00:00:31.240">
@@ -14309,19 +14254,19 @@
    </filter>
   </entry>
   <blank length="00:01:07.920"/>
-  <entry producer="producer78" in="00:00:00.000" out="00:00:07.760">
-   <property name="kdenlive:id">60</property>
+  <entry producer="producer78" in="00:00:03.120" out="00:00:30.040">
+   <property name="kdenlive:id">61</property>
   </entry>
  </playlist>
  <playlist id="playlist23"/>
- <tractor id="tractor11" in="00:00:00.000" out="00:02:06.160">
+ <tractor id="tractor11" in="00:00:00.000" out="00:02:25.320">
   <property name="kdenlive:trackheight">29</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
   <property name="kdenlive:track_name">SaladinDoah Intro</property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
-  <track hide="both" producer="playlist22"/>
+  <track hide="audio" producer="playlist22"/>
   <track producer="playlist23"/>
  </tractor>
  <producer id="producer79" in="00:00:00.000" out="00:00:27.560">
@@ -15554,6 +15499,118 @@
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
+ <producer id="producer99" in="00:00:00.000" out="00:00:07.760">
+  <property name="length">195</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/ec621b08a1b780b49da430d0bb1b4cea.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname">00064.MTS</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">60</property>
+  <property name="kdenlive:file_size">15237120</property>
+  <property name="kdenlive:file_hash">ec621b08a1b780b49da430d0bb1b4cea</property>
+  <property name="kdenlive:proxy">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/ec621b08a1b780b49da430d0bb1b4cea.mkv</property>
+  <property name="kdenlive:originalurl">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte1/labyrinthe/00064.MTS</property>
+  <property name="kdenlive:original.mlt_type">producer</property>
+  <property name="kdenlive:original.in">0</property>
+  <property name="kdenlive:original.out">194</property>
+  <property name="kdenlive:original.length">195</property>
+  <property name="kdenlive:original.eof">pause</property>
+  <property name="kdenlive:original.resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte1/labyrinthe/00064.MTS</property>
+  <property name="kdenlive:original.meta.media.nb_streams">3</property>
+  <property name="kdenlive:original.meta.media.0.stream.type">video</property>
+  <property name="kdenlive:original.meta.media.0.stream.frame_rate">25</property>
+  <property name="kdenlive:original.meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="kdenlive:original.meta.media.0.codec.width">1920</property>
+  <property name="kdenlive:original.meta.media.0.codec.height">1080</property>
+  <property name="kdenlive:original.meta.media.0.codec.rotate">0</property>
+  <property name="kdenlive:original.meta.media.0.codec.frame_rate">25</property>
+  <property name="kdenlive:original.meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="kdenlive:original.meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.colorspace">709</property>
+  <property name="kdenlive:original.meta.media.0.codec.name">h264</property>
+  <property name="kdenlive:original.meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="kdenlive:original.meta.media.0.codec.bit_rate">0</property>
+  <property name="kdenlive:original.meta.media.1.stream.type">audio</property>
+  <property name="kdenlive:original.meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="kdenlive:original.meta.media.1.codec.sample_rate">48000</property>
+  <property name="kdenlive:original.meta.media.1.codec.channels">6</property>
+  <property name="kdenlive:original.meta.media.1.codec.name">ac3</property>
+  <property name="kdenlive:original.meta.media.1.codec.long_name">ATSC A/52A (AC-3)</property>
+  <property name="kdenlive:original.meta.media.1.codec.bit_rate">448000</property>
+  <property name="kdenlive:original.meta.media.2.codec.name">pgssub</property>
+  <property name="kdenlive:original.meta.media.2.codec.long_name">HDMV Presentation Graphic Stream subtitles</property>
+  <property name="kdenlive:original.meta.media.2.codec.bit_rate">0</property>
+  <property name="kdenlive:original.seekable">1</property>
+  <property name="kdenlive:original.width">1920</property>
+  <property name="kdenlive:original.height">1080</property>
+  <property name="kdenlive:original.meta.media.sample_aspect_num">1</property>
+  <property name="kdenlive:original.meta.media.sample_aspect_den">1</property>
+  <property name="kdenlive:original.aspect_ratio">1</property>
+  <property name="kdenlive:original.audio_index">1</property>
+  <property name="kdenlive:original.video_index">0</property>
+  <property name="kdenlive:original.mute_on_pause">0</property>
+  <property name="kdenlive:original.mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:original.kdenlive:folderid">-1</property>
+  <property name="kdenlive:original.meta.media.frame_rate_num">25</property>
+  <property name="kdenlive:original.meta.media.frame_rate_den">1</property>
+  <property name="kdenlive:original.meta.media.colorspace">709</property>
+  <property name="kdenlive:original.meta.media.color_trc">2</property>
+  <property name="kdenlive:original.meta.media.width">1920</property>
+  <property name="kdenlive:original.meta.media.height">1080</property>
+  <property name="kdenlive:original.meta.media.color_range">mpeg</property>
+  <property name="kdenlive:original.kdenlive:id">61</property>
+  <property name="kdenlive:original.kdenlive:file_size">15237120</property>
+  <property name="kdenlive:original.kdenlive:file_hash">ec621b08a1b780b49da430d0bb1b4cea</property>
+  <property name="kdenlive:original.backup">1</property>
+  <property name="global_feed">1</property>
+  <property name="kdenlive:audio_max">9</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">25</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">1000</property>
+  <property name="meta.media.0.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">601</property>
+  <property name="meta.media.0.codec.name">mjpeg</property>
+  <property name="meta.media.0.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.91.100 mjpeg</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:00:07.800000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">s16</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">6</property>
+  <property name="meta.media.1.codec.name">pcm_s16le</property>
+  <property name="meta.media.1.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.1.codec.bit_rate">4608000</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.91.100 pcm_s16le</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:00:07.808000000</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.45.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">25</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
  <playlist id="playlist24">
   <blank length="00:00:25.400"/>
   <entry producer="producer79" in="00:00:09.880" out="00:00:10.280">
@@ -15655,9 +15712,13 @@
   <entry producer="producer94" in="00:00:57.400" out="00:00:57.400">
    <property name="kdenlive:id">10</property>
   </entry>
+  <blank length="00:01:19.320"/>
+  <entry producer="producer99" in="00:00:00.000" out="00:00:07.760">
+   <property name="kdenlive:id">60</property>
+  </entry>
  </playlist>
  <playlist id="playlist25"/>
- <tractor id="tractor12" in="00:00:00.000" out="00:00:31.240">
+ <tractor id="tractor12" in="00:00:00.000" out="00:01:58.360">
   <property name="kdenlive:trackheight">42</property>
   <property name="kdenlive:timeline_active">0</property>
   <property name="kdenlive:collapsed">28</property>
@@ -15667,7 +15728,7 @@
   <property name="kdenlive:locked_track">1</property>
   <track hide="audio" producer="playlist24"/>
   <track producer="playlist25"/>
-  <filter id="filter28" out="00:00:31.280">
+  <filter id="filter28" out="00:01:58.400">
    <property name="rotate_center">1</property>
    <property name="mlt_service">qtblend</property>
    <property name="kdenlive_id">qtblend</property>
@@ -15677,7 +15738,7 @@
    <property name="distort">0</property>
    <property name="kdenlive:collapsed">0</property>
   </filter>
-  <filter id="filter29" out="00:00:31.280">
+  <filter id="filter29" out="00:01:58.400">
    <property name="mode">alpha</property>
    <property name="alpha_operation">clear</property>
    <property name="invert">0</property>
@@ -30515,7 +30576,7 @@
    <property name="kdenlive:collapsed">0</property>
   </filter>
  </tractor>
- <producer id="producer99" in="00:00:00.000" out="00:00:19.720">
+ <producer id="producer100" in="00:00:00.000" out="00:00:19.720">
   <property name="length">494</property>
   <property name="eof">pause</property>
   <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/e6bb9ae64fa810901e8ff153d93e1377.mkv</property>
@@ -30627,7 +30688,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer100" in="00:00:00.000" out="00:00:06.560">
+ <producer id="producer101" in="00:00:00.000" out="00:00:06.560">
   <property name="length">165</property>
   <property name="eof">pause</property>
   <property name="resource">3.000000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/e6bb9ae64fa810901e8ff153d93e1377.mkv</property>
@@ -30685,13 +30746,13 @@
  </producer>
  <playlist id="playlist26">
   <blank length="00:00:52.600"/>
-  <entry producer="producer99" in="00:00:00.000" out="00:00:15.080">
+  <entry producer="producer100" in="00:00:00.000" out="00:00:15.080">
    <property name="kdenlive:id">72</property>
   </entry>
-  <entry producer="producer100" in="00:00:05.040" out="00:00:05.520">
+  <entry producer="producer101" in="00:00:05.040" out="00:00:05.520">
    <property name="kdenlive:id">72</property>
   </entry>
-  <entry producer="producer99" in="00:00:16.840" out="00:00:19.720">
+  <entry producer="producer100" in="00:00:16.840" out="00:00:19.720">
    <property name="kdenlive:id">72</property>
   </entry>
  </playlist>
@@ -30718,7 +30779,7 @@
    <property name="kdenlive:collapsed">0</property>
   </filter>
  </tractor>
- <producer id="producer101" in="00:00:00.000" out="00:00:18.680">
+ <producer id="producer102" in="00:00:00.000" out="00:00:18.680">
   <property name="length">468</property>
   <property name="eof">pause</property>
   <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
@@ -30830,62 +30891,6 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer102" in="00:00:00.000" out="00:00:09.320">
-  <property name="length">234</property>
-  <property name="eof">pause</property>
-  <property name="resource">2.000000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
-  <property name="aspect_ratio">1</property>
-  <property name="meta.media.nb_streams">2</property>
-  <property name="meta.media.0.stream.type">video</property>
-  <property name="meta.media.0.stream.frame_rate">25</property>
-  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
-  <property name="meta.media.0.codec.width">640</property>
-  <property name="meta.media.0.codec.height">360</property>
-  <property name="meta.media.0.codec.rotate">0</property>
-  <property name="meta.media.0.codec.frame_rate">1000</property>
-  <property name="meta.media.0.codec.pix_fmt">yuvj420p</property>
-  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
-  <property name="meta.media.0.codec.colorspace">601</property>
-  <property name="meta.media.0.codec.name">mjpeg</property>
-  <property name="meta.media.0.codec.long_name">MJPEG (Motion JPEG)</property>
-  <property name="meta.media.0.codec.bit_rate">0</property>
-  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.91.100 mjpeg</property>
-  <property name="meta.attr.0.stream.DURATION.markup">00:00:18.720000000</property>
-  <property name="meta.media.1.stream.type">audio</property>
-  <property name="meta.media.1.codec.sample_fmt">s16</property>
-  <property name="meta.media.1.codec.sample_rate">48000</property>
-  <property name="meta.media.1.codec.channels">6</property>
-  <property name="meta.media.1.codec.name">pcm_s16le</property>
-  <property name="meta.media.1.codec.long_name">PCM signed 16-bit little-endian</property>
-  <property name="meta.media.1.codec.bit_rate">4608000</property>
-  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.91.100 pcm_s16le</property>
-  <property name="meta.attr.1.stream.DURATION.markup">00:00:18.720000000</property>
-  <property name="meta.attr.ENCODER.markup">Lavf58.45.100</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.sample_aspect_num">1</property>
-  <property name="meta.media.sample_aspect_den">1</property>
-  <property name="audio_index">1</property>
-  <property name="video_index">0</property>
-  <property name="mute_on_pause">1</property>
-  <property name="warp_speed">2</property>
-  <property name="warp_resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
-  <property name="mlt_service">timewarp</property>
-  <property name="kdenlive:proxy">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
-  <property name="kdenlive:originalurl">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte1/labyrinthe/00075.MTS</property>
-  <property name="set.test_audio">1</property>
-  <property name="set.test_image">0</property>
-  <property name="kdenlive:id">71</property>
-  <property name="warp_pitch">0</property>
-  <property name="meta.media.frame_rate_num">25</property>
-  <property name="meta.media.frame_rate_den">1</property>
-  <property name="meta.media.colorspace">601</property>
-  <property name="meta.media.color_trc">2</property>
-  <property name="meta.media.width">640</property>
-  <property name="meta.media.height">360</property>
-  <property name="meta.media.color_range">full</property>
-  <property name="meta.media.top_field_first">0</property>
-  <property name="meta.media.progressive">1</property>
- </producer>
  <producer id="producer103" in="00:00:00.000" out="00:00:09.320">
   <property name="length">234</property>
   <property name="eof">pause</property>
@@ -30942,10 +30947,10 @@
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer104" in="00:00:00.000" out="00:00:37.400">
-  <property name="length">936</property>
+ <producer id="producer104" in="00:00:00.000" out="00:00:09.320">
+  <property name="length">234</property>
   <property name="eof">pause</property>
-  <property name="resource">0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
+  <property name="resource">2.000000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -30979,7 +30984,7 @@
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
-  <property name="warp_speed">0.5</property>
+  <property name="warp_speed">2</property>
   <property name="warp_resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
@@ -31001,7 +31006,7 @@
  <producer id="producer105" in="00:00:00.000" out="00:00:37.400">
   <property name="length">936</property>
   <property name="eof">pause</property>
-  <property name="resource">-0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
+  <property name="resource">0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -31035,7 +31040,7 @@
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
-  <property name="warp_speed">-0.5</property>
+  <property name="warp_speed">0.5</property>
   <property name="warp_resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
@@ -31057,7 +31062,7 @@
  <producer id="producer106" in="00:00:00.000" out="00:00:37.400">
   <property name="length">936</property>
   <property name="eof">pause</property>
-  <property name="resource">0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
+  <property name="resource">-0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -31091,7 +31096,7 @@
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
-  <property name="warp_speed">0.5</property>
+  <property name="warp_speed">-0.5</property>
   <property name="warp_resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
@@ -31113,7 +31118,7 @@
  <producer id="producer107" in="00:00:00.000" out="00:00:37.400">
   <property name="length">936</property>
   <property name="eof">pause</property>
-  <property name="resource">-0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
+  <property name="resource">0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -31147,7 +31152,7 @@
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
-  <property name="warp_speed">-0.5</property>
+  <property name="warp_speed">0.5</property>
   <property name="warp_resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
@@ -31169,7 +31174,7 @@
  <producer id="producer108" in="00:00:00.000" out="00:00:37.400">
   <property name="length">936</property>
   <property name="eof">pause</property>
-  <property name="resource">0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
+  <property name="resource">-0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -31203,7 +31208,7 @@
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
-  <property name="warp_speed">0.5</property>
+  <property name="warp_speed">-0.5</property>
   <property name="warp_resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
@@ -31225,7 +31230,7 @@
  <producer id="producer109" in="00:00:00.000" out="00:00:37.400">
   <property name="length">936</property>
   <property name="eof">pause</property>
-  <property name="resource">-0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
+  <property name="resource">0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -31259,7 +31264,7 @@
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
-  <property name="warp_speed">-0.5</property>
+  <property name="warp_speed">0.5</property>
   <property name="warp_resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
@@ -31281,7 +31286,7 @@
  <producer id="producer110" in="00:00:00.000" out="00:00:37.400">
   <property name="length">936</property>
   <property name="eof">pause</property>
-  <property name="resource">0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
+  <property name="resource">-0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -31315,7 +31320,7 @@
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
-  <property name="warp_speed">0.5</property>
+  <property name="warp_speed">-0.5</property>
   <property name="warp_resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
@@ -31337,7 +31342,7 @@
  <producer id="producer111" in="00:00:00.000" out="00:00:37.400">
   <property name="length">936</property>
   <property name="eof">pause</property>
-  <property name="resource">-0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
+  <property name="resource">0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -31371,7 +31376,7 @@
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
-  <property name="warp_speed">-0.5</property>
+  <property name="warp_speed">0.5</property>
   <property name="warp_resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
@@ -31393,7 +31398,7 @@
  <producer id="producer112" in="00:00:00.000" out="00:00:37.400">
   <property name="length">936</property>
   <property name="eof">pause</property>
-  <property name="resource">0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
+  <property name="resource">-0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
   <property name="meta.media.0.stream.type">video</property>
@@ -31427,7 +31432,7 @@
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
-  <property name="warp_speed">0.5</property>
+  <property name="warp_speed">-0.5</property>
   <property name="warp_resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
   <property name="mlt_service">timewarp</property>
   <property name="kdenlive:proxy">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
@@ -31449,6 +31454,62 @@
  <producer id="producer113" in="00:00:00.000" out="00:00:37.400">
   <property name="length">936</property>
   <property name="eof">pause</property>
+  <property name="resource">0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">25</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">1000</property>
+  <property name="meta.media.0.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">601</property>
+  <property name="meta.media.0.codec.name">mjpeg</property>
+  <property name="meta.media.0.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.91.100 mjpeg</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:00:18.720000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">s16</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">6</property>
+  <property name="meta.media.1.codec.name">pcm_s16le</property>
+  <property name="meta.media.1.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.1.codec.bit_rate">4608000</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.91.100 pcm_s16le</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:00:18.720000000</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.45.100</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="warp_speed">0.5</property>
+  <property name="warp_resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
+  <property name="mlt_service">timewarp</property>
+  <property name="kdenlive:proxy">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
+  <property name="kdenlive:originalurl">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Acte1/labyrinthe/00075.MTS</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+  <property name="kdenlive:id">71</property>
+  <property name="warp_pitch">0</property>
+  <property name="meta.media.frame_rate_num">25</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="producer114" in="00:00:00.000" out="00:00:37.400">
+  <property name="length">936</property>
+  <property name="eof">pause</property>
   <property name="resource">-0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.nb_streams">2</property>
@@ -31502,7 +31563,7 @@
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer114" in="00:00:00.000" out="00:00:37.400">
+ <producer id="producer115" in="00:00:00.000" out="00:00:37.400">
   <property name="length">936</property>
   <property name="eof">pause</property>
   <property name="resource">0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
@@ -31558,7 +31619,7 @@
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer115" in="00:00:00.000" out="00:00:37.400">
+ <producer id="producer116" in="00:00:00.000" out="00:00:37.400">
   <property name="length">936</property>
   <property name="eof">pause</property>
   <property name="resource">-0.500000:/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/4f17ad688a056e469c397cb2d742e000.mkv</property>
@@ -31614,7 +31675,7 @@
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer116" in="00:00:00.000" out="00:00:10.360">
+ <producer id="producer117" in="00:00:00.000" out="00:00:10.360">
   <property name="length">260</property>
   <property name="eof">pause</property>
   <property name="resource">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/proxy/87c7fb5165b35024fd071836e1779c58.mkv</property>
@@ -31727,49 +31788,49 @@
  </producer>
  <playlist id="playlist28">
   <blank length="00:00:52.600"/>
-  <entry producer="producer101" in="00:00:00.000" out="00:00:13.560">
+  <entry producer="producer102" in="00:00:00.000" out="00:00:13.560">
    <property name="kdenlive:id">71</property>
   </entry>
-  <entry producer="producer102" in="00:00:06.800" out="00:00:07.160">
+  <entry producer="producer103" in="00:00:06.800" out="00:00:07.160">
    <property name="kdenlive:id">71</property>
   </entry>
-  <entry producer="producer103" in="00:00:07.560" out="00:00:09.320">
+  <entry producer="producer104" in="00:00:07.560" out="00:00:09.320">
    <property name="kdenlive:id">71</property>
   </entry>
-  <entry producer="producer104" in="00:00:00.240" out="00:00:03.160">
+  <entry producer="producer105" in="00:00:00.240" out="00:00:03.160">
    <property name="kdenlive:id">71</property>
   </entry>
-  <entry producer="producer105" in="00:00:34.280" out="00:00:37.200">
+  <entry producer="producer106" in="00:00:34.280" out="00:00:37.200">
    <property name="kdenlive:id">71</property>
   </entry>
-  <entry producer="producer106" in="00:00:00.240" out="00:00:03.160">
+  <entry producer="producer107" in="00:00:00.240" out="00:00:03.160">
    <property name="kdenlive:id">71</property>
   </entry>
-  <entry producer="producer107" in="00:00:34.280" out="00:00:37.200">
+  <entry producer="producer108" in="00:00:34.280" out="00:00:37.200">
    <property name="kdenlive:id">71</property>
   </entry>
-  <entry producer="producer108" in="00:00:00.240" out="00:00:03.160">
+  <entry producer="producer109" in="00:00:00.240" out="00:00:03.160">
    <property name="kdenlive:id">71</property>
   </entry>
-  <entry producer="producer109" in="00:00:34.280" out="00:00:37.200">
+  <entry producer="producer110" in="00:00:34.280" out="00:00:37.200">
    <property name="kdenlive:id">71</property>
   </entry>
-  <entry producer="producer110" in="00:00:00.240" out="00:00:03.160">
+  <entry producer="producer111" in="00:00:00.240" out="00:00:03.160">
    <property name="kdenlive:id">71</property>
   </entry>
-  <entry producer="producer111" in="00:00:34.280" out="00:00:37.200">
+  <entry producer="producer112" in="00:00:34.280" out="00:00:37.200">
    <property name="kdenlive:id">71</property>
   </entry>
-  <entry producer="producer112" in="00:00:00.240" out="00:00:03.160">
+  <entry producer="producer113" in="00:00:00.240" out="00:00:03.160">
    <property name="kdenlive:id">71</property>
   </entry>
-  <entry producer="producer113" in="00:00:34.280" out="00:00:37.200">
+  <entry producer="producer114" in="00:00:34.280" out="00:00:37.200">
    <property name="kdenlive:id">71</property>
   </entry>
-  <entry producer="producer114" in="00:00:00.240" out="00:00:03.160">
+  <entry producer="producer115" in="00:00:00.240" out="00:00:03.160">
    <property name="kdenlive:id">71</property>
   </entry>
-  <entry producer="producer115" in="00:00:34.280" out="00:00:37.200">
+  <entry producer="producer116" in="00:00:34.280" out="00:00:37.200">
    <property name="kdenlive:id">71</property>
    <filter id="filter31" in="00:00:37.080" out="00:00:37.200">
     <property name="start">1</property>
@@ -31780,7 +31841,7 @@
    </filter>
   </entry>
   <blank length="00:02:38.080"/>
-  <entry producer="producer116" in="00:00:00.000" out="00:00:10.360">
+  <entry producer="producer117" in="00:00:00.000" out="00:00:10.360">
    <property name="kdenlive:id">20</property>
   </entry>
  </playlist>
