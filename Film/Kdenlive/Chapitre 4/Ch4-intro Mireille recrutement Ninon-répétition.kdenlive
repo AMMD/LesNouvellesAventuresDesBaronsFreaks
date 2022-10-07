@@ -6400,9 +6400,9 @@ le bouton tu presseras » &lt;/content>
   <property name="kdenlive:folder.-1.37">DALIDA</property>
   <property name="kdenlive:folder.-1.48">SANSON VERONIQUE</property>
   <property name="kdenlive:folder.-1.74">RAVI</property>
-  <property name="kdenlive:docproperties.activeTrack">7</property>
+  <property name="kdenlive:docproperties.activeTrack">9</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
-  <property name="kdenlive:docproperties.audioTarget">4</property>
+  <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
   <property name="kdenlive:docproperties.documentid">1610619085784</property>
   <property name="kdenlive:docproperties.enableTimelineZone">0</property>
@@ -6565,7 +6565,7 @@ le bouton tu presseras » &lt;/content>
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.12.3</property>
-  <property name="kdenlive:docproperties.position">19266</property>
+  <property name="kdenlive:docproperties.position">6805</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">atsc_1080i_50</property>
@@ -6593,17 +6593,17 @@ le bouton tu presseras » &lt;/content>
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">0</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Exports/Chapitre 4/Ch4-17.mp4</property>
+  <property name="kdenlive:docproperties.renderurl">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Exports/Chapitre 4/Ch4-2.mp4</property>
   <property name="kdenlive:docproperties.renderzone">1</property>
-  <property name="kdenlive:docproperties.scrollPos">5286</property>
+  <property name="kdenlive:docproperties.scrollPos">3026</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.storagefolder">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/1610619085784</property>
   <property name="kdenlive:docproperties.version">1</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.videoTarget">-1</property>
-  <property name="kdenlive:docproperties.zonein">19355</property>
-  <property name="kdenlive:docproperties.zoneout">20005</property>
-  <property name="kdenlive:docproperties.zoom">9</property>
+  <property name="kdenlive:docproperties.zonein">0</property>
+  <property name="kdenlive:docproperties.zoneout">6003</property>
+  <property name="kdenlive:docproperties.zoom">7</property>
   <property name="kdenlive:expandedFolders"/>
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
@@ -6613,15 +6613,15 @@ le bouton tu presseras » &lt;/content>
   <entry producer="producer3" in="00:00:00.000" out="00:00:10.920"/>
   <entry producer="producer5" in="00:00:00.000" out="00:00:19.240"/>
   <entry producer="producer4" in="00:00:00.000" out="00:00:19.240"/>
-  <entry producer="producer6" in="00:00:00.000" out="00:00:10.760"/>
+  <entry producer="producer6" in="00:00:00.000" out="00:00:10.880"/>
   <entry producer="producer7" in="00:00:00.000" out="00:00:04.960"/>
   <entry producer="producer8" in="00:00:00.000" out="00:00:53.480"/>
   <entry producer="producer9" in="00:00:00.000" out="00:00:09.600"/>
   <entry producer="producer10" in="00:00:00.000" out="00:00:29.640"/>
-  <entry producer="producer11" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer11" in="00:00:00.000" out="00:00:05.400"/>
   <entry producer="producer12" in="00:00:00.000" out="00:00:06.880"/>
   <entry producer="producer13" in="00:00:00.000" out="00:00:02.960"/>
-  <entry producer="producer14" in="00:00:00.000" out="00:00:10.760"/>
+  <entry producer="producer14" in="00:00:00.000" out="00:00:10.880"/>
   <entry producer="producer15" in="00:00:00.000" out="00:01:49.160"/>
   <entry producer="producer16" in="00:00:00.000" out="00:00:53.000"/>
   <entry producer="producer17" in="00:00:00.000" out="00:00:05.640"/>
@@ -6680,7 +6680,7 @@ le bouton tu presseras » &lt;/content>
   <entry producer="producer71" in="00:00:00.000" out="00:01:05.000"/>
   <entry producer="producer70" in="00:00:00.000" out="00:00:11.920"/>
   <entry producer="producer72" in="00:00:00.000" out="00:00:06.120"/>
-  <entry producer="producer73" in="00:00:00.000" out="00:00:07.000"/>
+  <entry producer="producer73" in="00:00:00.000" out="00:00:07.400"/>
   <entry producer="producer74" in="00:00:00.000" out="00:00:06.880"/>
   <entry producer="producer75" in="00:00:00.000" out="00:00:02.960"/>
   <entry producer="producer76" in="00:00:00.000" out="00:01:03.400"/>
@@ -7511,6 +7511,10 @@ le bouton tu presseras » &lt;/content>
   <property name="length">6375</property>
   <property name="eof">pause</property>
   <property name="resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Audio/ch4.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s32</property>
@@ -7528,10 +7532,6 @@ le bouton tu presseras » &lt;/content>
   <property name="meta.attr.coding_history.markup">A=PCM,F=48000,W=24,M=stereo,T=libsndfile-1.0.31&#xd;
 </property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:id">94</property>
@@ -7576,7 +7576,6 @@ le bouton tu presseras » &lt;/content>
   <blank length="00:00:10.440"/>
   <entry producer="producer95" in="00:01:12.800" out="00:01:17.560">
    <property name="kdenlive:id">94</property>
-   <property name="kdenlive:activeeffect">0</property>
   </entry>
   <blank length="00:00:16.640"/>
   <entry producer="producer95" in="00:01:19.240" out="00:01:21.160">
@@ -8890,10 +8889,13 @@ le bouton tu presseras » &lt;/content>
    <property name="kdenlive:id">86</property>
   </entry>
   <blank length="00:00:06.200"/>
-  <entry producer="producer101" in="00:00:03.120" out="00:00:10.000">
+  <entry producer="producer101" in="00:00:03.120" out="00:00:09.000">
    <property name="kdenlive:id">86</property>
   </entry>
-  <blank length="00:07:03.120"/>
+  <entry producer="producer101" in="00:00:03.120" out="00:00:09.000">
+   <property name="kdenlive:id">86</property>
+  </entry>
+  <blank length="00:06:58.200"/>
   <entry producer="producer102" in="00:00:10.880" out="00:00:13.400">
    <property name="kdenlive:id">89</property>
    <property name="kdenlive:activeeffect">2</property>
@@ -9026,7 +9028,6 @@ le bouton tu presseras » &lt;/content>
   <blank length="00:00:54.480"/>
   <entry producer="producer104" in="00:00:01.480" out="00:00:04.880">
    <property name="kdenlive:id">73</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter32">
     <property name="smooth">00:00:01.480=1.689</property>
     <property name="radius">00:00:01.480=0.405</property>
@@ -9069,7 +9070,6 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer104" in="00:00:01.480" out="00:00:02.800">
    <property name="kdenlive:id">73</property>
-   <property name="kdenlive:activeeffect">0</property>
    <filter id="filter35">
     <property name="smooth">00:00:01.480=1.689</property>
     <property name="radius">00:00:01.480=0.405</property>
@@ -9113,11 +9113,11 @@ le bouton tu presseras » &lt;/content>
   <entry producer="producer104" in="00:00:01.480" out="00:00:04.600">
    <property name="kdenlive:id">73</property>
    <filter id="filter38">
-    <property name="smooth">37=1.689</property>
-    <property name="radius">37=0.405</property>
-    <property name="x">37=0.5</property>
-    <property name="y">37=0.5</property>
-    <property name="opacity">37=0</property>
+    <property name="smooth">00:00:01.480=1.689</property>
+    <property name="radius">00:00:01.480=0.405</property>
+    <property name="x">00:00:01.480=0.5</property>
+    <property name="y">00:00:01.480=0.5</property>
+    <property name="opacity">00:00:01.480=0</property>
     <property name="mode">0</property>
     <property name="mlt_service">vignette</property>
     <property name="kdenlive_id">vignette</property>
@@ -19920,6 +19920,7 @@ le bouton tu presseras » &lt;/content>
   <blank length="00:00:00.240"/>
   <entry producer="producer130" in="00:00:00.000" out="00:00:05.120">
    <property name="kdenlive:id">17</property>
+   <property name="kdenlive:activeeffect">2</property>
    <filter id="filter106">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
@@ -19938,10 +19939,21 @@ le bouton tu presseras » &lt;/content>
     <property name="alpha">-1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
+   <filter id="filter108">
+    <property name="smooth">00:00:03.520=1.689</property>
+    <property name="radius">00:00:03.520=0.405</property>
+    <property name="x">00:00:03.520=0.5</property>
+    <property name="y">00:00:03.520=0.5</property>
+    <property name="opacity">00:00:03.520=0</property>
+    <property name="mode">0</property>
+    <property name="mlt_service">vignette</property>
+    <property name="kdenlive_id">vignette</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
   </entry>
   <entry producer="producer131" in="00:00:09.000" out="00:00:15.800">
    <property name="kdenlive:id">17</property>
-   <filter id="filter108">
+   <filter id="filter109">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -19951,10 +19963,20 @@ le bouton tu presseras » &lt;/content>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
+   <filter id="filter110">
+    <property name="smooth">313=1.689</property>
+    <property name="radius">313=0.405</property>
+    <property name="x">313=0.5</property>
+    <property name="y">313=0.5</property>
+    <property name="opacity">313=0</property>
+    <property name="mode">0</property>
+    <property name="mlt_service">vignette</property>
+    <property name="kdenlive_id">vignette</property>
+   </filter>
   </entry>
   <entry producer="producer132" in="00:00:19.640" out="00:00:26.800">
    <property name="kdenlive:id">17</property>
-   <filter id="filter109">
+   <filter id="filter111">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -19964,10 +19986,20 @@ le bouton tu presseras » &lt;/content>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
+   <filter id="filter112">
+    <property name="smooth">579=1.689</property>
+    <property name="radius">579=0.405</property>
+    <property name="x">579=0.5</property>
+    <property name="y">579=0.5</property>
+    <property name="opacity">579=0</property>
+    <property name="mode">0</property>
+    <property name="mlt_service">vignette</property>
+    <property name="kdenlive_id">vignette</property>
+   </filter>
   </entry>
   <entry producer="producer133" in="00:00:33.240" out="00:00:39.240">
    <property name="kdenlive:id">17</property>
-   <filter id="filter110">
+   <filter id="filter113">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -19977,10 +20009,20 @@ le bouton tu presseras » &lt;/content>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
+   <filter id="filter114">
+    <property name="smooth">00:00:36.760=1.689</property>
+    <property name="radius">00:00:36.760=0.405</property>
+    <property name="x">00:00:36.760=0.5</property>
+    <property name="y">00:00:36.760=0.5</property>
+    <property name="opacity">00:00:36.760=0</property>
+    <property name="mode">0</property>
+    <property name="mlt_service">vignette</property>
+    <property name="kdenlive_id">vignette</property>
+   </filter>
   </entry>
   <entry producer="producer134" in="00:00:44.240" out="00:00:52.120">
    <property name="kdenlive:id">17</property>
-   <filter id="filter111">
+   <filter id="filter115">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -19990,10 +20032,20 @@ le bouton tu presseras » &lt;/content>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
+   <filter id="filter116">
+    <property name="smooth">00:00:47.760=1.689</property>
+    <property name="radius">00:00:47.760=0.405</property>
+    <property name="x">00:00:47.760=0.5</property>
+    <property name="y">00:00:47.760=0.5</property>
+    <property name="opacity">00:00:47.760=0</property>
+    <property name="mode">0</property>
+    <property name="mlt_service">vignette</property>
+    <property name="kdenlive_id">vignette</property>
+   </filter>
   </entry>
   <entry producer="producer135" in="00:00:58.160" out="00:01:10.400">
    <property name="kdenlive:id">17</property>
-   <filter id="filter112">
+   <filter id="filter117">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -20003,12 +20055,22 @@ le bouton tu presseras » &lt;/content>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter113" in="00:01:09.200" out="00:01:10.400">
+   <filter id="filter118" in="00:01:09.200" out="00:01:10.400">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
     <property name="end">0</property>
     <property name="alpha">-1</property>
+   </filter>
+   <filter id="filter119">
+    <property name="smooth">00:01:01.680=1.689</property>
+    <property name="radius">00:01:01.680=0.405</property>
+    <property name="x">00:01:01.680=0.5</property>
+    <property name="y">00:01:01.680=0.5</property>
+    <property name="opacity">00:01:01.680=0</property>
+    <property name="mode">0</property>
+    <property name="mlt_service">vignette</property>
+    <property name="kdenlive_id">vignette</property>
    </filter>
   </entry>
   <entry producer="producer79" in="00:00:00.000" out="00:00:01.480">
@@ -20022,7 +20084,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer137" in="00:00:32.000" out="00:00:39.560">
    <property name="kdenlive:id">18</property>
-   <filter id="filter114">
+   <filter id="filter120">
     <property name="smooth">00:00:32.000=0.8;00:00:39.560=0.8</property>
     <property name="radius">00:00:32.000=0.5;00:00:39.560=0.5</property>
     <property name="x">00:00:32.000=0.5;00:00:39.560=0.5</property>
@@ -20033,7 +20095,7 @@ le bouton tu presseras » &lt;/content>
     <property name="kdenlive_id">vignette</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter115" in="00:00:38.640" out="00:00:39.560">
+   <filter id="filter121" in="00:00:38.640" out="00:00:39.560">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -20044,7 +20106,7 @@ le bouton tu presseras » &lt;/content>
   <blank length="00:00:00.400"/>
   <entry producer="producer138" in="00:00:06.640" out="00:00:32.240">
    <property name="kdenlive:id">21</property>
-   <filter id="filter116" in="00:00:06.640" out="00:00:07.200">
+   <filter id="filter122" in="00:00:06.640" out="00:00:07.200">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_black</property>
@@ -20055,7 +20117,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer139" in="00:00:33.320" out="00:00:49.920">
    <property name="kdenlive:id">22</property>
-   <filter id="filter117" in="00:00:47.760" out="00:00:49.920">
+   <filter id="filter123" in="00:00:47.760" out="00:00:49.920">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -20066,7 +20128,7 @@ le bouton tu presseras » &lt;/content>
   <blank length="00:00:13.680"/>
   <entry producer="producer141" in="00:00:06.880" out="00:00:20.040">
    <property name="kdenlive:id">24</property>
-   <filter id="filter118">
+   <filter id="filter124">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -20076,7 +20138,7 @@ le bouton tu presseras » &lt;/content>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter119">
+   <filter id="filter125">
     <property name="smooth">00:00:06.880=1.689</property>
     <property name="radius">00:00:06.880=0.405</property>
     <property name="x">00:00:06.880=0.5</property>
@@ -20093,7 +20155,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer142" in="00:00:04.160" out="00:00:06.360">
    <property name="kdenlive:id">27</property>
-   <filter id="filter120">
+   <filter id="filter126">
     <property name="smooth">00:00:04.160=1.689</property>
     <property name="radius">00:00:04.160=0.405</property>
     <property name="x">00:00:04.160=0.5</property>
@@ -20107,7 +20169,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer143" in="00:00:03.520" out="00:00:11.680">
    <property name="kdenlive:id">25</property>
-   <filter id="filter121">
+   <filter id="filter127">
     <property name="smooth">00:00:03.520=1.689</property>
     <property name="radius">00:00:03.520=0.405</property>
     <property name="x">00:00:03.520=0.5</property>
@@ -20125,7 +20187,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer143" in="00:00:14.560" out="00:00:18.280">
    <property name="kdenlive:id">25</property>
-   <filter id="filter122">
+   <filter id="filter128">
     <property name="smooth">00:00:14.560=1.689</property>
     <property name="radius">00:00:14.560=0.405</property>
     <property name="x">00:00:14.560=0.5</property>
@@ -20139,7 +20201,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer144" in="00:00:01.320" out="00:00:03.400">
    <property name="kdenlive:id">26</property>
-   <filter id="filter123">
+   <filter id="filter129">
     <property name="smooth">00:00:01.320=0.8</property>
     <property name="radius">00:00:01.320=0.33</property>
     <property name="x">00:00:01.320=0.5</property>
@@ -20153,7 +20215,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer145" in="00:00:12.560" out="00:00:13.440">
    <property name="kdenlive:id">87</property>
-   <filter id="filter124">
+   <filter id="filter130">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -20163,7 +20225,7 @@ le bouton tu presseras » &lt;/content>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter125">
+   <filter id="filter131">
     <property name="smooth">00:00:12.560=1.689</property>
     <property name="radius">00:00:12.560=0.405</property>
     <property name="x">00:00:12.560=0.5</property>
@@ -20178,7 +20240,7 @@ le bouton tu presseras » &lt;/content>
   <entry producer="producer146" in="00:00:17.600" out="00:00:27.480">
    <property name="kdenlive:id">87</property>
    <property name="kdenlive:activeeffect">1</property>
-   <filter id="filter126">
+   <filter id="filter132">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -20189,7 +20251,7 @@ le bouton tu presseras » &lt;/content>
     <property name="kdenlive:collapsed">1</property>
     <property name="disable">0</property>
    </filter>
-   <filter id="filter127">
+   <filter id="filter133">
     <property name="smooth">00:00:17.600=1.689</property>
     <property name="radius">00:00:17.600=0.405</property>
     <property name="x">00:00:17.600=0.5</property>
@@ -20206,7 +20268,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer143" in="00:00:33.960" out="00:00:37.960">
    <property name="kdenlive:id">25</property>
-   <filter id="filter128">
+   <filter id="filter134">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -20216,7 +20278,7 @@ le bouton tu presseras » &lt;/content>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">1</property>
    </filter>
-   <filter id="filter129">
+   <filter id="filter135">
     <property name="smooth">00:00:33.960=0.8;00:00:35.440=0.8;00:00:36.640=0.05;00:00:37.160=0.05;00:00:37.960=0.05</property>
     <property name="radius">00:00:33.960=0.5;00:00:35.440=0.5;00:00:36.640=0.174;00:00:37.160=0.174;00:00:37.960=0</property>
     <property name="x">00:00:33.960=0.5;00:00:35.440=0.5;00:00:36.640=0.693;00:00:37.160=0.622;00:00:37.960=0.705</property>
@@ -20227,7 +20289,7 @@ le bouton tu presseras » &lt;/content>
     <property name="kdenlive_id">vignette</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter130">
+   <filter id="filter145">
     <property name="smooth">00:00:33.960=1.689</property>
     <property name="radius">00:00:33.960=0.405</property>
     <property name="x">00:00:33.960=0.5</property>
@@ -20243,7 +20305,7 @@ le bouton tu presseras » &lt;/content>
   <entry producer="producer147" in="00:00:08.480" out="00:00:11.800">
    <property name="kdenlive:id">32</property>
    <property name="kdenlive:activeeffect">1</property>
-   <filter id="filter131" in="00:00:08.480" out="00:00:10.040">
+   <filter id="filter146" in="00:00:08.480" out="00:00:10.040">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_black</property>
@@ -20251,7 +20313,7 @@ le bouton tu presseras » &lt;/content>
     <property name="alpha">-1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter132">
+   <filter id="filter147">
     <property name="smooth">00:00:08.480=1.689</property>
     <property name="radius">00:00:08.480=0.405</property>
     <property name="x">00:00:08.480=0.5</property>
@@ -20269,7 +20331,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer147" in="00:00:15.080" out="00:00:19.600">
    <property name="kdenlive:id">32</property>
-   <filter id="filter133">
+   <filter id="filter148">
     <property name="smooth">00:00:15.080=1.689</property>
     <property name="radius">00:00:15.080=0.405</property>
     <property name="x">00:00:15.080=0.5</property>
@@ -20286,7 +20348,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer148" in="00:00:26.520" out="00:00:34.360">
    <property name="kdenlive:id">33</property>
-   <filter id="filter134">
+   <filter id="filter149">
     <property name="smooth">00:00:26.520=1.689</property>
     <property name="radius">00:00:26.520=0.405</property>
     <property name="x">00:00:26.520=0.5</property>
@@ -20300,7 +20362,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer149" in="00:00:41.960" out="00:00:47.440">
    <property name="kdenlive:id">33</property>
-   <filter id="filter135" in="00:00:46.720" out="00:00:47.440">
+   <filter id="filter150" in="00:00:46.720" out="00:00:47.440">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -20308,7 +20370,7 @@ le bouton tu presseras » &lt;/content>
     <property name="alpha">-1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter145">
+   <filter id="filter151">
     <property name="smooth">00:00:41.960=1.689</property>
     <property name="radius">00:00:41.960=0.405</property>
     <property name="x">00:00:41.960=0.5</property>
@@ -20323,7 +20385,7 @@ le bouton tu presseras » &lt;/content>
   <blank length="00:00:12.640"/>
   <entry producer="producer150" in="00:00:28.400" out="00:00:40.240">
    <property name="kdenlive:id">31</property>
-   <filter id="filter146" in="00:00:28.400" out="00:00:28.840">
+   <filter id="filter152" in="00:00:28.400" out="00:00:28.840">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_black</property>
@@ -20331,7 +20393,7 @@ le bouton tu presseras » &lt;/content>
     <property name="alpha">-1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter147" in="00:00:39.240" out="00:00:40.240">
+   <filter id="filter153" in="00:00:39.240" out="00:00:40.240">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -20345,7 +20407,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer151" in="00:00:23.160" out="00:00:27.720">
    <property name="kdenlive:id">38</property>
-   <filter id="filter148" in="00:00:23.160" out="00:00:24.040">
+   <filter id="filter154" in="00:00:23.160" out="00:00:24.040">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_black</property>
@@ -20376,7 +20438,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer154" in="00:01:03.920" out="00:01:08.040">
    <property name="kdenlive:id">41</property>
-   <filter id="filter149">
+   <filter id="filter155">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -20391,7 +20453,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer154" in="00:01:18.800" out="00:01:21.160">
    <property name="kdenlive:id">41</property>
-   <filter id="filter150">
+   <filter id="filter156">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -20407,7 +20469,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer154" in="00:01:25.680" out="00:01:29.480">
    <property name="kdenlive:id">41</property>
-   <filter id="filter151">
+   <filter id="filter157">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -20444,7 +20506,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer164" in="00:00:18.520" out="00:00:23.120">
    <property name="kdenlive:id">46</property>
-   <filter id="filter152" in="00:00:22.200" out="00:00:23.120">
+   <filter id="filter158" in="00:00:22.200" out="00:00:23.120">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -20456,7 +20518,7 @@ le bouton tu presseras » &lt;/content>
   <blank length="00:00:02.160"/>
   <entry producer="producer150" in="00:00:41.120" out="00:00:54.880">
    <property name="kdenlive:id">31</property>
-   <filter id="filter153" in="00:00:41.120" out="00:00:41.720">
+   <filter id="filter162" in="00:00:41.120" out="00:00:41.720">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_black</property>
@@ -20464,7 +20526,7 @@ le bouton tu presseras » &lt;/content>
     <property name="alpha">-1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter154" in="00:00:54.400" out="00:00:54.880">
+   <filter id="filter163" in="00:00:54.400" out="00:00:54.880">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -20485,7 +20547,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer166" in="00:01:27.480" out="00:01:35.040">
    <property name="kdenlive:id">47</property>
-   <filter id="filter155" in="00:01:32.880" out="00:01:35.040">
+   <filter id="filter164" in="00:01:32.880" out="00:01:35.040">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -20496,7 +20558,7 @@ le bouton tu presseras » &lt;/content>
   <blank length="00:00:02.520"/>
   <entry producer="producer150" in="00:01:33.280" out="00:01:46.680">
    <property name="kdenlive:id">31</property>
-   <filter id="filter156" in="00:01:33.280" out="00:01:34.120">
+   <filter id="filter186" in="00:01:33.280" out="00:01:34.120">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_black</property>
@@ -20504,7 +20566,7 @@ le bouton tu presseras » &lt;/content>
     <property name="alpha">-1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter157" in="00:01:46.080" out="00:01:46.680">
+   <filter id="filter187" in="00:01:46.080" out="00:01:46.680">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -20516,7 +20578,7 @@ le bouton tu presseras » &lt;/content>
   <blank length="00:00:00.440"/>
   <entry producer="producer167" in="00:00:56.360" out="00:01:00.640">
    <property name="kdenlive:id">50</property>
-   <filter id="filter158" in="00:00:56.360" out="00:00:57.200">
+   <filter id="filter188" in="00:00:56.360" out="00:00:57.200">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_black</property>
@@ -20535,7 +20597,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer170" in="00:00:02.240" out="00:00:05.160">
    <property name="kdenlive:id">53</property>
-   <filter id="filter162">
+   <filter id="filter189">
     <property name="start">1</property>
     <property name="level">00:00:02.240=0.65</property>
     <property name="mlt_service">brightness</property>
@@ -20548,7 +20610,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer171" in="00:00:07.520" out="00:00:09.200">
    <property name="kdenlive:id">53</property>
-   <filter id="filter163">
+   <filter id="filter190">
     <property name="start">1</property>
     <property name="level">00:00:07.520=0.65</property>
     <property name="mlt_service">brightness</property>
@@ -20557,7 +20619,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer172" in="00:00:18.480" out="00:00:20.000">
    <property name="kdenlive:id">56</property>
-   <filter id="filter164">
+   <filter id="filter191">
     <property name="mode">alpha</property>
     <property name="alpha_operation">clear</property>
     <property name="invert">0</property>
@@ -20666,7 +20728,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer174" in="00:00:45.600" out="00:00:46.160">
    <property name="kdenlive:id">55</property>
-   <filter id="filter186">
+   <filter id="filter192">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -20676,7 +20738,7 @@ le bouton tu presseras » &lt;/content>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter187">
+   <filter id="filter193">
     <property name="smooth">00:00:45.600=0.8</property>
     <property name="radius">00:00:45.600=0.393</property>
     <property name="x">00:00:45.600=0.5</property>
@@ -20691,7 +20753,7 @@ le bouton tu presseras » &lt;/content>
   <entry producer="producer175" in="00:00:45.600" out="00:00:46.160">
    <property name="kdenlive:id">55</property>
    <property name="kdenlive:activeeffect">1</property>
-   <filter id="filter188">
+   <filter id="filter194">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -20701,7 +20763,7 @@ le bouton tu presseras » &lt;/content>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter189">
+   <filter id="filter195">
     <property name="smooth">00:00:45.600=0.8</property>
     <property name="radius">00:00:45.600=0.34</property>
     <property name="x">00:00:45.600=0.5</property>
@@ -20715,7 +20777,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer57" in="00:00:00.000" out="00:00:01.720">
    <property name="kdenlive:id">62</property>
-   <filter id="filter190">
+   <filter id="filter196">
     <property name="start">1</property>
     <property name="level">00:00:00.000=0.7</property>
     <property name="mlt_service">brightness</property>
@@ -20731,7 +20793,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer47" in="00:00:31.240" out="00:00:35.560">
    <property name="kdenlive:id">52</property>
-   <filter id="filter191">
+   <filter id="filter197">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -20741,7 +20803,7 @@ le bouton tu presseras » &lt;/content>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter192" in="00:00:34.880" out="00:00:35.560">
+   <filter id="filter198" in="00:00:34.880" out="00:00:35.560">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -20753,7 +20815,7 @@ le bouton tu presseras » &lt;/content>
   <blank length="00:00:01.880"/>
   <entry producer="producer150" in="00:01:46.720" out="00:02:01.200">
    <property name="kdenlive:id">31</property>
-   <filter id="filter193" in="00:01:46.720" out="00:01:48.200">
+   <filter id="filter199" in="00:01:46.720" out="00:01:48.200">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_black</property>
@@ -20761,7 +20823,7 @@ le bouton tu presseras » &lt;/content>
     <property name="alpha">-1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter194" in="00:02:00.640" out="00:02:01.200">
+   <filter id="filter200" in="00:02:00.640" out="00:02:01.200">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -20793,7 +20855,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer149" in="00:01:19.560" out="00:01:23.760">
    <property name="kdenlive:id">33</property>
-   <filter id="filter195" in="00:01:23.160" out="00:01:23.760">
+   <filter id="filter201" in="00:01:23.160" out="00:01:23.760">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -20805,7 +20867,7 @@ le bouton tu presseras » &lt;/content>
   <blank length="00:00:00.320"/>
   <entry producer="producer150" in="00:02:05.320" out="00:02:20.400">
    <property name="kdenlive:id">31</property>
-   <filter id="filter196" in="00:02:05.320" out="00:02:05.840">
+   <filter id="filter202" in="00:02:05.320" out="00:02:05.840">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_black</property>
@@ -20813,7 +20875,7 @@ le bouton tu presseras » &lt;/content>
     <property name="alpha">-1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter197" in="00:02:19.920" out="00:02:20.400">
+   <filter id="filter203" in="00:02:19.920" out="00:02:20.400">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -20825,7 +20887,7 @@ le bouton tu presseras » &lt;/content>
   <blank length="00:00:01.880"/>
   <entry producer="producer87" in="00:00:00.000" out="00:00:03.400">
    <property name="kdenlive:id">93</property>
-   <filter id="filter198">
+   <filter id="filter204">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -20844,7 +20906,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer87" in="00:00:00.000" out="00:00:02.200">
    <property name="kdenlive:id">93</property>
-   <filter id="filter199">
+   <filter id="filter205">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -20857,7 +20919,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer87" in="00:00:00.000" out="00:00:00.880">
    <property name="kdenlive:id">93</property>
-   <filter id="filter200">
+   <filter id="filter206">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -20873,7 +20935,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer87" in="00:00:00.000" out="00:00:04.480">
    <property name="kdenlive:id">93</property>
-   <filter id="filter201">
+   <filter id="filter207">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -20895,7 +20957,7 @@ le bouton tu presseras » &lt;/content>
   </entry>
   <entry producer="producer87" in="00:00:00.000" out="00:00:02.760">
    <property name="kdenlive:id">93</property>
-   <filter id="filter202">
+   <filter id="filter208">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -20909,7 +20971,7 @@ le bouton tu presseras » &lt;/content>
   <blank length="00:00:06.520"/>
   <entry producer="producer87" in="00:00:00.000" out="00:00:03.720">
    <property name="kdenlive:id">93</property>
-   <filter id="filter203">
+   <filter id="filter209">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -20923,7 +20985,7 @@ le bouton tu presseras » &lt;/content>
   <blank length="00:00:05.800"/>
   <entry producer="producer87" in="00:00:00.000" out="00:00:02.760">
    <property name="kdenlive:id">93</property>
-   <filter id="filter204">
+   <filter id="filter210">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -20937,7 +20999,7 @@ le bouton tu presseras » &lt;/content>
   <blank length="00:00:05.920"/>
   <entry producer="producer87" in="00:00:00.000" out="00:00:03.720">
    <property name="kdenlive:id">93</property>
-   <filter id="filter205">
+   <filter id="filter211">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -20951,71 +21013,11 @@ le bouton tu presseras » &lt;/content>
   <blank length="00:00:04.480"/>
   <entry producer="producer87" in="00:00:00.000" out="00:00:00.320">
    <property name="kdenlive:id">93</property>
-   <filter id="filter206">
-    <property name="rotate_center">1</property>
-    <property name="mlt_service">qtblend</property>
-    <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:00.000=603 553 576 324 1.000000</property>
-    <property name="rotation">00:00:00.000=0</property>
-    <property name="compositing">0</property>
-    <property name="distort">0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <entry producer="producer75" in="00:00:00.000" out="00:00:00.080">
-   <property name="kdenlive:id">81</property>
-   <filter id="filter207">
-    <property name="rotate_center">1</property>
-    <property name="mlt_service">qtblend</property>
-    <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:00.000=-38 -22 1996 1123 1.000000</property>
-    <property name="rotation">00:00:00.000=0</property>
-    <property name="compositing">0</property>
-    <property name="distort">0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-   <filter id="filter208">
-    <property name="mlt_service">invert</property>
-    <property name="kdenlive_id">invert</property>
-   </filter>
-  </entry>
-  <entry producer="producer75" in="00:00:00.000" out="00:00:00.080">
-   <property name="kdenlive:id">81</property>
-   <filter id="filter209">
-    <property name="rotate_center">1</property>
-    <property name="mlt_service">qtblend</property>
-    <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:00.000=-38 -22 1996 1123 1.000000</property>
-    <property name="rotation">00:00:00.000=0</property>
-    <property name="compositing">0</property>
-    <property name="distort">0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <entry producer="producer75" in="00:00:00.000" out="00:00:00.080">
-   <property name="kdenlive:id">81</property>
-   <filter id="filter210">
-    <property name="rotate_center">1</property>
-    <property name="mlt_service">qtblend</property>
-    <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:00.000=-38 -22 1996 1123 1.000000</property>
-    <property name="rotation">00:00:00.000=0</property>
-    <property name="compositing">0</property>
-    <property name="distort">0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-   <filter id="filter211">
-    <property name="mlt_service">invert</property>
-    <property name="kdenlive_id">invert</property>
-   </filter>
-  </entry>
-  <entry producer="producer75" in="00:00:00.000" out="00:00:00.080">
-   <property name="kdenlive:id">81</property>
    <filter id="filter212">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:00.000=-38 -22 1996 1123 1.000000</property>
+    <property name="rect">00:00:00.000=603 553 576 324 1.000000</property>
     <property name="rotation">00:00:00.000=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
@@ -21039,7 +21041,7 @@ le bouton tu presseras » &lt;/content>
     <property name="kdenlive_id">invert</property>
    </filter>
   </entry>
-  <entry producer="producer75" in="00:00:00.000" out="00:00:00.120">
+  <entry producer="producer75" in="00:00:00.000" out="00:00:00.080">
    <property name="kdenlive:id">81</property>
    <filter id="filter215">
     <property name="rotate_center">1</property>
@@ -21069,9 +21071,69 @@ le bouton tu presseras » &lt;/content>
     <property name="kdenlive_id">invert</property>
    </filter>
   </entry>
+  <entry producer="producer75" in="00:00:00.000" out="00:00:00.080">
+   <property name="kdenlive:id">81</property>
+   <filter id="filter218">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-38 -22 1996 1123 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer75" in="00:00:00.000" out="00:00:00.080">
+   <property name="kdenlive:id">81</property>
+   <filter id="filter219">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-38 -22 1996 1123 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter220">
+    <property name="mlt_service">invert</property>
+    <property name="kdenlive_id">invert</property>
+   </filter>
+  </entry>
+  <entry producer="producer75" in="00:00:00.000" out="00:00:00.120">
+   <property name="kdenlive:id">81</property>
+   <filter id="filter221">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-38 -22 1996 1123 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer75" in="00:00:00.000" out="00:00:00.080">
+   <property name="kdenlive:id">81</property>
+   <filter id="filter222">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=-38 -22 1996 1123 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter223">
+    <property name="mlt_service">invert</property>
+    <property name="kdenlive_id">invert</property>
+   </filter>
+  </entry>
   <entry producer="producer87" in="00:00:00.000" out="00:00:06.080">
    <property name="kdenlive:id">93</property>
-   <filter id="filter218">
+   <filter id="filter224">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -21085,7 +21147,7 @@ le bouton tu presseras » &lt;/content>
   <blank length="00:00:06.640"/>
   <entry producer="producer184" in="00:00:44.560" out="00:01:00.360">
    <property name="kdenlive:id">82</property>
-   <filter id="filter219" in="00:00:44.560" out="00:00:45.120">
+   <filter id="filter225" in="00:00:44.560" out="00:00:45.120">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_black</property>
@@ -21093,7 +21155,7 @@ le bouton tu presseras » &lt;/content>
     <property name="alpha">-1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter220" in="00:00:59.600" out="00:01:00.360">
+   <filter id="filter226" in="00:00:59.600" out="00:01:00.360">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -21104,7 +21166,7 @@ le bouton tu presseras » &lt;/content>
   <blank length="00:00:33.160"/>
   <entry producer="producer185" in="00:00:38.440" out="00:01:04.400">
    <property name="kdenlive:id">84</property>
-   <filter id="filter221" in="00:00:38.440" out="00:00:38.920">
+   <filter id="filter227" in="00:00:38.440" out="00:00:38.920">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_black</property>
@@ -21112,7 +21174,7 @@ le bouton tu presseras » &lt;/content>
     <property name="alpha">-1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter222" in="00:01:04.280" out="00:01:04.400">
+   <filter id="filter228" in="00:01:04.280" out="00:01:04.400">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -21277,27 +21339,27 @@ le bouton tu presseras » &lt;/content>
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <filter id="filter223">
+  <filter id="filter229">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter224">
+  <filter id="filter230">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter225">
+  <filter id="filter231">
    <property name="mlt_service">greyscale</property>
    <property name="kdenlive_id">greyscale</property>
    <property name="kdenlive:collapsed">0</property>
    <property name="disable">0</property>
   </filter>
-  <filter id="filter226">
+  <filter id="filter232">
    <property name="delta">5</property>
    <property name="every">5</property>
    <property name="brightnessdelta_up">10</property>
@@ -21310,7 +21372,7 @@ le bouton tu presseras » &lt;/content>
    <property name="kdenlive_id">oldfilm</property>
    <property name="kdenlive:collapsed">0</property>
   </filter>
-  <filter id="filter227">
+  <filter id="filter233">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="disable">1</property>

@@ -1953,7 +1953,7 @@ révolutionnaire à ce sujet... »&lt;/content>
   <property name="kdenlive:folder.-1.36">audio</property>
   <property name="kdenlive:docproperties.activeTrack">2</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
-  <property name="kdenlive:docproperties.audioTarget">1</property>
+  <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
   <property name="kdenlive:docproperties.documentid">1638280833667</property>
   <property name="kdenlive:docproperties.enableTimelineZone">0</property>
@@ -2143,7 +2143,7 @@ révolutionnaire à ce sujet... »&lt;/content>
   <property name="kdenlive:docproperties.renderaudioquality">256</property>
   <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
-  <property name="kdenlive:docproperties.renderexportaudio">1</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
   <property name="kdenlive:docproperties.renderfield">0</property>
   <property name="kdenlive:docproperties.renderguide">0</property>
   <property name="kdenlive:docproperties.renderplay">0</property>
@@ -2161,7 +2161,7 @@ révolutionnaire à ce sujet... »&lt;/content>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Exports/Chapitre 2/ch2-3.mp4</property>
   <property name="kdenlive:docproperties.renderzone">1</property>
-  <property name="kdenlive:docproperties.scrollPos">0</property>
+  <property name="kdenlive:docproperties.scrollPos">245</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
@@ -2188,7 +2188,7 @@ révolutionnaire à ce sujet... »&lt;/content>
   <entry producer="producer3" in="00:00:00.000" out="00:00:06.400"/>
   <entry producer="producer9" in="00:00:00.000" out="00:01:14.320"/>
   <entry producer="producer4" in="00:00:00.000" out="00:00:04.960"/>
-  <entry producer="producer5" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer5" in="00:00:00.000" out="00:00:05.800"/>
   <entry producer="producer20" in="00:00:00.000" out="00:00:19.040"/>
   <entry producer="producer18" in="00:00:00.000" out="00:01:10.880"/>
   <entry producer="producer6" in="00:00:00.000" out="00:00:09.600"/>
@@ -2642,6 +2642,10 @@ révolutionnaire à ce sujet... »&lt;/content>
   <property name="length">4847</property>
   <property name="eof">pause</property>
   <property name="resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Audio/ch2.wav</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="meta.media.nb_streams">1</property>
   <property name="meta.media.0.stream.type">audio</property>
   <property name="meta.media.0.codec.sample_fmt">s32</property>
@@ -2659,10 +2663,6 @@ révolutionnaire à ce sujet... »&lt;/content>
   <property name="meta.attr.coding_history.markup">A=PCM,F=48000,W=24,M=stereo,T=libsndfile-1.0.31&#xd;
 </property>
   <property name="seekable">1</property>
-  <property name="audio_index">0</property>
-  <property name="video_index">-1</property>
-  <property name="mute_on_pause">0</property>
-  <property name="mlt_service">avformat-novalidate</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:folderid">36</property>
   <property name="kdenlive:id">37</property>
@@ -2675,6 +2675,7 @@ révolutionnaire à ce sujet... »&lt;/content>
   <property name="set.test_image">1</property>
  </producer>
  <playlist id="playlist4">
+  <property name="kdenlive:audio_track">1</property>
   <blank length="00:00:05.160"/>
   <entry producer="producer39" in="00:00:00.000" out="00:00:05.960">
    <property name="kdenlive:id">37</property>
@@ -2697,6 +2698,9 @@ révolutionnaire à ce sujet... »&lt;/content>
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">71</property>
   <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
   <track hide="video" producer="playlist4"/>
   <track hide="video" producer="playlist5"/>
   <filter id="filter6">
