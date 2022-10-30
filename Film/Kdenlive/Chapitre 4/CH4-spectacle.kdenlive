@@ -3501,12 +3501,7 @@ du clou du spectacle... »&lt;/content>
   <property name="global_feed">1</property>
  </producer>
  <playlist id="main_bin">
-  <property name="kdenlive:folder.-1.6">Panneaux</property>
-  <property name="kdenlive:folder.-1.19">YULA</property>
-  <property name="kdenlive:folder.-1.20">DALIDA</property>
-  <property name="kdenlive:folder.-1.29">SANSON</property>
-  <property name="kdenlive:folder.-1.46">POUBELLE</property>
-  <property name="kdenlive:docproperties.activeTrack">7</property>
+  <property name="kdenlive:docproperties.activeTrack">6</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
   <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
@@ -3524,7 +3519,7 @@ du clou du spectacle... »&lt;/content>
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.12.3</property>
-  <property name="kdenlive:docproperties.position">7734</property>
+  <property name="kdenlive:docproperties.position">8183</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">atsc_1080i_50</property>
@@ -3552,19 +3547,24 @@ du clou du spectacle... »&lt;/content>
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">0</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Exports/Chapitre 4/Ch4-19.mp4</property>
+  <property name="kdenlive:docproperties.renderurl">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Exports/Chapitre 4/Ch4-20-attente.mp4</property>
   <property name="kdenlive:docproperties.renderzone">1</property>
-  <property name="kdenlive:docproperties.scrollPos">87900</property>
+  <property name="kdenlive:docproperties.scrollPos">376047</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.storagefolder">/home/commun/Musique/Groupes/BaronsFreaks/LesNouvellesAventuresDesBaronsFreaks/Film/Proxies/ORL/1610619085784</property>
   <property name="kdenlive:docproperties.version">1</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
   <property name="kdenlive:docproperties.videoTarget">-1</property>
-  <property name="kdenlive:docproperties.zonein">0</property>
-  <property name="kdenlive:docproperties.zoneout">7749</property>
-  <property name="kdenlive:docproperties.zoom">2</property>
+  <property name="kdenlive:docproperties.zonein">8181</property>
+  <property name="kdenlive:docproperties.zoneout">8221</property>
+  <property name="kdenlive:docproperties.zoom">0</property>
   <property name="kdenlive:expandedFolders"/>
   <property name="kdenlive:documentnotes"/>
+  <property name="kdenlive:folder.-1.6">Panneaux</property>
+  <property name="kdenlive:folder.-1.19">YULA</property>
+  <property name="kdenlive:folder.-1.20">DALIDA</property>
+  <property name="kdenlive:folder.-1.29">SANSON</property>
+  <property name="kdenlive:folder.-1.46">POUBELLE</property>
   <property name="xml_retain">1</property>
   <entry producer="producer0" in="00:00:00.000" out="00:20:24.800"/>
   <entry producer="producer1" in="00:00:00.000" out="00:00:11.000"/>
@@ -3777,7 +3777,7 @@ du clou du spectacle... »&lt;/content>
   <entry producer="producer55" in="00:03:55.960" out="00:03:59.280">
    <property name="kdenlive:id">57</property>
   </entry>
-  <blank length="00:00:31.000"/>
+  <blank length="00:00:30.720"/>
   <entry producer="producer55" in="00:04:02.080" out="00:04:05.240">
    <property name="kdenlive:id">57</property>
   </entry>
@@ -3787,7 +3787,7 @@ du clou du spectacle... »&lt;/content>
   </entry>
  </playlist>
  <playlist id="playlist5"/>
- <tractor id="tractor2" in="00:00:00.000" out="00:06:44.360">
+ <tractor id="tractor2" in="00:00:00.000" out="00:06:44.080">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">71</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -3876,13 +3876,13 @@ du clou du spectacle... »&lt;/content>
  </producer>
  <playlist id="playlist6">
   <property name="kdenlive:audio_track">1</property>
-  <blank length="00:06:04.800"/>
+  <blank length="00:06:04.520"/>
   <entry producer="producer56" in="00:00:02.480" out="00:00:03.120">
    <property name="kdenlive:id">59</property>
   </entry>
  </playlist>
  <playlist id="playlist7"/>
- <tractor id="tractor3" in="00:00:00.000" out="00:06:05.440">
+ <tractor id="tractor3" in="00:00:00.000" out="00:06:05.160">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">71</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -4023,7 +4023,7 @@ du clou du spectacle... »&lt;/content>
   <property name="set.test_image">0</property>
  </producer>
  <playlist id="playlist8">
-  <blank length="00:05:41.800"/>
+  <blank length="00:05:41.520"/>
   <entry producer="producer57" in="00:00:46.640" out="00:01:42.160">
    <property name="kdenlive:id">45</property>
    <filter id="filter29">
@@ -4054,7 +4054,7 @@ du clou du spectacle... »&lt;/content>
   </entry>
  </playlist>
  <playlist id="playlist9"/>
- <tractor id="tractor4" in="00:00:00.000" out="00:06:58.800">
+ <tractor id="tractor4" in="00:00:00.000" out="00:06:58.520">
   <property name="kdenlive:trackheight">69</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
@@ -5574,7 +5574,7 @@ du clou du spectacle... »&lt;/content>
    </filter>
   </entry>
   <blank length="00:00:05.240"/>
-  <entry producer="producer71" in="00:00:37.880" out="00:00:42.760">
+  <entry producer="producer71" in="00:00:37.880" out="00:00:42.480">
    <property name="kdenlive:id">45</property>
   </entry>
   <blank length="00:00:01.120"/>
@@ -6300,7 +6300,7 @@ du clou du spectacle... »&lt;/content>
   </entry>
  </playlist>
  <playlist id="playlist11"/>
- <tractor id="tractor5" in="00:00:00.000" out="00:06:58.800">
+ <tractor id="tractor5" in="00:00:00.000" out="00:06:58.520">
   <property name="kdenlive:trackheight">71</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
@@ -13669,8 +13669,9 @@ du clou du spectacle... »&lt;/content>
    </filter>
   </entry>
   <blank length="00:00:05.240"/>
-  <entry producer="producer121" in="00:00:12.440" out="00:00:17.320">
+  <entry producer="producer121" in="00:00:12.440" out="00:00:17.040">
    <property name="kdenlive:id">47</property>
+   <property name="kdenlive:activeeffect">1</property>
    <filter id="filter105">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
@@ -13679,7 +13680,7 @@ du clou du spectacle... »&lt;/content>
     <property name="rotation">00:00:12.440=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
-    <property name="kdenlive:collapsed">0</property>
+    <property name="kdenlive:collapsed">1</property>
    </filter>
    <filter id="filter106">
     <property name="mode">alpha</property>
@@ -16283,7 +16284,7 @@ du clou du spectacle... »&lt;/content>
    </filter>
   </entry>
   <blank length="00:00:29.560"/>
-  <entry producer="producer132" in="00:00:03.960" out="00:00:06.160">
+  <entry producer="producer132" in="00:00:03.960" out="00:00:05.160">
    <property name="kdenlive:id">61</property>
    <property name="kdenlive:activeeffect">3</property>
    <filter id="filter75">
@@ -16353,7 +16354,7 @@ du clou du spectacle... »&lt;/content>
             ]
         ]
     ],
-    "154": [
+    "129": [
         [
             [
                 0.2936283185840708,
@@ -16441,7 +16442,7 @@ du clou du spectacle... »&lt;/content>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">1</property>
    </filter>
-   <filter id="filter137" in="00:00:05.560" out="00:00:06.160">
+   <filter id="filter137" in="00:00:04.920" out="00:00:05.160">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -16451,12 +16452,12 @@ du clou du spectacle... »&lt;/content>
     <property name="disable">0</property>
    </filter>
   </entry>
-  <blank length="00:00:00.840"/>
+  <blank length="00:00:01.840"/>
   <entry producer="producer44" in="00:00:00.000" out="00:00:07.000">
    <property name="kdenlive:id">51</property>
   </entry>
   <blank length="00:00:03.200"/>
-  <entry producer="producer133" in="00:00:03.960" out="00:00:06.160">
+  <entry producer="producer133" in="00:00:03.960" out="00:00:05.160">
    <property name="kdenlive:id">61</property>
    <property name="kdenlive:activeeffect">2</property>
    <filter id="filter138">
@@ -16526,7 +16527,7 @@ du clou du spectacle... »&lt;/content>
             ]
         ]
     ],
-    "154": [
+    "129": [
         [
             [
                 0.2936283185840708,
@@ -16616,11 +16617,18 @@ du clou du spectacle... »&lt;/content>
     <property name="kdenlive:collapsed">0</property>
     <property name="disable">0</property>
    </filter>
+   <filter id="filter141" in="00:00:04.880" out="00:00:05.160">
+    <property name="start">1</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_to_black</property>
+    <property name="end">0</property>
+    <property name="alpha">-1</property>
+   </filter>
   </entry>
-  <blank length="00:00:08.240"/>
+  <blank length="00:00:09.240"/>
   <entry producer="producer37" in="00:00:00.000" out="00:00:00.720">
    <property name="kdenlive:id">43</property>
-   <filter id="filter141" out="00:00:00.720">
+   <filter id="filter142" out="00:00:00.720">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_black</property>
@@ -16630,7 +16638,7 @@ du clou du spectacle... »&lt;/content>
   </entry>
  </playlist>
  <playlist id="playlist13"/>
- <tractor id="tractor6" in="00:00:00.000" out="00:06:58.800">
+ <tractor id="tractor6" in="00:00:00.000" out="00:06:58.520">
   <property name="kdenlive:trackheight">71</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
@@ -16651,6 +16659,7 @@ du clou du spectacle... »&lt;/content>
   <property name="kdenlive:collapsed">28</property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
+  <property name="kdenlive:locked_track">1</property>
   <track hide="audio" producer="playlist14"/>
   <track producer="playlist15"/>
  </tractor>
@@ -16748,27 +16757,27 @@ du clou du spectacle... »&lt;/content>
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <filter id="filter142">
+  <filter id="filter143">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter143">
+  <filter id="filter144">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter144">
+  <filter id="filter145">
    <property name="mlt_service">greyscale</property>
    <property name="kdenlive_id">greyscale</property>
    <property name="kdenlive:collapsed">0</property>
    <property name="disable">0</property>
   </filter>
-  <filter id="filter145">
+  <filter id="filter146">
    <property name="delta">5</property>
    <property name="every">5</property>
    <property name="brightnessdelta_up">10</property>
@@ -16781,7 +16790,7 @@ du clou du spectacle... »&lt;/content>
    <property name="kdenlive_id">oldfilm</property>
    <property name="kdenlive:collapsed">0</property>
   </filter>
-  <filter id="filter146">
+  <filter id="filter147">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="disable">1</property>
