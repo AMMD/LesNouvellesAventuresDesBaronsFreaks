@@ -1765,7 +1765,7 @@ vous trouverez du travail  ! »&lt;/content>
  </producer>
  <playlist id="main_bin">
   <property name="kdenlive:folder.-1.27">audio</property>
-  <property name="kdenlive:docproperties.activeTrack">7</property>
+  <property name="kdenlive:docproperties.activeTrack">9</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
   <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
@@ -1825,7 +1825,7 @@ vous trouverez du travail  ! »&lt;/content>
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.12.3</property>
-  <property name="kdenlive:docproperties.position">1265</property>
+  <property name="kdenlive:docproperties.position">2213</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">atsc_1080i_50</property>
@@ -6861,13 +6861,12 @@ vous trouverez du travail  ! »&lt;/content>
   <track producer="playlist17"/>
  </tractor>
  <playlist id="playlist18">
-  <blank length="00:00:04.080"/>
-  <entry producer="producer0" in="00:00:00.000" out="00:01:38.840">
+  <entry producer="producer0" in="00:00:00.000" out="00:01:00.720">
    <property name="kdenlive:id">2</property>
   </entry>
  </playlist>
  <playlist id="playlist19"/>
- <tractor id="tractor9" in="00:00:00.000" out="00:01:42.920">
+ <tractor id="tractor9" in="00:00:00.000" out="00:01:00.720">
   <property name="kdenlive:trackheight">71</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>

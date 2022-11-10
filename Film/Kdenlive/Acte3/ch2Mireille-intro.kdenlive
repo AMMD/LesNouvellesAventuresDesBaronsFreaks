@@ -407,6 +407,138 @@
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
+ <producer id="producer6" in="00:00:00.000" out="00:00:11.080">
+  <property name="length">279</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/nicolas/.cache/kdenlive/proxy/5bb8c1611f1ccc4f70b44f599a246756.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname">Overlay Mireille.mp4</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">9</property>
+  <property name="kdenlive:file_size">7275590</property>
+  <property name="kdenlive:file_hash">5bb8c1611f1ccc4f70b44f599a246756</property>
+  <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/5bb8c1611f1ccc4f70b44f599a246756.mkv</property>
+  <property name="kdenlive:originalurl">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Common/Overlay Mireille.mp4</property>
+  <property name="kdenlive:original.mlt_type">producer</property>
+  <property name="kdenlive:original.in">0</property>
+  <property name="kdenlive:original.out">278</property>
+  <property name="kdenlive:original.length">279</property>
+  <property name="kdenlive:original.eof">pause</property>
+  <property name="kdenlive:original.resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Common/Overlay Mireille.mp4</property>
+  <property name="kdenlive:original.meta.media.nb_streams">2</property>
+  <property name="kdenlive:original.meta.media.0.stream.type">video</property>
+  <property name="kdenlive:original.meta.media.0.stream.frame_rate">30</property>
+  <property name="kdenlive:original.meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.width">1920</property>
+  <property name="kdenlive:original.meta.media.0.codec.height">1080</property>
+  <property name="kdenlive:original.meta.media.0.codec.rotate">0</property>
+  <property name="kdenlive:original.meta.media.0.codec.frame_rate">30</property>
+  <property name="kdenlive:original.meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="kdenlive:original.meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.colorspace">709</property>
+  <property name="kdenlive:original.meta.media.0.codec.color_trc">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.name">h264</property>
+  <property name="kdenlive:original.meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="kdenlive:original.meta.media.0.codec.bit_rate">5217022</property>
+  <property name="kdenlive:original.meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="kdenlive:original.meta.media.1.stream.type">audio</property>
+  <property name="kdenlive:original.meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="kdenlive:original.meta.media.1.codec.sample_rate">48000</property>
+  <property name="kdenlive:original.meta.media.1.codec.channels">2</property>
+  <property name="kdenlive:original.meta.media.1.codec.name">aac</property>
+  <property name="kdenlive:original.meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="kdenlive:original.meta.media.1.codec.bit_rate">2286</property>
+  <property name="kdenlive:original.meta.attr.1.stream.handler_name.markup">SoundHandler</property>
+  <property name="kdenlive:original.meta.attr.major_brand.markup">isom</property>
+  <property name="kdenlive:original.meta.attr.minor_version.markup">512</property>
+  <property name="kdenlive:original.meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="kdenlive:original.meta.attr.encoder.markup">Lavf58.45.100</property>
+  <property name="kdenlive:original.seekable">1</property>
+  <property name="kdenlive:original.width">1920</property>
+  <property name="kdenlive:original.height">1080</property>
+  <property name="kdenlive:original.meta.media.sample_aspect_num">1</property>
+  <property name="kdenlive:original.meta.media.sample_aspect_den">1</property>
+  <property name="kdenlive:original.aspect_ratio">1</property>
+  <property name="kdenlive:original.audio_index">1</property>
+  <property name="kdenlive:original.video_index">0</property>
+  <property name="kdenlive:original.mute_on_pause">0</property>
+  <property name="kdenlive:original.mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:original.kdenlive:folderid">-1</property>
+  <property name="kdenlive:original.meta.media.frame_rate_num">30</property>
+  <property name="kdenlive:original.meta.media.frame_rate_den">1</property>
+  <property name="kdenlive:original.meta.media.colorspace">709</property>
+  <property name="kdenlive:original.meta.media.color_trc">1</property>
+  <property name="kdenlive:original.meta.media.width">1920</property>
+  <property name="kdenlive:original.meta.media.height">1080</property>
+  <property name="kdenlive:original.meta.media.color_range">mpeg</property>
+  <property name="kdenlive:original.kdenlive:id">9</property>
+  <property name="kdenlive:original.kdenlive:file_size">7275590</property>
+  <property name="kdenlive:original.kdenlive:file_hash">5bb8c1611f1ccc4f70b44f599a246756</property>
+  <property name="kdenlive:original.backup">1</property>
+  <property name="global_feed">1</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">1000</property>
+  <property name="meta.media.0.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">601</property>
+  <property name="meta.media.0.codec.name">mjpeg</property>
+  <property name="meta.media.0.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.HANDLER_NAME.markup">VideoHandler</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.91.100 mjpeg</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:00:11.133000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">s16</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">pcm_s16le</property>
+  <property name="meta.media.1.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.1.codec.bit_rate">1536000</property>
+  <property name="meta.attr.1.stream.HANDLER_NAME.markup">SoundHandler</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.91.100 pcm_s16le</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:00:11.136000000</property>
+  <property name="meta.attr.COMPATIBLE_BRANDS.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.MAJOR_BRAND.markup">isom</property>
+  <property name="meta.attr.MINOR_VERSION.markup">512</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.45.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="kdenlive:audio_max">91</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="producer7" in="00:00:00.000" out="00:00:43.080">
+  <property name="length">1078</property>
+  <property name="eof">pause</property>
+  <property name="resource">0x000000ff</property>
+  <property name="aspect_ratio">1</property>
+  <property name="mlt_service">color</property>
+  <property name="kdenlive:clipname">Clip couleur</property>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">10</property>
+  <property name="mlt_image_format">rgb24</property>
+  <property name="kdenlive:file_hash">9196813120dc5c505072516b15baf414</property>
+  <property name="global_feed">1</property>
+ </producer>
  <playlist id="main_bin">
   <property name="kdenlive:docproperties.activeTrack">7</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
@@ -468,7 +600,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.12.3</property>
-  <property name="kdenlive:docproperties.position">1903</property>
+  <property name="kdenlive:docproperties.position">1904</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">/home/nicolas/.local/share/kdenlive/profiles/customprofile4</property>
@@ -496,16 +628,16 @@
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">0</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Exports/Chapitre 2/ch2-2.mp4</property>
+  <property name="kdenlive:docproperties.renderurl">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Exports/Chapitre 2/ch2-1.mp4</property>
   <property name="kdenlive:docproperties.renderzone">1</property>
-  <property name="kdenlive:docproperties.scrollPos">9753</property>
+  <property name="kdenlive:docproperties.scrollPos">3764</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">-1</property>
-  <property name="kdenlive:docproperties.zonein">696</property>
-  <property name="kdenlive:docproperties.zoneout">1904</property>
-  <property name="kdenlive:docproperties.zoom">3</property>
+  <property name="kdenlive:docproperties.videoTarget">2</property>
+  <property name="kdenlive:docproperties.zonein">0</property>
+  <property name="kdenlive:docproperties.zoneout">345</property>
+  <property name="kdenlive:docproperties.zoom">2</property>
   <property name="kdenlive:expandedFolders"/>
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
@@ -516,6 +648,8 @@
   <entry producer="producer3" in="00:00:00.000" out="00:00:09.600"/>
   <entry producer="producer4" in="00:00:00.000" out="00:00:11.920"/>
   <entry producer="producer5" in="00:00:00.000" out="00:01:11.240"/>
+  <entry producer="producer6" in="00:00:00.000" out="00:00:11.080"/>
+  <entry producer="producer7" in="00:00:00.000" out="00:00:04.960"/>
  </playlist>
  <producer id="black_track" in="00:00:00.000" out="00:21:16.160">
   <property name="length">2147483647</property>
@@ -526,7 +660,7 @@
   <property name="mlt_image_format">rgb24a</property>
   <property name="set.test_audio">0</property>
  </producer>
- <producer id="producer6" in="00:00:00.000" out="00:00:38.960">
+ <producer id="producer8" in="00:00:00.000" out="00:00:38.960">
   <property name="length">975</property>
   <property name="eof">pause</property>
   <property name="resource">/home/nicolas/.cache/kdenlive/proxy/ade85532a0a39bcf3a381116906cf411.mkv</property>
@@ -637,7 +771,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer7" in="00:00:00.000" out="00:00:11.920">
+ <producer id="producer9" in="00:00:00.000" out="00:00:11.920">
   <property name="length">299</property>
   <property name="eof">pause</property>
   <property name="resource">/home/nicolas/.cache/kdenlive/proxy/9b6650812c747e6122c4dccab58b69f1.mkv</property>
@@ -748,7 +882,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer id="producer8" in="00:00:00.000" out="00:01:11.240">
+ <producer id="producer10" in="00:00:00.000" out="00:01:11.240">
   <property name="length">1782</property>
   <property name="eof">pause</property>
   <property name="resource">/home/nicolas/.cache/kdenlive/proxy/5fde01ab239e76ca7c95fd98918f2357.mkv</property>
@@ -861,14 +995,14 @@
  </producer>
  <playlist id="playlist0">
   <property name="kdenlive:audio_track">1</property>
-  <entry producer="producer6" in="00:00:23.440" out="00:00:37.200">
+  <entry producer="producer8" in="00:00:23.440" out="00:00:37.200">
    <property name="kdenlive:id">5</property>
   </entry>
   <blank length="00:00:19.200"/>
-  <entry producer="producer7" in="00:00:02.280" out="00:00:08.040">
+  <entry producer="producer9" in="00:00:02.280" out="00:00:08.040">
    <property name="kdenlive:id">7</property>
   </entry>
-  <entry producer="producer7" in="00:00:08.080" out="00:00:08.720">
+  <entry producer="producer9" in="00:00:08.080" out="00:00:08.720">
    <property name="kdenlive:id">7</property>
    <filter id="filter0" in="00:00:08.040" out="00:00:08.720">
     <property name="window">75</property>
@@ -881,7 +1015,7 @@
    </filter>
   </entry>
   <blank length="00:00:00.920"/>
-  <entry producer="producer8" in="00:00:31.800" out="00:01:07.520">
+  <entry producer="producer10" in="00:00:31.800" out="00:01:07.520">
    <property name="kdenlive:id">8</property>
   </entry>
  </playlist>
@@ -959,7 +1093,7 @@
   <track hide="audio" producer="playlist4"/>
   <track producer="playlist5"/>
  </tractor>
- <producer id="producer9" in="00:00:00.000" out="00:00:38.960">
+ <producer id="producer11" in="00:00:00.000" out="00:00:38.960">
   <property name="length">975</property>
   <property name="eof">pause</property>
   <property name="resource">/home/nicolas/.cache/kdenlive/proxy/ade85532a0a39bcf3a381116906cf411.mkv</property>
@@ -1070,7 +1204,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer10" in="00:00:00.000" out="00:00:11.920">
+ <producer id="producer12" in="00:00:00.000" out="00:00:11.920">
   <property name="length">299</property>
   <property name="eof">pause</property>
   <property name="resource">/home/nicolas/.cache/kdenlive/proxy/9b6650812c747e6122c4dccab58b69f1.mkv</property>
@@ -1181,7 +1315,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer11" in="00:00:00.000" out="00:01:11.240">
+ <producer id="producer13" in="00:00:00.000" out="00:01:11.240">
   <property name="length">1782</property>
   <property name="eof">pause</property>
   <property name="resource">/home/nicolas/.cache/kdenlive/proxy/5fde01ab239e76ca7c95fd98918f2357.mkv</property>
@@ -1293,28 +1427,22 @@
   <property name="set.test_image">0</property>
  </producer>
  <playlist id="playlist6">
-  <entry producer="producer9" in="00:00:23.440" out="00:00:37.200">
+  <entry producer="producer11" in="00:00:23.440" out="00:00:37.200">
    <property name="kdenlive:id">5</property>
   </entry>
   <blank length="00:00:19.200"/>
-  <entry producer="producer10" in="00:00:02.280" out="00:00:08.040">
+  <entry producer="producer12" in="00:00:02.280" out="00:00:08.040">
    <property name="kdenlive:id">7</property>
   </entry>
-  <entry producer="producer10" in="00:00:08.080" out="00:00:08.720">
+  <entry producer="producer12" in="00:00:08.080" out="00:00:08.720">
    <property name="kdenlive:id">7</property>
   </entry>
-  <entry producer="producer10" in="00:00:08.080" out="00:00:08.960">
+  <entry producer="producer12" in="00:00:08.080" out="00:00:08.960">
    <property name="kdenlive:id">7</property>
   </entry>
-  <entry producer="producer11" in="00:00:31.800" out="00:01:07.520">
+  <entry producer="producer13" in="00:00:31.800" out="00:01:07.520">
    <property name="kdenlive:id">8</property>
-   <filter id="filter7" in="00:01:04.760" out="00:01:07.520">
-    <property name="start">1</property>
-    <property name="mlt_service">brightness</property>
-    <property name="kdenlive_id">fade_to_black</property>
-    <property name="end">0</property>
-    <property name="alpha">-1</property>
-   </filter>
+   <property name="kdenlive:activeeffect">-1</property>
   </entry>
  </playlist>
  <playlist id="playlist7"/>
@@ -1327,9 +1455,150 @@
   <track hide="audio" producer="playlist6"/>
   <track producer="playlist7"/>
  </tractor>
- <playlist id="playlist8"/>
+ <producer id="producer14" in="00:00:00.000" out="00:00:11.080">
+  <property name="length">279</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/nicolas/.cache/kdenlive/proxy/5bb8c1611f1ccc4f70b44f599a246756.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname">Overlay Mireille.mp4</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">9</property>
+  <property name="kdenlive:file_size">7275590</property>
+  <property name="kdenlive:file_hash">5bb8c1611f1ccc4f70b44f599a246756</property>
+  <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/5bb8c1611f1ccc4f70b44f599a246756.mkv</property>
+  <property name="kdenlive:originalurl">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Common/Overlay Mireille.mp4</property>
+  <property name="kdenlive:original.mlt_type">producer</property>
+  <property name="kdenlive:original.in">0</property>
+  <property name="kdenlive:original.out">278</property>
+  <property name="kdenlive:original.length">279</property>
+  <property name="kdenlive:original.eof">pause</property>
+  <property name="kdenlive:original.resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Common/Overlay Mireille.mp4</property>
+  <property name="kdenlive:original.meta.media.nb_streams">2</property>
+  <property name="kdenlive:original.meta.media.0.stream.type">video</property>
+  <property name="kdenlive:original.meta.media.0.stream.frame_rate">30</property>
+  <property name="kdenlive:original.meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.width">1920</property>
+  <property name="kdenlive:original.meta.media.0.codec.height">1080</property>
+  <property name="kdenlive:original.meta.media.0.codec.rotate">0</property>
+  <property name="kdenlive:original.meta.media.0.codec.frame_rate">30</property>
+  <property name="kdenlive:original.meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="kdenlive:original.meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.colorspace">709</property>
+  <property name="kdenlive:original.meta.media.0.codec.color_trc">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.name">h264</property>
+  <property name="kdenlive:original.meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="kdenlive:original.meta.media.0.codec.bit_rate">5217022</property>
+  <property name="kdenlive:original.meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="kdenlive:original.meta.media.1.stream.type">audio</property>
+  <property name="kdenlive:original.meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="kdenlive:original.meta.media.1.codec.sample_rate">48000</property>
+  <property name="kdenlive:original.meta.media.1.codec.channels">2</property>
+  <property name="kdenlive:original.meta.media.1.codec.name">aac</property>
+  <property name="kdenlive:original.meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="kdenlive:original.meta.media.1.codec.bit_rate">2286</property>
+  <property name="kdenlive:original.meta.attr.1.stream.handler_name.markup">SoundHandler</property>
+  <property name="kdenlive:original.meta.attr.major_brand.markup">isom</property>
+  <property name="kdenlive:original.meta.attr.minor_version.markup">512</property>
+  <property name="kdenlive:original.meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="kdenlive:original.meta.attr.encoder.markup">Lavf58.45.100</property>
+  <property name="kdenlive:original.seekable">1</property>
+  <property name="kdenlive:original.width">1920</property>
+  <property name="kdenlive:original.height">1080</property>
+  <property name="kdenlive:original.meta.media.sample_aspect_num">1</property>
+  <property name="kdenlive:original.meta.media.sample_aspect_den">1</property>
+  <property name="kdenlive:original.aspect_ratio">1</property>
+  <property name="kdenlive:original.audio_index">1</property>
+  <property name="kdenlive:original.video_index">0</property>
+  <property name="kdenlive:original.mute_on_pause">0</property>
+  <property name="kdenlive:original.mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:original.kdenlive:folderid">-1</property>
+  <property name="kdenlive:original.meta.media.frame_rate_num">30</property>
+  <property name="kdenlive:original.meta.media.frame_rate_den">1</property>
+  <property name="kdenlive:original.meta.media.colorspace">709</property>
+  <property name="kdenlive:original.meta.media.color_trc">1</property>
+  <property name="kdenlive:original.meta.media.width">1920</property>
+  <property name="kdenlive:original.meta.media.height">1080</property>
+  <property name="kdenlive:original.meta.media.color_range">mpeg</property>
+  <property name="kdenlive:original.kdenlive:id">9</property>
+  <property name="kdenlive:original.kdenlive:file_size">7275590</property>
+  <property name="kdenlive:original.kdenlive:file_hash">5bb8c1611f1ccc4f70b44f599a246756</property>
+  <property name="kdenlive:original.backup">1</property>
+  <property name="global_feed">1</property>
+  <property name="kdenlive:audio_max">91</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">1000</property>
+  <property name="meta.media.0.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">601</property>
+  <property name="meta.media.0.codec.name">mjpeg</property>
+  <property name="meta.media.0.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.HANDLER_NAME.markup">VideoHandler</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.91.100 mjpeg</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:00:11.133000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">s16</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">pcm_s16le</property>
+  <property name="meta.media.1.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.1.codec.bit_rate">1536000</property>
+  <property name="meta.attr.1.stream.HANDLER_NAME.markup">SoundHandler</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.91.100 pcm_s16le</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:00:11.136000000</property>
+  <property name="meta.attr.COMPATIBLE_BRANDS.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.MAJOR_BRAND.markup">isom</property>
+  <property name="meta.attr.MINOR_VERSION.markup">512</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.45.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
+ <playlist id="playlist8">
+  <entry producer="producer14" in="00:00:00.000" out="00:00:11.120">
+   <property name="kdenlive:id">9</property>
+  </entry>
+  <entry producer="producer14" in="00:00:00.000" out="00:00:02.600">
+   <property name="kdenlive:id">9</property>
+  </entry>
+  <blank length="00:00:19.200"/>
+  <entry producer="producer14" in="00:00:00.000" out="00:00:11.120">
+   <property name="kdenlive:id">9</property>
+  </entry>
+  <entry producer="producer14" in="00:00:00.000" out="00:00:11.120">
+   <property name="kdenlive:id">9</property>
+  </entry>
+  <entry producer="producer14" in="00:00:00.000" out="00:00:11.120">
+   <property name="kdenlive:id">9</property>
+  </entry>
+  <entry producer="producer14" in="00:00:00.000" out="00:00:09.600">
+   <property name="kdenlive:id">9</property>
+  </entry>
+ </playlist>
  <playlist id="playlist9"/>
- <tractor id="tractor4" in="00:00:00.000">
+ <tractor id="tractor4" in="00:00:00.000" out="00:01:16.080">
   <property name="kdenlive:trackheight">33</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
@@ -1338,52 +1607,580 @@
   <track hide="audio" producer="playlist8"/>
   <track producer="playlist9"/>
  </tractor>
- <producer id="producer12" in="00:00:00.000" out="00:00:09.600">
-  <property name="length">00:00:09.640</property>
+ <producer id="producer15" in="00:00:00.000" out="00:00:11.080">
+  <property name="length">279</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Common/Jingle Pub 1/.all.png</property>
-  <property name="ttl">1</property>
-  <property name="aspect_ratio">1</property>
-  <property name="progressive">1</property>
+  <property name="resource">/home/nicolas/.cache/kdenlive/proxy/5bb8c1611f1ccc4f70b44f599a246756.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
   <property name="seekable">1</property>
-  <property name="meta.media.width">1440</property>
-  <property name="meta.media.height">1080</property>
-  <property name="mlt_service">qimage</property>
-  <property name="kdenlive:clipname">Séquence d'images</property>
-  <property name="animation"/>
-  <property name="luma_file"/>
-  <property name="luma_duration">25</property>
-  <property name="fade">0</property>
-  <property name="crop">0</property>
-  <property name="softness">0</property>
-  <property name="loop">0</property>
-  <property name="kdenlive:duration">00:00:09.640</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname">Overlay Mireille.mp4</property>
   <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">6</property>
-  <property name="kdenlive:file_hash">ecca6b6bfb8a3bfe705bfd058fa924e6</property>
+  <property name="kdenlive:id">9</property>
+  <property name="kdenlive:file_size">7275590</property>
+  <property name="kdenlive:file_hash">5bb8c1611f1ccc4f70b44f599a246756</property>
+  <property name="kdenlive:proxy">/home/nicolas/.cache/kdenlive/proxy/5bb8c1611f1ccc4f70b44f599a246756.mkv</property>
+  <property name="kdenlive:originalurl">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Common/Overlay Mireille.mp4</property>
+  <property name="kdenlive:original.mlt_type">producer</property>
+  <property name="kdenlive:original.in">0</property>
+  <property name="kdenlive:original.out">278</property>
+  <property name="kdenlive:original.length">279</property>
+  <property name="kdenlive:original.eof">pause</property>
+  <property name="kdenlive:original.resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Common/Overlay Mireille.mp4</property>
+  <property name="kdenlive:original.meta.media.nb_streams">2</property>
+  <property name="kdenlive:original.meta.media.0.stream.type">video</property>
+  <property name="kdenlive:original.meta.media.0.stream.frame_rate">30</property>
+  <property name="kdenlive:original.meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.width">1920</property>
+  <property name="kdenlive:original.meta.media.0.codec.height">1080</property>
+  <property name="kdenlive:original.meta.media.0.codec.rotate">0</property>
+  <property name="kdenlive:original.meta.media.0.codec.frame_rate">30</property>
+  <property name="kdenlive:original.meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="kdenlive:original.meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.colorspace">709</property>
+  <property name="kdenlive:original.meta.media.0.codec.color_trc">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.name">h264</property>
+  <property name="kdenlive:original.meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="kdenlive:original.meta.media.0.codec.bit_rate">5217022</property>
+  <property name="kdenlive:original.meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="kdenlive:original.meta.media.1.stream.type">audio</property>
+  <property name="kdenlive:original.meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="kdenlive:original.meta.media.1.codec.sample_rate">48000</property>
+  <property name="kdenlive:original.meta.media.1.codec.channels">2</property>
+  <property name="kdenlive:original.meta.media.1.codec.name">aac</property>
+  <property name="kdenlive:original.meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="kdenlive:original.meta.media.1.codec.bit_rate">2286</property>
+  <property name="kdenlive:original.meta.attr.1.stream.handler_name.markup">SoundHandler</property>
+  <property name="kdenlive:original.meta.attr.major_brand.markup">isom</property>
+  <property name="kdenlive:original.meta.attr.minor_version.markup">512</property>
+  <property name="kdenlive:original.meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="kdenlive:original.meta.attr.encoder.markup">Lavf58.45.100</property>
+  <property name="kdenlive:original.seekable">1</property>
+  <property name="kdenlive:original.width">1920</property>
+  <property name="kdenlive:original.height">1080</property>
+  <property name="kdenlive:original.meta.media.sample_aspect_num">1</property>
+  <property name="kdenlive:original.meta.media.sample_aspect_den">1</property>
+  <property name="kdenlive:original.aspect_ratio">1</property>
+  <property name="kdenlive:original.audio_index">1</property>
+  <property name="kdenlive:original.video_index">0</property>
+  <property name="kdenlive:original.mute_on_pause">0</property>
+  <property name="kdenlive:original.mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:original.kdenlive:folderid">-1</property>
+  <property name="kdenlive:original.meta.media.frame_rate_num">30</property>
+  <property name="kdenlive:original.meta.media.frame_rate_den">1</property>
+  <property name="kdenlive:original.meta.media.colorspace">709</property>
+  <property name="kdenlive:original.meta.media.color_trc">1</property>
+  <property name="kdenlive:original.meta.media.width">1920</property>
+  <property name="kdenlive:original.meta.media.height">1080</property>
+  <property name="kdenlive:original.meta.media.color_range">mpeg</property>
+  <property name="kdenlive:original.kdenlive:id">9</property>
+  <property name="kdenlive:original.kdenlive:file_size">7275590</property>
+  <property name="kdenlive:original.kdenlive:file_hash">5bb8c1611f1ccc4f70b44f599a246756</property>
+  <property name="kdenlive:original.backup">1</property>
   <property name="global_feed">1</property>
+  <property name="kdenlive:audio_max">91</property>
   <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">1000</property>
+  <property name="meta.media.0.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">601</property>
+  <property name="meta.media.0.codec.name">mjpeg</property>
+  <property name="meta.media.0.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.HANDLER_NAME.markup">VideoHandler</property>
+  <property name="meta.attr.0.stream.ENCODER.markup">Lavc58.91.100 mjpeg</property>
+  <property name="meta.attr.0.stream.DURATION.markup">00:00:11.133000000</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">s16</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">pcm_s16le</property>
+  <property name="meta.media.1.codec.long_name">PCM signed 16-bit little-endian</property>
+  <property name="meta.media.1.codec.bit_rate">1536000</property>
+  <property name="meta.attr.1.stream.HANDLER_NAME.markup">SoundHandler</property>
+  <property name="meta.attr.1.stream.ENCODER.markup">Lavc58.91.100 pcm_s16le</property>
+  <property name="meta.attr.1.stream.DURATION.markup">00:00:11.136000000</property>
+  <property name="meta.attr.COMPATIBLE_BRANDS.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.MAJOR_BRAND.markup">isom</property>
+  <property name="meta.attr.MINOR_VERSION.markup">512</property>
+  <property name="meta.attr.ENCODER.markup">Lavf58.45.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
  <playlist id="playlist10">
-  <blank length="00:00:38.160"/>
-  <entry producer="producer12" in="00:00:00.000" out="00:00:03.480">
-   <property name="kdenlive:id">6</property>
+  <entry producer="producer15" in="00:00:00.000" out="00:00:11.120">
+   <property name="kdenlive:id">9</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter7">
+    <property name="mode">alpha</property>
+    <property name="alpha_operation">clear</property>
+    <property name="invert">1</property>
+    <property name="feather">28</property>
+    <property name="feather_passes">1</property>
+    <property name="mlt_service">rotoscoping</property>
+    <property name="kdenlive_id">rotoscoping</property>
+    <property name="spline">{
+    "000": [
+        [
+            [
+                0.28972332015810287,
+                0.0035211267605633864
+            ],
+            [
+                0.15019762845849802,
+                0.007042253521126761
+            ],
+            [
+                0.1422924901185771,
+                0.2007042253521127
+            ]
+        ],
+        [
+            [
+                0.1383399209486166,
+                0.778169014084507
+            ],
+            [
+                0.15019762845849802,
+                1.0035211267605635
+            ],
+            [
+                0.29169960474308293,
+                1.002112676056338
+            ]
+        ],
+        [
+            [
+                0.716205533596838,
+                1.0084507042253523
+            ],
+            [
+                0.857707509881423,
+                1.0070422535211268
+            ],
+            [
+                0.8656126482213439,
+                0.7992957746478874
+            ]
+        ],
+        [
+            [
+                0.8695652173913043,
+                0.19014084507042256
+            ],
+            [
+                0.8557312252964427,
+                -0.04225352112676056
+            ],
+            [
+                0.716205533596838,
+                -0.03873239436619719
+            ]
+        ]
+    ]
+}
+</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer15" in="00:00:00.000" out="00:00:02.600">
+   <property name="kdenlive:id">9</property>
    <filter id="filter8">
-    <property name="rotate_center">1</property>
-    <property name="mlt_service">qtblend</property>
-    <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:00.000=950 535 19 10 1.000000;00:00:00.640=0 0 1920 1080 1.000000;00:00:02.320=0 0 1920 1080 1.000000;00:00:03.480=1978 -21 1920 1080 1.000000</property>
-    <property name="rotation">00:00:00.000=0;00:00:00.640=0;00:00:02.320=0;00:00:03.480=0</property>
-    <property name="compositing">0</property>
-    <property name="distort">0</property>
+    <property name="mode">alpha</property>
+    <property name="alpha_operation">clear</property>
+    <property name="invert">1</property>
+    <property name="feather">28</property>
+    <property name="feather_passes">1</property>
+    <property name="mlt_service">rotoscoping</property>
+    <property name="kdenlive_id">rotoscoping</property>
+    <property name="spline">{
+    "000": [
+        [
+            [
+                0.28972332015810287,
+                0.0035211267605633864
+            ],
+            [
+                0.15019762845849802,
+                0.007042253521126761
+            ],
+            [
+                0.1422924901185771,
+                0.2007042253521127
+            ]
+        ],
+        [
+            [
+                0.1383399209486166,
+                0.778169014084507
+            ],
+            [
+                0.15019762845849802,
+                1.0035211267605635
+            ],
+            [
+                0.29169960474308293,
+                1.002112676056338
+            ]
+        ],
+        [
+            [
+                0.716205533596838,
+                1.0084507042253523
+            ],
+            [
+                0.857707509881423,
+                1.0070422535211268
+            ],
+            [
+                0.8656126482213439,
+                0.7992957746478874
+            ]
+        ],
+        [
+            [
+                0.8695652173913043,
+                0.19014084507042256
+            ],
+            [
+                0.8557312252964427,
+                -0.04225352112676056
+            ],
+            [
+                0.716205533596838,
+                -0.03873239436619719
+            ]
+        ]
+    ]
+}
+</property>
+   </filter>
+  </entry>
+  <blank length="00:00:19.200"/>
+  <entry producer="producer15" in="00:00:00.000" out="00:00:11.120">
+   <property name="kdenlive:id">9</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter9">
+    <property name="mode">alpha</property>
+    <property name="alpha_operation">clear</property>
+    <property name="invert">1</property>
+    <property name="feather">28</property>
+    <property name="feather_passes">1</property>
+    <property name="mlt_service">rotoscoping</property>
+    <property name="kdenlive_id">rotoscoping</property>
+    <property name="spline">{
+    "000": [
+        [
+            [
+                0.28972332015810287,
+                0.0035211267605633864
+            ],
+            [
+                0.15019762845849802,
+                0.007042253521126761
+            ],
+            [
+                0.1422924901185771,
+                0.2007042253521127
+            ]
+        ],
+        [
+            [
+                0.1383399209486166,
+                0.778169014084507
+            ],
+            [
+                0.15019762845849802,
+                1.0035211267605635
+            ],
+            [
+                0.29169960474308293,
+                1.002112676056338
+            ]
+        ],
+        [
+            [
+                0.716205533596838,
+                1.0084507042253523
+            ],
+            [
+                0.857707509881423,
+                1.0070422535211268
+            ],
+            [
+                0.8656126482213439,
+                0.7992957746478874
+            ]
+        ],
+        [
+            [
+                0.8695652173913043,
+                0.19014084507042256
+            ],
+            [
+                0.8557312252964427,
+                -0.04225352112676056
+            ],
+            [
+                0.716205533596838,
+                -0.03873239436619719
+            ]
+        ]
+    ]
+}
+</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer15" in="00:00:00.000" out="00:00:11.120">
+   <property name="kdenlive:id">9</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter10">
+    <property name="mode">alpha</property>
+    <property name="alpha_operation">clear</property>
+    <property name="invert">1</property>
+    <property name="feather">28</property>
+    <property name="feather_passes">1</property>
+    <property name="mlt_service">rotoscoping</property>
+    <property name="kdenlive_id">rotoscoping</property>
+    <property name="spline">{
+    "000": [
+        [
+            [
+                0.28972332015810287,
+                0.0035211267605633864
+            ],
+            [
+                0.15019762845849802,
+                0.007042253521126761
+            ],
+            [
+                0.1422924901185771,
+                0.2007042253521127
+            ]
+        ],
+        [
+            [
+                0.1383399209486166,
+                0.778169014084507
+            ],
+            [
+                0.15019762845849802,
+                1.0035211267605635
+            ],
+            [
+                0.29169960474308293,
+                1.002112676056338
+            ]
+        ],
+        [
+            [
+                0.716205533596838,
+                1.0084507042253523
+            ],
+            [
+                0.857707509881423,
+                1.0070422535211268
+            ],
+            [
+                0.8656126482213439,
+                0.7992957746478874
+            ]
+        ],
+        [
+            [
+                0.8695652173913043,
+                0.19014084507042256
+            ],
+            [
+                0.8557312252964427,
+                -0.04225352112676056
+            ],
+            [
+                0.716205533596838,
+                -0.03873239436619719
+            ]
+        ]
+    ]
+}
+</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer15" in="00:00:00.000" out="00:00:11.120">
+   <property name="kdenlive:id">9</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter11">
+    <property name="mode">alpha</property>
+    <property name="alpha_operation">clear</property>
+    <property name="invert">1</property>
+    <property name="feather">28</property>
+    <property name="feather_passes">1</property>
+    <property name="mlt_service">rotoscoping</property>
+    <property name="kdenlive_id">rotoscoping</property>
+    <property name="spline">{
+    "000": [
+        [
+            [
+                0.28972332015810287,
+                0.0035211267605633864
+            ],
+            [
+                0.15019762845849802,
+                0.007042253521126761
+            ],
+            [
+                0.1422924901185771,
+                0.2007042253521127
+            ]
+        ],
+        [
+            [
+                0.1383399209486166,
+                0.778169014084507
+            ],
+            [
+                0.15019762845849802,
+                1.0035211267605635
+            ],
+            [
+                0.29169960474308293,
+                1.002112676056338
+            ]
+        ],
+        [
+            [
+                0.716205533596838,
+                1.0084507042253523
+            ],
+            [
+                0.857707509881423,
+                1.0070422535211268
+            ],
+            [
+                0.8656126482213439,
+                0.7992957746478874
+            ]
+        ],
+        [
+            [
+                0.8695652173913043,
+                0.19014084507042256
+            ],
+            [
+                0.8557312252964427,
+                -0.04225352112676056
+            ],
+            [
+                0.716205533596838,
+                -0.03873239436619719
+            ]
+        ]
+    ]
+}
+</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry producer="producer15" in="00:00:00.000" out="00:00:09.600">
+   <property name="kdenlive:id">9</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter12">
+    <property name="mode">alpha</property>
+    <property name="alpha_operation">clear</property>
+    <property name="invert">1</property>
+    <property name="feather">28</property>
+    <property name="feather_passes">1</property>
+    <property name="mlt_service">rotoscoping</property>
+    <property name="kdenlive_id">rotoscoping</property>
+    <property name="spline">{
+    "000": [
+        [
+            [
+                0.28972332015810287,
+                0.0035211267605633864
+            ],
+            [
+                0.15019762845849802,
+                0.007042253521126761
+            ],
+            [
+                0.1422924901185771,
+                0.2007042253521127
+            ]
+        ],
+        [
+            [
+                0.1383399209486166,
+                0.778169014084507
+            ],
+            [
+                0.15019762845849802,
+                1.0035211267605635
+            ],
+            [
+                0.29169960474308293,
+                1.002112676056338
+            ]
+        ],
+        [
+            [
+                0.716205533596838,
+                1.0084507042253523
+            ],
+            [
+                0.857707509881423,
+                1.0070422535211268
+            ],
+            [
+                0.8656126482213439,
+                0.7992957746478874
+            ]
+        ],
+        [
+            [
+                0.8695652173913043,
+                0.19014084507042256
+            ],
+            [
+                0.8557312252964427,
+                -0.04225352112676056
+            ],
+            [
+                0.716205533596838,
+                -0.03873239436619719
+            ]
+        ]
+    ]
+}
+</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
  </playlist>
  <playlist id="playlist11"/>
- <tractor id="tractor5" in="00:00:00.000" out="00:00:41.640">
+ <tractor id="tractor5" in="00:00:00.000" out="00:01:16.080">
   <property name="kdenlive:trackheight">37</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
@@ -1392,9 +2189,161 @@
   <track hide="audio" producer="playlist10"/>
   <track producer="playlist11"/>
  </tractor>
- <playlist id="playlist12"/>
+ <playlist id="playlist12">
+  <entry producer="producer7" in="00:00:00.000" out="00:00:13.760">
+   <property name="kdenlive:id">10</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter13">
+    <property name="mode">alpha</property>
+    <property name="alpha_operation">clear</property>
+    <property name="invert">1</property>
+    <property name="feather">20</property>
+    <property name="feather_passes">1</property>
+    <property name="mlt_service">rotoscoping</property>
+    <property name="kdenlive_id">rotoscoping</property>
+    <property name="spline">{
+    "0000": [
+        [
+            [
+                -0.0221978021978022,
+                0.18156862745098049
+            ],
+            [
+                -0.01868131868131868,
+                0.04509803921568628
+            ],
+            [
+                0.20813186813186815,
+                0.040392156862745165
+            ]
+        ],
+        [
+            [
+                0.8006593406593405,
+                0.049803921568627486
+            ],
+            [
+                1.0274725274725276,
+                0.04509803921568628
+            ],
+            [
+                1.0230769230769234,
+                0.195686274509804
+            ]
+        ],
+        [
+            [
+                1.031868131868132,
+                0.812156862745098
+            ],
+            [
+                1.0274725274725276,
+                0.9627450980392157
+            ],
+            [
+                0.801538461538461,
+                0.9533333333333333
+            ]
+        ],
+        [
+            [
+                0.20285714285714282,
+                0.9643137254901961
+            ],
+            [
+                -0.023076923076923075,
+                0.9549019607843137
+            ],
+            [
+                -0.019560439560439548,
+                0.8184313725490195
+            ]
+        ]
+    ]
+}
+</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:19.200"/>
+  <entry producer="producer7" in="00:00:00.000" out="00:00:43.080">
+   <property name="kdenlive:id">10</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter14">
+    <property name="mode">alpha</property>
+    <property name="alpha_operation">clear</property>
+    <property name="invert">1</property>
+    <property name="feather">20</property>
+    <property name="feather_passes">1</property>
+    <property name="mlt_service">rotoscoping</property>
+    <property name="kdenlive_id">rotoscoping</property>
+    <property name="spline">{
+    "0000": [
+        [
+            [
+                -0.0221978021978022,
+                0.18156862745098049
+            ],
+            [
+                -0.01868131868131868,
+                0.04509803921568628
+            ],
+            [
+                0.20813186813186815,
+                0.040392156862745165
+            ]
+        ],
+        [
+            [
+                0.8006593406593405,
+                0.049803921568627486
+            ],
+            [
+                1.0274725274725276,
+                0.04509803921568628
+            ],
+            [
+                1.0230769230769234,
+                0.195686274509804
+            ]
+        ],
+        [
+            [
+                1.031868131868132,
+                0.812156862745098
+            ],
+            [
+                1.0274725274725276,
+                0.9627450980392157
+            ],
+            [
+                0.801538461538461,
+                0.9533333333333333
+            ]
+        ],
+        [
+            [
+                0.20285714285714282,
+                0.9643137254901961
+            ],
+            [
+                -0.023076923076923075,
+                0.9549019607843137
+            ],
+            [
+                -0.019560439560439548,
+                0.8184313725490195
+            ]
+        ]
+    ]
+}
+</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+ </playlist>
  <playlist id="playlist13"/>
- <tractor id="tractor6" in="00:00:00.000">
+ <tractor id="tractor6" in="00:00:00.000" out="00:01:16.080">
   <property name="kdenlive:trackheight">71</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
@@ -1403,7 +2352,7 @@
   <track hide="audio" producer="playlist12"/>
   <track producer="playlist13"/>
  </tractor>
- <producer id="producer13" in="00:00:00.000" out="00:00:09.600">
+ <producer id="producer16" in="00:00:00.000" out="00:00:09.600">
   <property name="length">00:00:09.640</property>
   <property name="eof">pause</property>
   <property name="resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Common/Jingle Pub 1/.all.png</property>
@@ -1433,9 +2382,9 @@
  </producer>
  <playlist id="playlist14">
   <blank length="00:00:27.840"/>
-  <entry producer="producer13" in="00:00:00.000" out="00:00:05.120">
+  <entry producer="producer16" in="00:00:00.000" out="00:00:05.120">
    <property name="kdenlive:id">6</property>
-   <filter id="filter9">
+   <filter id="filter15">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -1447,9 +2396,20 @@
     <property name="disable">0</property>
    </filter>
   </entry>
+  <blank length="00:00:40.360"/>
+  <entry producer="producer7" in="00:00:00.000" out="00:00:02.760">
+   <property name="kdenlive:id">10</property>
+   <filter id="filter16" out="00:00:02.800">
+    <property name="start">0</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_from_black</property>
+    <property name="end">1</property>
+    <property name="alpha">-1</property>
+   </filter>
+  </entry>
  </playlist>
  <playlist id="playlist15"/>
- <tractor id="tractor7" in="00:00:00.000" out="00:00:32.960">
+ <tractor id="tractor7" in="00:00:00.000" out="00:01:16.120">
   <property name="kdenlive:trackheight">71</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
@@ -1458,13 +2418,52 @@
   <track hide="audio" producer="playlist14"/>
   <track producer="playlist15"/>
  </tractor>
+ <producer id="producer17" in="00:00:00.000" out="00:00:09.600">
+  <property name="length">00:00:09.640</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/nicolas/Documents/Projets Musique/Barons Freaks/Créa 2020/LesNouvellesAventuresDesBaronsFreaks/Film/Rushes/Common/Jingle Pub 1/.all.png</property>
+  <property name="ttl">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">1440</property>
+  <property name="meta.media.height">1080</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname">Séquence d'images</property>
+  <property name="animation"/>
+  <property name="luma_file"/>
+  <property name="luma_duration">25</property>
+  <property name="fade">0</property>
+  <property name="crop">0</property>
+  <property name="softness">0</property>
+  <property name="loop">0</property>
+  <property name="kdenlive:duration">00:00:09.640</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">6</property>
+  <property name="kdenlive:file_hash">ecca6b6bfb8a3bfe705bfd058fa924e6</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
  <playlist id="playlist16">
-  <entry producer="producer0" in="00:00:00.000" out="00:01:16.120">
-   <property name="kdenlive:id">2</property>
+  <blank length="00:00:38.160"/>
+  <entry producer="producer17" in="00:00:00.000" out="00:00:03.480">
+   <property name="kdenlive:id">6</property>
+   <filter id="filter17">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=950 535 19 10 1.000000;00:00:00.640=0 0 1920 1080 1.000000;00:00:02.320=0 0 1920 1080 1.000000;00:00:03.480=1978 -21 1920 1080 1.000000</property>
+    <property name="rotation">00:00:00.000=0;00:00:00.640=0;00:00:02.320=0;00:00:03.480=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
   </entry>
  </playlist>
  <playlist id="playlist17"/>
- <tractor id="tractor8" in="00:00:00.000" out="00:01:16.120">
+ <tractor id="tractor8" in="00:00:00.000" out="00:00:41.640">
   <property name="kdenlive:trackheight">29</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
@@ -1504,7 +2503,21 @@
    <property name="accepts_blanks">1</property>
    <property name="sum">1</property>
   </transition>
-  <transition id="transition2">
+  <transition id="transition2" in="00:00:33.000" out="00:01:16.120">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="version">0.2</property>
+   <property name="mlt_service">frei0r.multiply</property>
+   <property name="kdenlive_id">frei0r.multiply</property>
+  </transition>
+  <transition id="transition3" out="00:00:13.760">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="version">0.2</property>
+   <property name="mlt_service">frei0r.multiply</property>
+   <property name="kdenlive_id">frei0r.multiply</property>
+  </transition>
+  <transition id="transition4">
    <property name="a_track">0</property>
    <property name="b_track">3</property>
    <property name="compositing">0</property>
@@ -1515,7 +2528,7 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <transition id="transition3">
+  <transition id="transition5">
    <property name="a_track">0</property>
    <property name="b_track">4</property>
    <property name="compositing">0</property>
@@ -1526,7 +2539,7 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <transition id="transition4">
+  <transition id="transition6">
    <property name="a_track">0</property>
    <property name="b_track">5</property>
    <property name="compositing">0</property>
@@ -1537,7 +2550,7 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <transition id="transition5">
+  <transition id="transition7">
    <property name="a_track">0</property>
    <property name="b_track">6</property>
    <property name="compositing">0</property>
@@ -1548,7 +2561,7 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <transition id="transition6">
+  <transition id="transition8">
    <property name="a_track">0</property>
    <property name="b_track">7</property>
    <property name="compositing">0</property>
@@ -1559,7 +2572,7 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <transition id="transition7">
+  <transition id="transition9">
    <property name="a_track">0</property>
    <property name="b_track">8</property>
    <property name="compositing">0</property>
@@ -1570,7 +2583,7 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <transition id="transition8">
+  <transition id="transition10">
    <property name="a_track">0</property>
    <property name="b_track">9</property>
    <property name="compositing">0</property>
@@ -1581,26 +2594,26 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <filter id="filter17">
+  <filter id="filter18">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter18">
+  <filter id="filter19">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter11">
+  <filter id="filter20">
    <property name="mlt_service">greyscale</property>
    <property name="kdenlive_id">greyscale</property>
    <property name="kdenlive:collapsed">0</property>
   </filter>
-  <filter id="filter12">
+  <filter id="filter21">
    <property name="delta">5</property>
    <property name="every">5</property>
    <property name="brightnessdelta_up">10</property>
@@ -1613,7 +2626,7 @@
    <property name="kdenlive_id">oldfilm</property>
    <property name="kdenlive:collapsed">0</property>
   </filter>
-  <filter id="filter10">
+  <filter id="filter22">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="disable">1</property>
