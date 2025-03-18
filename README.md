@@ -1,3 +1,5 @@
+Moved to Framagit, see: https://framagit.org/orlammd/LesNouvellesAventuresDesBaronsFreaks
+
 # LesNouvellesAventuresDesBaronsFreaks
 Nouvelles aventures des Barons Freaks - ciné-concert
 
